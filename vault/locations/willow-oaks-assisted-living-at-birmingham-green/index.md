@@ -8,7 +8,13 @@ google_rating_seed: 4.7
 price_range_seed: "1BR approx. $7,696+/mo; medication management and restaurant-style meals listed. Studio excluded (approx. $8,338)."
 distance_miles_seed: 16
 sub_5k_private_start: false
-all_in_estimate_monthly: null
+all_in_estimate_monthly: 7696
+room_type: "one_bedroom"
+room_rate_monthly: 7696
+price_source_url: "https://www.miradorliving.com/assisted-living/virginia/manassas/willow-oaks-assisted-living-at-birmingham-green"
+price_as_of: "2026-09-24"
+price_confidence: "low"
+price_notes: "Mirador 1BR ~$7,696+; studio ~$8,338 excluded as higher. Selected cheaper 1BR."
 status: stub
 want_to_review_date: null
 visit_date: null
@@ -26,9 +32,17 @@ _Stub from seed. Research and visits fill this in._
 
 -
 
-## Price breakdown
+## Price
 
-_Seed price notes are in front matter (`price_range_seed`). Refine all-in after quotes/visits._
+- **Selected room type:** `one_bedroom`
+- **All-in estimate:** $7,696/mo
+- **Base room rate (if separable):** $7,696/mo
+- **Confidence:** low
+- **As of:** 2026-09-24
+
+Mirador: 1BR ~**$7,696+**/mo; studio ~**$8,338** ([Willow Oaks](https://www.miradorliving.com/assisted-living/virginia/manassas/willow-oaks-assisted-living-at-birmingham-green)). Selected **1BR** (cheaper).
+
+_Seed price text kept in front matter (`price_range_seed`)._
 
 ## Ratings & sentiment
 

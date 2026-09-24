@@ -8,7 +8,13 @@ google_rating_seed: 4.8
 price_range_seed: "Private assisted-living room approx. $7,395+/mo; 5 hrs personal care/week, 3 meals/day and help taking medications included."
 distance_miles_seed: 12
 sub_5k_private_start: false
-all_in_estimate_monthly: null
+all_in_estimate_monthly: 7395
+room_type: "unknown"
+room_rate_monthly: 7395
+price_source_url: "https://www.brightviewseniorliving.com/find-a-community/brightview-dulles-corner/pricing"
+price_as_of: "2026-09-24"
+price_confidence: "medium"
+price_notes: "Private AL ~$7,395+/mo; includes 5 hrs personal care/week, 3 meals/day, med help. Room type not broken out in seed figure."
 status: stub
 want_to_review_date: null
 visit_date: null
@@ -26,9 +32,17 @@ _Stub from seed. Research and visits fill this in._
 
 -
 
-## Price breakdown
+## Price
 
-_Seed price notes are in front matter (`price_range_seed`). Refine all-in after quotes/visits._
+- **Selected room type:** `unknown`
+- **All-in estimate:** $7,395/mo
+- **Base room rate (if separable):** $7,395/mo
+- **Confidence:** medium
+- **As of:** 2026-09-24
+
+Brightview pricing page / seed: private assisted living ~**$7,395+**/mo including 5 hrs personal care/week, 3 meals/day, and help taking medications ([Brightview Dulles Corner pricing](https://www.brightviewseniorliving.com/find-a-community/brightview-dulles-corner/pricing)). Confirm studio vs 1BR on quote.
+
+_Seed price text kept in front matter (`price_range_seed`)._
 
 ## Ratings & sentiment
 

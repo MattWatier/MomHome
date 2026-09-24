@@ -8,7 +8,13 @@ google_rating_seed: 4.2
 price_range_seed: "Small studio $6,550+/mo; large studio $7,050+/mo; 3 chef-prepared meals/day and medication-management support available. Shared $8,550 option excluded."
 distance_miles_seed: 64
 sub_5k_private_start: false
-all_in_estimate_monthly: null
+all_in_estimate_monthly: 6650
+room_type: "studio"
+room_rate_monthly: 6650
+price_source_url: "https://celebrationvillaofmartinsburg.com/floor-plans-pricing/"
+price_as_of: "2026-09-24"
+price_confidence: "high"
+price_notes: "Official: small studio $6,650; large studio $7,150; shared suite $8,650 excluded. No private 1BR listed. Meals; med management via care."
 status: stub
 want_to_review_date: null
 visit_date: null
@@ -26,9 +32,17 @@ _Stub from seed. Research and visits fill this in._
 
 -
 
-## Price breakdown
+## Price
 
-_Seed price notes are in front matter (`price_range_seed`). Refine all-in after quotes/visits._
+- **Selected room type:** `studio`
+- **All-in estimate:** $6,650/mo
+- **Base room rate (if separable):** $6,650/mo
+- **Confidence:** high
+- **As of:** 2026-09-24
+
+Official floor plans: small studio **$6,650**/mo, large studio **$7,150**/mo, shared two-room suite **$8,650** (excluded) ([Celebration Villa floor plans & pricing](https://celebrationvillaofmartinsburg.com/floor-plans-pricing/)). Selected **small studio** (cheapest private). No private 1BR published.
+
+_Seed price text kept in front matter (`price_range_seed`)._
 
 ## Ratings & sentiment
 

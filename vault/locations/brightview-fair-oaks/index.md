@@ -8,7 +8,13 @@ google_rating_seed: 4.8
 price_range_seed: "Approx. $5,800-$7,335/mo (studio/1BR estimates); 5 hrs personal care/week, 3 meals/day and help taking medications included."
 distance_miles_seed: 8
 sub_5k_private_start: false
-all_in_estimate_monthly: null
+all_in_estimate_monthly: 5800
+room_type: "studio"
+room_rate_monthly: 5800
+price_source_url: "https://www.seniorly.com/assisted-living/virginia/fairfax/brightview-fair-oaks-fairfax"
+price_as_of: "2026-09-24"
+price_confidence: "medium"
+price_notes: "No $ on Brightview pricing page. Seniorly: studio ~$5,800; 1BR ~$6,700. Mirador 1BR $7,335+. Selected cheaper studio. Includes ~5 hrs care/week + meals + med help per Brightview AL model."
 status: stub
 want_to_review_date: null
 visit_date: null
@@ -26,9 +32,17 @@ _Stub from seed. Research and visits fill this in._
 
 -
 
-## Price breakdown
+## Price
 
-_Seed price notes are in front matter (`price_range_seed`). Refine all-in after quotes/visits._
+- **Selected room type:** `studio`
+- **All-in estimate:** $5,800/mo
+- **Base room rate (if separable):** $5,800/mo
+- **Confidence:** medium
+- **As of:** 2026-09-24
+
+Official Brightview Fair Oaks pricing page describes AL inclusions (5 hrs care/week, 3 meals, med help) but no dollar amounts ([Brightview pricing](https://www.brightviewseniorliving.com/find-a-community/brightview-fair-oaks/pricing)). Third-party: Seniorly studio **$5,800** / 1BR **$6,700** ([Seniorly](https://www.seniorly.com/assisted-living/virginia/fairfax/brightview-fair-oaks-fairfax)); Mirador lists 1BR **$7,335+** ([Mirador](https://www.miradorliving.com/assisted-living/virginia/fairfax/brightview-fair-oaks-fairfax)). Selected **studio** (cheaper qualifying option; both over ~$5k).
+
+_Seed price text kept in front matter (`price_range_seed`)._
 
 ## Ratings & sentiment
 

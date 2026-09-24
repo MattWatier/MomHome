@@ -8,7 +8,13 @@ google_rating_seed: 4.1
 price_range_seed: "Studio $3,100+/mo; 1BR $3,400+/mo; 2BR $4,300+/mo base. Three meals/day included; medication management available but priced separately with assessed care."
 distance_miles_seed: 18
 sub_5k_private_start: true
-all_in_estimate_monthly: null
+all_in_estimate_monthly: 3400
+room_type: "one_bedroom"
+room_rate_monthly: 3400
+price_source_url: "https://www.sunriseseniorliving.com/communities/va/sunrise-of-springfield"
+price_as_of: "2026-09-24"
+price_confidence: "high"
+price_notes: "Official: studio $3,200+; 1BR $3,400+; 2BR $4,200+. Prefer 1BR under $5k. Care + med fees extra."
 status: stub
 want_to_review_date: null
 visit_date: null
@@ -26,9 +32,17 @@ _Stub from seed. Research and visits fill this in._
 
 -
 
-## Price breakdown
+## Price
 
-_Seed price notes are in front matter (`price_range_seed`). Refine all-in after quotes/visits._
+- **Selected room type:** `one_bedroom`
+- **All-in estimate:** $3,400/mo
+- **Base room rate (if separable):** $3,400/mo
+- **Confidence:** high
+- **As of:** 2026-09-24
+
+Official: AL **studio $3,200+**, **1BR $3,400+**, **2BR $4,200+** ([Sunrise of Springfield](https://www.sunriseseniorliving.com/communities/va/sunrise-of-springfield)). Selected **1BR**. Base includes meals/programs/housekeeping; care and med management extra.
+
+_Seed price text kept in front matter (`price_range_seed`)._
 
 ## Ratings & sentiment
 

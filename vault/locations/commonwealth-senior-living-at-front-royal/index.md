@@ -8,7 +8,13 @@ google_rating_seed: 4.9
 price_range_seed: "Suite $235/day (~$7,050/mo); deluxe suite $248/day (~$7,440); 1BR $264/day (~$7,920), incl. Level 1 care. Higher care may exceed $8k."
 distance_miles_seed: 56
 sub_5k_private_start: false
-all_in_estimate_monthly: null
+all_in_estimate_monthly: 7050
+room_type: "unknown"
+room_rate_monthly: 7050
+price_source_url: "https://www.commonwealthsl.com/commonwealth-senior-living-at-front-royal"
+price_as_of: "2026-09-24"
+price_confidence: "medium"
+price_notes: "Suite $235/day (~$7,050/mo) Level 1; deluxe $248/day; 1BR $264/day (~$7,920). Selected cheapest suite. Higher care may exceed $8k."
 status: stub
 want_to_review_date: null
 visit_date: null
@@ -26,9 +32,17 @@ _Stub from seed. Research and visits fill this in._
 
 -
 
-## Price breakdown
+## Price
 
-_Seed price notes are in front matter (`price_range_seed`). Refine all-in after quotes/visits._
+- **Selected room type:** `unknown`
+- **All-in estimate:** $7,050/mo
+- **Base room rate (if separable):** $7,050/mo
+- **Confidence:** medium
+- **As of:** 2026-09-24
+
+Published daily rates (seed/operator): suite **$235/day (~$7,050/mo)**, deluxe **$248/day**, 1BR **$264/day (~$7,920)** including Level 1 care ([Commonwealth Front Royal](https://www.commonwealthsl.com/commonwealth-senior-living-at-front-royal)). Selected suite (cheapest). Confirm current private studio/1BR.
+
+_Seed price text kept in front matter (`price_range_seed`)._
 
 ## Ratings & sentiment
 

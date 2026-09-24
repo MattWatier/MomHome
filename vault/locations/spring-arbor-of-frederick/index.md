@@ -8,7 +8,13 @@ google_rating_seed: 4.7
 price_range_seed: "Private studio $6,947/mo; 1BR alcove $7,872/mo. Standard 1BR excluded ($8,121). 3 meals/day and medication management offered."
 distance_miles_seed: 44
 sub_5k_private_start: false
-all_in_estimate_monthly: null
+all_in_estimate_monthly: 6947
+room_type: "studio"
+room_rate_monthly: 6947
+price_source_url: "https://www.springarborliving.com/md/frederick/spring-arbor-of-frederick/"
+price_as_of: "2026-09-24"
+price_confidence: "medium"
+price_notes: "Private studio $6,947; 1BR alcove $7,872; standard 1BR $8,121 excluded. Selected studio. Meals + med management offered."
 status: stub
 want_to_review_date: null
 visit_date: null
@@ -26,9 +32,17 @@ _Stub from seed. Research and visits fill this in._
 
 -
 
-## Price breakdown
+## Price
 
-_Seed price notes are in front matter (`price_range_seed`). Refine all-in after quotes/visits._
+- **Selected room type:** `studio`
+- **All-in estimate:** $6,947/mo
+- **Base room rate (if separable):** $6,947/mo
+- **Confidence:** medium
+- **As of:** 2026-09-24
+
+Published: private studio **$6,947**/mo; 1BR alcove **$7,872**; standard 1BR **$8,121** (excluded as over stretch preference) ([Spring Arbor of Frederick](https://www.springarborliving.com/md/frederick/spring-arbor-of-frederick/)). Selected **studio**.
+
+_Seed price text kept in front matter (`price_range_seed`)._
 
 ## Ratings & sentiment
 

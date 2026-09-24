@@ -8,7 +8,13 @@ google_rating_seed: N/A
 price_range_seed: "1BR approx. $6,494+/mo; medication management and restaurant-style meal service listed. Confirm current total <= $8k."
 distance_miles_seed: 55
 sub_5k_private_start: false
-all_in_estimate_monthly: null
+all_in_estimate_monthly: 6494
+room_type: "one_bedroom"
+room_rate_monthly: 6494
+price_source_url: "https://www.miradorliving.com/assisted-living/virginia/culpeper/our-fathers-house-christian-home"
+price_as_of: "2026-09-24"
+price_confidence: "low"
+price_notes: "Mirador 1BR ~$6,494+/mo; meals and med management listed."
 status: stub
 want_to_review_date: null
 visit_date: null
@@ -26,9 +32,17 @@ _Stub from seed. Research and visits fill this in._
 
 -
 
-## Price breakdown
+## Price
 
-_Seed price notes are in front matter (`price_range_seed`). Refine all-in after quotes/visits._
+- **Selected room type:** `one_bedroom`
+- **All-in estimate:** $6,494/mo
+- **Base room rate (if separable):** $6,494/mo
+- **Confidence:** low
+- **As of:** 2026-09-24
+
+Mirador listing: 1BR approx. **$6,494+**/mo ([Our Father's House](https://www.miradorliving.com/assisted-living/virginia/culpeper/our-fathers-house-christian-home)).
+
+_Seed price text kept in front matter (`price_range_seed`)._
 
 ## Ratings & sentiment
 
