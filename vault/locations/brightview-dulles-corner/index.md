@@ -15,6 +15,8 @@ price_source_url: "https://www.brightviewseniorliving.com/find-a-community/brigh
 price_as_of: "2026-09-24"
 price_confidence: "medium"
 price_notes: "Private AL ~$7,395+/mo; includes 5 hrs personal care/week, 3 meals/day, med help. Room type not broken out in seed figure."
+phone_seed: "571-548-3139"
+contact_source_seed: "https://www.brightviewseniorliving.com/find-a-community/brightview-dulles-corner"
 status: stub
 want_to_review_date: null
 visit_date: null

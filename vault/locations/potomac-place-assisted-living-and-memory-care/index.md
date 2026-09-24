@@ -15,6 +15,8 @@ price_source_url: "https://www.potomacplace.com/"
 price_as_of: "2026-09-24"
 price_confidence: "low"
 price_notes: "Third-party estimate: 1BR ~$4,800+; studio ~$5,200+. Prefer 1BR under $5k. Confirm with community."
+phone_seed: "703-494-3817"
+contact_source_seed: "https://www.potomacplace.com/"
 status: stub
 want_to_review_date: null
 visit_date: null

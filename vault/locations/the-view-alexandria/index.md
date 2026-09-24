@@ -15,6 +15,9 @@ price_source_url: "https://theviewalexandria.org/care-options/assisted-living/"
 price_as_of: "2026-09-24"
 price_confidence: "high"
 price_notes: "Official AL from $4,586/mo includes 3 meals, programs, weekly housekeeping, linen, 1 parking. Personal care + med management via individualized plan (extra). Studios–2BRs offered."
+phone_seed: "703-797-3844"
+email_seed: "Info@GoodwinLiving.org"
+contact_source_seed: "https://theviewalexandria.org/contact/"
 status: stub
 want_to_review_date: null
 visit_date: null

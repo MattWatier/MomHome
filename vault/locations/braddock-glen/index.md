@@ -15,6 +15,9 @@ price_source_url: "https://www.sunriseseniorliving.com/communities/va/braddock-g
 price_as_of: "2026-09-24"
 price_confidence: "high"
 price_notes: "Official: studio $3,300+; 1BR $3,500+. Selected 1BR (under $5k). Meals/housekeeping in room rate; care level + med management priced separately. Income limits may apply (FCRHA)."
+phone_seed: "571-895-3500"
+email_seed: "rha@fairfaxcounty.gov"
+contact_source_seed: "https://www.fcrha.org/properties/braddock-glen-assisted-living/1"
 status: stub
 want_to_review_date: null
 visit_date: null

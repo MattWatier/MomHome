@@ -15,6 +15,8 @@ price_source_url: "https://www.sunriseseniorliving.com/communities/va/sunrise-of
 price_as_of: "2026-09-24"
 price_confidence: "medium"
 price_notes: "Official starting $3,500+. Seed: 1BR $3,400+; studio $3,500+. Prefer 1BR under $5k. Care + med fees extra."
+phone_seed: "703-348-1022"
+contact_source_seed: "https://www.sunriseseniorliving.com/communities/va/sunrise-of-alexandria"
 status: stub
 want_to_review_date: null
 visit_date: null

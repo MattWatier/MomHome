@@ -14,7 +14,10 @@ room_rate_monthly: 5000
 price_source_url: "https://sternlifeassistedliving.com/"
 price_as_of: "2026-09-24"
 price_confidence: "low"
-price_notes: "Private room ~$5,000–$6,500/mo; higher care +$1,000. Includes med admin + 3 meals. Selected low end."
+price_notes: "Private room ~$5,000–$6,500/mo; higher care +$1,000. Includes med admin + 3 meals. Selected low end. Seed conflict: sub_5k_private_start=No while researched all_in_estimate_monthly=5000 (boundary); kept researched estimate."
+phone_seed: "240-610-3769"
+email_seed: "enquiries@sternlifeassistedliving.com"
+contact_source_seed: "https://sternlifeassistedliving.com/"
 status: stub
 want_to_review_date: null
 visit_date: null

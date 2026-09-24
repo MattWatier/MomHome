@@ -15,6 +15,8 @@ price_source_url: "https://www.harmonyseniorservices.com/community/harmony-at-ma
 price_as_of: "2026-09-24"
 price_confidence: "medium"
 price_notes: "AL from $4,520–$4,600/mo base; chef meals included; med management via care level. Room type not specified — confirm studio vs 1BR."
+phone_seed: "304-596-0783"
+contact_source_seed: "https://www.harmonyseniorservices.com/community/harmony-at-martinsburg/"
 status: stub
 want_to_review_date: null
 visit_date: null

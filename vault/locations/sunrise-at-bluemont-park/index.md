@@ -15,6 +15,8 @@ price_source_url: "https://www.sunriseseniorliving.com/communities/va/sunrise-at
 price_as_of: "2026-09-24"
 price_confidence: "medium"
 price_notes: "Official starting $4,900+. Seed had studio $4,530 / 1BR $5,533 — prefer studio under $5k (1BR over). Care + med fees extra."
+phone_seed: "703-348-1048"
+contact_source_seed: "https://www.sunriseseniorliving.com/communities/va/sunrise-at-bluemont-park"
 status: stub
 want_to_review_date: null
 visit_date: null

@@ -15,6 +15,9 @@ price_source_url: "https://www.commonwealthsl.com/commonwealth-senior-living-at-
 price_as_of: "2026-09-24"
 price_confidence: "medium"
 price_notes: "Suite $235/day (~$7,050/mo) Level 1; deluxe $248/day; 1BR $264/day (~$7,920). Selected cheapest suite. Higher care may exceed $8k."
+phone_seed: "540-551-7041"
+email_seed: "frontroyal@commonwealthsl.com"
+contact_source_seed: "https://www.commonwealthsl.com/commonwealth-senior-living-at-front-royal"
 status: stub
 want_to_review_date: null
 visit_date: null

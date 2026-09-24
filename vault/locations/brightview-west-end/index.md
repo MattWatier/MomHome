@@ -15,6 +15,8 @@ price_source_url: "https://www.brightviewseniorliving.com/find-a-community/brigh
 price_as_of: "2026-09-24"
 price_confidence: "low"
 price_notes: "Suite ~$5,200+/mo from seed/listings; med management and meals listed. Confirm AL private studio/1BR."
+phone_seed: "240-866-2524"
+contact_source_seed: "https://www.brightviewseniorliving.com/find-a-community/brightview-west-end"
 status: stub
 want_to_review_date: null
 visit_date: null

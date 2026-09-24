@@ -15,6 +15,8 @@ price_source_url: "https://www.harmonyseniorservices.com/community/harmony-at-sp
 price_as_of: "2026-09-24"
 price_confidence: "medium"
 price_notes: "AL apartments from $3,900/mo; chef meals included; med assistance via AL care. Confirm studio vs 1BR under $5k."
+phone_seed: "571-348-4970"
+contact_source_seed: "https://www.harmonyseniorservices.com/community/harmony-at-spring-hill/"
 status: stub
 want_to_review_date: null
 visit_date: null

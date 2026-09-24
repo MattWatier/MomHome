@@ -15,6 +15,9 @@ price_source_url: "https://www.miradorliving.com/assisted-living/virginia/manass
 price_as_of: "2026-09-24"
 price_confidence: "low"
 price_notes: "Mirador 1BR ~$7,696+; studio ~$8,338 excluded as higher. Selected cheaper 1BR."
+phone_seed: "703-257-6264"
+email_seed: "info@birminghamgreen.org"
+contact_source_seed: "https://birminghamgreen.org/admissions/"
 status: stub
 want_to_review_date: null
 visit_date: null

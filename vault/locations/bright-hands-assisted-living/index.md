@@ -14,7 +14,10 @@ room_rate_monthly: 5000
 price_source_url: "https://brighthandsmd.com/"
 price_as_of: "2026-09-24"
 price_confidence: "medium"
-price_notes: "From $5,000/mo all-inclusive private room per seed/operator site messaging: 3 meals, med admin, 24/7 care, housekeeping. Studio vs 1BR not published."
+price_notes: "From $5,000/mo all-inclusive private room per seed/operator site messaging: 3 meals, med admin, 24/7 care, housekeeping. Studio vs 1BR not published. Seed conflict: sub_5k_private_start=No while researched all_in_estimate_monthly=5000 (boundary); kept researched estimate."
+phone_seed: "301-871-1021"
+email_seed: "brighthandsassistedliving@gmail.com"
+contact_source_seed: "https://brighthandsmd.com/locations"
 status: stub
 want_to_review_date: null
 visit_date: null

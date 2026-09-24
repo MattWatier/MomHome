@@ -1,0 +1,137 @@
+filters:
+  and:
+    - file.inFolder("locations")
+    - 'file.name == "index.md"'
+    - 'example != true'
+
+formulas:
+  under_5k: 'if(all_in_estimate_monthly, all_in_estimate_monthly <= 5000, false)'
+  price_label: 'if(all_in_estimate_monthly, "$" + all_in_estimate_monthly.toString() + "/mo", "unknown")'
+
+properties:
+  name:
+    displayName: Name
+  uid:
+    displayName: UID
+  all_in_estimate_monthly:
+    displayName: All-in $/mo
+  room_type:
+    displayName: Room type
+  sub_5k_private_start:
+    displayName: Seed sub-$5k?
+  distance_miles_seed:
+    displayName: Miles
+  google_rating_seed:
+    displayName: Google ★
+  status:
+    displayName: Status
+  phone_seed:
+    displayName: Phone
+  formula.under_5k:
+    displayName: Under $5k
+  formula.price_label:
+    displayName: Price
+
+views:
+  - type: table
+    name: All locations
+    order:
+      - name
+      - uid
+      - all_in_estimate_monthly
+      - room_type
+      - sub_5k_private_start
+      - distance_miles_seed
+      - google_rating_seed
+      - status
+      - phone_seed
+    sort:
+      - property: all_in_estimate_monthly
+        direction: ASC
+
+  - type: table
+    name: Under $5k
+    filters:
+      and:
+        - 'all_in_estimate_monthly != null'
+        - 'all_in_estimate_monthly <= 5000'
+    order:
+      - name
+      - all_in_estimate_monthly
+      - room_type
+      - distance_miles_seed
+      - google_rating_seed
+      - uid
+    sort:
+      - property: all_in_estimate_monthly
+        direction: ASC
+
+  - type: table
+    name: Unknown price
+    filters:
+      or:
+        - 'all_in_estimate_monthly == null'
+        - 'price_confidence == "none"'
+    order:
+      - name
+      - uid
+      - price_range_seed
+      - status
+      - distance_miles_seed
+
+  - type: table
+    name: By room type
+    order:
+      - room_type
+      - name
+      - all_in_estimate_monthly
+      - distance_miles_seed
+      - uid
+    groupBy:
+      property: room_type
+      direction: ASC
+    sort:
+      - property: all_in_estimate_monthly
+        direction: ASC
+
+  - type: table
+    name: By distance
+    order:
+      - distance_miles_seed
+      - name
+      - all_in_estimate_monthly
+      - room_type
+      - uid
+    sort:
+      - property: distance_miles_seed
+        direction: ASC
+
+  - type: table
+    name: One-bedrooms
+    filters:
+      and:
+        - 'room_type == "one_bedroom"'
+    order:
+      - name
+      - all_in_estimate_monthly
+      - distance_miles_seed
+      - google_rating_seed
+      - uid
+    sort:
+      - property: all_in_estimate_monthly
+        direction: ASC
+
+  - type: table
+    name: Studios
+    filters:
+      and:
+        - 'room_type == "studio"'
+    order:
+      - name
+      - all_in_estimate_monthly
+      - distance_miles_seed
+      - google_rating_seed
+      - uid
+    sort:
+      - property: all_in_estimate_monthly
+        direction: ASC

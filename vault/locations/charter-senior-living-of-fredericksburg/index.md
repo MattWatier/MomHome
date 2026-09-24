@@ -15,6 +15,8 @@ price_source_url: "https://www.charterfredericksburg.com/floor-plans/"
 price_as_of: "2026-09-24"
 price_confidence: "high"
 price_notes: "Official: private studio $4,995; 1BR $7,495 (over $5k — not preferred). Includes 3 meals, utilities, housekeeping. Med/care levels may add."
+phone_seed: "540-409-4529"
+contact_source_seed: "https://www.charterfredericksburg.com/contact-us/"
 status: stub
 want_to_review_date: null
 visit_date: null

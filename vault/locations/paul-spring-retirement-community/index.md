@@ -15,6 +15,9 @@ price_source_url: "https://www.miradorliving.com/assisted-living/virginia/alexan
 price_as_of: "2026-09-24"
 price_confidence: "low"
 price_notes: "Mirador: 1BR ~$7,015+; studio ~$7,599+. Selected cheaper 1BR."
+phone_seed: "703-768-0234"
+email_seed: "Anne-Michele.Maher@rui.net"
+contact_source_seed: "https://www.rui.net/our-locations/"
 status: stub
 want_to_review_date: null
 visit_date: null

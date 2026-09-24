@@ -15,6 +15,8 @@ price_source_url: "https://www.sunriseseniorliving.com/communities/va/sunrise-of
 price_as_of: "2026-09-24"
 price_confidence: "high"
 price_notes: "Official: AL studio-class $6,200+; larger suites $9,000+/$9,700+. 1BR over $8k stretch — selected studio. Care + med fees extra."
+phone_seed: "703-468-8968"
+contact_source_seed: "https://www.sunriseseniorliving.com/communities/va/sunrise-of-vienna"
 status: stub
 want_to_review_date: null
 visit_date: null

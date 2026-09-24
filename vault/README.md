@@ -1,5 +1,17 @@
 # Vault conventions
 
+## Obsidian
+
+**Open this folder as the vault:** `/Users/mattwatier/Repo/MomHome/vault`
+
+That is the folder that contains `.obsidian/` plus `locations/`, `_queues/`, and `_templates/`. Do **not** open the repo root, and do **not** open a nested folder such as `MomHome/` (those were empty decoy vaults).
+
+After opening `vault/`, you should see `locations/` with one folder per facility (`index.md` inside each).
+
+**Filter locations:** open `Locations overview.base` (see `Locations overview README.md`).
+
+## Conventions
+
 1. **Folder per location:** `locations/<slug>/index.md` is primary; optional siblings `reviews.md`, `inspections.md`, `visits.md`.
 2. **UID** from seed in front matter; slug = safe name; never rewrite `_data/do not edit`.
 3. **Scannable fields in YAML;** long-form only in body (overview, pros/cons, price table, ratings, red flags, inspections/visits rollups).

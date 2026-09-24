@@ -15,6 +15,8 @@ price_source_url: "https://www.seniorly.com/assisted-living/virginia/fairfax/bri
 price_as_of: "2026-09-24"
 price_confidence: "medium"
 price_notes: "No $ on Brightview pricing page. Seniorly: studio ~$5,800; 1BR ~$6,700. Mirador 1BR $7,335+. Selected cheaper studio. Includes ~5 hrs care/week + meals + med help per Brightview AL model."
+phone_seed: "571-496-8367"
+contact_source_seed: "https://www.brightviewseniorliving.com/find-a-community/brightview-fair-oaks"
 status: stub
 want_to_review_date: null
 visit_date: null

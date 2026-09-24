@@ -15,6 +15,8 @@ price_source_url: "https://www.sunriseseniorliving.com/communities/va/sunrise-at
 price_as_of: "2026-09-24"
 price_confidence: "medium"
 price_notes: "Official starting $4,700+. Seed studio $4,900+. Care + med fees extra. Room-type dollars not fully broken out on fetch."
+phone_seed: "703-996-4570"
+contact_source_seed: "https://www.sunriseseniorliving.com/communities/va/sunrise-at-mount-vernon"
 status: stub
 want_to_review_date: null
 visit_date: null

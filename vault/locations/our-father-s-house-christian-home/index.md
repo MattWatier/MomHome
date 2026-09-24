@@ -15,6 +15,8 @@ price_source_url: "https://www.miradorliving.com/assisted-living/virginia/culpep
 price_as_of: "2026-09-24"
 price_confidence: "low"
 price_notes: "Mirador 1BR ~$6,494+/mo; meals and med management listed."
+phone_seed: "540-727-8292"
+contact_source_seed: "https://www.miradorliving.com/assisted-living/virginia/culpeper/our-fathers-house-christian-home"
 status: stub
 want_to_review_date: null
 visit_date: null

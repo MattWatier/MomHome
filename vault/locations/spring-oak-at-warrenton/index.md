@@ -15,6 +15,9 @@ price_source_url: "https://www.springoakliving.com/warrenton"
 price_as_of: "2026-09-24"
 price_confidence: "medium"
 price_notes: "AL from $5,875/mo; studios and 1BRs available; meals included. Confirm which room type at that start and med package."
+phone_seed: "540-347-6000"
+email_seed: "warrenton@springoakliving.com"
+contact_source_seed: "https://www.springoakliving.com/contact"
 status: stub
 want_to_review_date: null
 visit_date: null

@@ -15,6 +15,8 @@ price_source_url: "https://www.sunriseseniorliving.com/communities/va/sunrise-at
 price_as_of: "2026-09-24"
 price_confidence: "high"
 price_notes: "Official: studio $4,500+; 1BR $6,300+. Prefer studio under $5k. Meals included; care + med fees extra."
+phone_seed: "571-290-4970"
+contact_source_seed: "https://www.sunriseseniorliving.com/communities/va/sunrise-at-silas-burke-house"
 status: stub
 want_to_review_date: null
 visit_date: null

@@ -15,6 +15,8 @@ price_source_url: "https://www.sunriseseniorliving.com/communities/md/bedford-co
 price_as_of: "2026-09-24"
 price_confidence: "low"
 price_notes: "Official CCRC rooms start $3,500 (likely IL). Seed/third-party AL studio ~$7,418+; care fees may add. Prefer AL studio estimate for screening."
+phone_seed: "240-681-2022"
+contact_source_seed: "https://www.sunriseseniorliving.com/communities/md/bedford-court"
 status: stub
 want_to_review_date: null
 visit_date: null

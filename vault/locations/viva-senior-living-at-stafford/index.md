@@ -15,6 +15,8 @@ price_source_url: "https://www.vivaseniorliving.com/stafford"
 price_as_of: "2026-09-24"
 price_confidence: "medium"
 price_notes: "Private AL suite $6,000+/mo base; dining offered; additional care fees. Confirm studio vs 1BR."
+phone_seed: "540-288-9353"
+contact_source_seed: "https://www.vivaseniorliving.com/stafford"
 status: stub
 want_to_review_date: null
 visit_date: null

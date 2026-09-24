@@ -15,6 +15,8 @@ price_source_url: "https://www.arborcompany.com/locations/virginia/manassas-sudl
 price_as_of: "2026-09-24"
 price_confidence: "medium"
 price_notes: "Official AL apartments start $4,260. Seniorly lists private from $3,695 and 1BR from $3,995 (secondary). Meals/meds typically via care tier; confirm all-in."
+phone_seed: "703-392-9797"
+contact_source_seed: "https://www.arborcompany.com/locations/virginia/manassas-sudley-manor"
 status: stub
 want_to_review_date: null
 visit_date: null

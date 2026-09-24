@@ -15,6 +15,8 @@ price_source_url: "https://www.brookdale.com/en/communities/brookdale-lake-ridge
 price_as_of: "2026-09-24"
 price_confidence: "medium"
 price_notes: "Private AL apartment $5,445+/mo base; dining included; med management offered; personalized care fees extra — true all-in higher."
+phone_seed: "703-680-0600"
+contact_source_seed: "https://www.brookdale.com/en/communities/brookdale-lake-ridge.html"
 status: stub
 want_to_review_date: null
 visit_date: null

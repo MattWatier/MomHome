@@ -15,6 +15,8 @@ price_source_url: "https://www.brookdale.com/en/communities/brookdale-potomac.ht
 price_as_of: "2026-09-24"
 price_confidence: "medium"
 price_notes: "Private AL apartment $5,740+/mo base; dining included; care fees extra."
+phone_seed: "301-765-9198"
+contact_source_seed: "https://www.brookdale.com/en/communities/brookdale-potomac.html"
 status: stub
 want_to_review_date: null
 visit_date: null

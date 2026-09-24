@@ -15,6 +15,9 @@ price_source_url: "https://www.springarborliving.com/md/frederick/spring-arbor-o
 price_as_of: "2026-09-24"
 price_confidence: "medium"
 price_notes: "Private studio $6,947; 1BR alcove $7,872; standard 1BR $8,121 excluded. Selected studio. Meals + med management offered."
+phone_seed: "240-290-4762"
+email_seed: "frdkreception@springarborliving.com"
+contact_source_seed: "https://www.allegroliving.com/communities/frederick"
 status: stub
 want_to_review_date: null
 visit_date: null

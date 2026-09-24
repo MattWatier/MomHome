@@ -15,6 +15,8 @@ price_source_url: "https://www.thevillageatorchardridge.org/assisted-living-comm
 price_as_of: "2026-09-24"
 price_confidence: "low"
 price_notes: "AL estimated from ~$5,016/mo; private 1BR-style apartments; meals and med management listed."
+phone_seed: "540-503-3629"
+contact_source_seed: "https://www.thevillageatorchardridge.org/request-info/"
 status: stub
 want_to_review_date: null
 visit_date: null

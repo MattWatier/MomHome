@@ -15,6 +15,8 @@ price_source_url: "https://www.mylivingchoice.com/property/edenton-retirement-co
 price_as_of: "2026-09-24"
 price_confidence: "low"
 price_notes: "Studio base ~$6,050–$6,150 + care $1,050–$1,650 → all-in ~$7,100–$7,800. Used low end of all-in range."
+phone_seed: "301-694-3100"
+contact_source_seed: "https://npiprofile.com/npi/1962484857"
 status: stub
 want_to_review_date: null
 visit_date: null

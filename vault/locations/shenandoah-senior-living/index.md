@@ -15,6 +15,9 @@ price_source_url: "https://www.miradorliving.com/assisted-living/virginia/front-
 price_as_of: "2026-09-24"
 price_confidence: "low"
 price_notes: "Mirador: 1BR ~$6,067+; studio ~$6,572+. Selected cheaper 1BR."
+phone_seed: "540-291-7721"
+email_seed: "Marketing@ShenandoahSL.com"
+contact_source_seed: "https://royalexaminer.com/directory/"
 status: stub
 want_to_review_date: null
 visit_date: null

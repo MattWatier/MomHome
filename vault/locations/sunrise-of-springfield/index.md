@@ -15,6 +15,8 @@ price_source_url: "https://www.sunriseseniorliving.com/communities/va/sunrise-of
 price_as_of: "2026-09-24"
 price_confidence: "high"
 price_notes: "Official: studio $3,200+; 1BR $3,400+; 2BR $4,200+. Prefer 1BR under $5k. Care + med fees extra."
+phone_seed: "703-996-4624"
+contact_source_seed: "https://www.sunriseseniorliving.com/communities/va/sunrise-of-springfield"
 status: stub
 want_to_review_date: null
 visit_date: null
