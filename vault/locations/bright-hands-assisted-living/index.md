@@ -84,7 +84,9 @@ _Seed price text kept in front matter (`price_range_seed`)._
 
 ## Inspections
 
-_Do not invent. Use inspection-pull skill (DSS + VDH)._
+See [inspections.md](inspections.md) (pulled 2026-09-25).
+
+**Quick flags:** Maryland home — **no VA DSS/VDH**. MD OHCQ license **AL-00806**, Level 3, capacity 5. Ask for the latest **OHCQ survey report** on the tour (not published online like VA DSS).
 
 ## Visits
 

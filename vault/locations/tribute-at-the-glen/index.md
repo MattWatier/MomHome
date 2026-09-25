@@ -97,7 +97,9 @@ _Seed price text kept in front matter (`price_range_seed`)._
 
 ## Inspections
 
-_Do not invent. Use inspection-pull skill (DSS + VDH)._
+See [inspections.md](inspections.md) (DSS + VDH pull, 2026-09-25).
+
+**Quick flags:** Spring 2026 DSS monitoring cluster — elopement/secure-unit, overnight meds miss, staffing gaps, unsecured oven on secure unit. VDH kitchen permitted but late-2025 sanitizer/warewash/hand-sink issues. Ask what changed.
 
 ## Visits
 
