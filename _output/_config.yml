@@ -1,63 +1,25 @@
-name: Deploy MomHome to GitHub Pages
+title: MomHome
+description: Family planning site for assisted living near Vienna Metro, Virginia.
+url: ""
+baseurl: ""
 
-on:
-  push:
-    branches:
-    - main
-  workflow_dispatch:
+collections:
+  locations:
+    output: true
+    permalink: /locations/:slug/
 
+defaults:
+  - scope:
+      path: ""
+      type: locations
+    values:
+      layout: location
 
-permissions:
-  contents: read
-  pages: write
-  id-token: write
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
 
-concurrency:
-  group: pages
-  cancel-in-progress: true
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-    - name: Check out repository
-      uses: actions/checkout@v4
-
-    - name: Set up Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: "3.x"
-
-    - name: Export vault content to Jekyll
-      run: python scripts/export_vault_to_jekyll.py
-
-    - name: Configure GitHub Pages
-      id: pages
-      uses: actions/configure-pages@v5
-
-    - name: Set up Ruby
-      uses: ruby/setup-ruby@v1
-      with:
-        ruby-version: "3.3"
-        bundler-cache: true
-        working-directory: _output
-
-    - name: Build Jekyll site
-      working-directory: _output
-      run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
-
-    - name: Upload Pages artifact
-      uses: actions/upload-pages-artifact@v3
-      with:
-        path: _output/_site
-
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
-    - name: Deploy to GitHub Pages
-      id: deployment
-      uses: actions/deploy-pages@v4
+sass:
+  style: compressed
