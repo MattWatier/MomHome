@@ -19,6 +19,12 @@ contact_person_seed: null
 phone_seed: null
 email_seed: null
 contact_source_seed: null
+web_form_link_seed: null
+quoted_monthly_price_seed: null
+medication_fee_seed: null
+waitlist_seed: null
+notes_seed: null
+published_info_source_seed: null
 status: stub
 want_to_review_date: null
 visit_date: null

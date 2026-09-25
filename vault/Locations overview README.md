@@ -10,6 +10,7 @@ Bases is enabled as a core plugin. Switch views on the toolbar:
 - **By room type** / **One-bedrooms** / **Studios**
 - **Material red flags** — `review_material_red_flags: true`
 - **By distance** — `distance_miles_seed`
+- **Waitlist notes** — non-empty `waitlist_seed` from Matt’s outreach columns
 
 ## If the Base looks empty
 

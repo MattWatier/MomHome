@@ -18,6 +18,11 @@ price_notes: "Suite $235/day (~$7,050/mo) Level 1; deluxe $248/day; 1BR $264/day
 phone_seed: "540-551-7041"
 email_seed: "frontroyal@commonwealthsl.com"
 contact_source_seed: "https://www.commonwealthsl.com/commonwealth-senior-living-at-front-royal"
+web_form_link_seed: "https://www.commonwealthsl.com/commonwealth-senior-living-at-front-royal"
+quoted_monthly_price_seed: "Published: private Assisted Living suite $235/day (~$7,050 per 30 days); deluxe suite $248/day (~$7,440); 1BR $264/day (~$7,920)"
+medication_fee_seed: "Level 1 care included in published room price; additional care services extra, medication-specific fee not published"
+notes_seed: "Official floor-plan page states displayed prices include Level 1 care."
+published_info_source_seed: "https://www.commonwealthsl.com/commonwealth-senior-living-at-front-royal/floor-plans"
 status: stub
 want_to_review_date: null
 visit_date: null

@@ -11,7 +11,7 @@ description: >-
 ## Hard rules
 
 - **Read-only** on `_data/do not edit/` (and any file inside it). Never mutate, overwrite, rename, or delete seed files.
-- Write only under `vault/locations/<slug>/`.
+- Write only under `vault/locations/<slug>/` (repo-relative). Obsidian opens **`vault/`** as the vault root, so these notes appear as `locations/<slug>/` in the file explorer.
 - **Stubs only** — do not invent inspections, reviews, visit notes, or all-in prices beyond what the seed row states.
 - One primary file: `vault/locations/<slug>/index.md`. Do not create empty `reviews.md` / `inspections.md` / `visits.md` unless asked.
 - Skip rows with blank `UID` or blank `Location name`.
@@ -34,10 +34,20 @@ Path: `_data/do not edit/vienna_assisted_living_expanded_with_uid.csv`
 | `Price range (single occupancy)` | `price_range_seed` |
 | `Est. driving distance from 9500 Lagersfield Cir (mi)` | `distance_miles_seed` |
 | `Sub-$5k private starting rate?` | `sub_5k_private_start` (`true`/`false` from Yes/No) |
+| `Contact person` | `contact_person_seed` |
+| `Phone` | `phone_seed` |
+| `Email` | `email_seed` |
+| `Contact source` | `contact_source_seed` |
+| `Web form link` | `web_form_link_seed` |
+| `Quoted monthly price` | `quoted_monthly_price_seed` |
+| `Medication fee` | `medication_fee_seed` |
+| `Waitlist` | `waitlist_seed` |
+| `Notes` | `notes_seed` |
+| `Published info source` | `published_info_source_seed` |
 
-Do **not** copy the home street address from the distance column header into vault notes. Search anchor remains Vienna Metro (see project context).
+Do **not** copy the home street address from the distance column header into vault notes. Search anchor remains Vienna Metro (see project context). Leave `Called` / `Date contacted` empty until a real outreach pass.
 
-Always set: `status: stub`, `example: false`. Leave research fields null/empty (`all_in_estimate_monthly`, queue dates).
+Always set: `status: stub`, `example: false`. Leave research fields null/empty (`all_in_estimate_monthly`, queue dates) unless a later price-estimates pass fills them.
 
 ## Slug
 

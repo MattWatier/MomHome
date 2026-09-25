@@ -17,6 +17,12 @@ price_confidence: "high"
 price_notes: "Official: studio $3,200+; 1BR $3,400+; 2BR $4,200+. Prefer 1BR under $5k. Care + med fees extra."
 phone_seed: "703-996-4624"
 contact_source_seed: "https://www.sunriseseniorliving.com/communities/va/sunrise-of-springfield"
+web_form_link_seed: "https://www.sunriseseniorliving.com/communities/va/sunrise-of-springfield"
+quoted_monthly_price_seed: "Published: studio $3,100+/mo; 1BR $3,400+/mo; 2BR $4,300+/mo base"
+medication_fee_seed: Priced separately from care level; amount not published
+waitlist_seed: Limited availability
+notes_seed: "Base monthly cost includes fresh meals, activities, housekeeping, laundry, trash removal, safety alert system and program transportation."
+published_info_source_seed: "https://www.sunriseseniorliving.com/communities/va/sunrise-of-springfield"
 review_google_rating: 4.3
 review_google_count: 25
 review_yelp_rating: 3.0

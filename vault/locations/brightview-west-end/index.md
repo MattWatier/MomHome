@@ -17,6 +17,10 @@ price_confidence: "low"
 price_notes: "Suite ~$5,200+/mo from seed/listings; med management and meals listed. Confirm AL private studio/1BR."
 phone_seed: "240-866-2524"
 contact_source_seed: "https://www.brightviewseniorliving.com/find-a-community/brightview-west-end"
+web_form_link_seed: "https://www.brightviewseniorliving.com/find-a-community/brightview-west-end/pricing"
+medication_fee_seed: "No separate medication fee published; assistance taking medications is included within assisted-living services"
+notes_seed: "Assisted Living rate includes 5 hours of personal care per week and three chef-prepared meals per day. Price amount is gated behind the official pricing form."
+published_info_source_seed: "https://www.brightviewseniorliving.com/find-a-community/brightview-west-end/pricing"
 review_google_rating: 4.7
 review_google_count: 81
 review_yelp_rating: null

@@ -17,6 +17,10 @@ price_confidence: "medium"
 price_notes: "Private AL ~$7,395+/mo; includes 5 hrs personal care/week, 3 meals/day, med help. Room type not broken out in seed figure."
 phone_seed: "571-548-3139"
 contact_source_seed: "https://www.brightviewseniorliving.com/find-a-community/brightview-dulles-corner"
+web_form_link_seed: "https://www.brightviewseniorliving.com/find-a-community/brightview-dulles-corner/pricing"
+medication_fee_seed: "No separate medication fee published; assistance taking medications is included within assisted-living services"
+notes_seed: "Assisted Living rate includes 5 hours of personal care per week and three chef-prepared meals per day. Price amount is gated behind the official pricing form."
+published_info_source_seed: "https://www.brightviewseniorliving.com/find-a-community/brightview-dulles-corner/pricing"
 status: stub
 want_to_review_date: null
 visit_date: null

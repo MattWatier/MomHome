@@ -17,6 +17,12 @@ price_confidence: "medium"
 price_notes: "Official starting $4,700+. Seed studio $4,900+. Care + med fees extra. Room-type dollars not fully broken out on fetch."
 phone_seed: "703-996-4570"
 contact_source_seed: "https://www.sunriseseniorliving.com/communities/va/sunrise-at-mount-vernon"
+web_form_link_seed: "https://www.sunriseseniorliving.com/communities/va/sunrise-at-mount-vernon"
+quoted_monthly_price_seed: "Published: studio $4,900+/mo base; 2BR $5,400+/mo base"
+medication_fee_seed: Priced separately from care level; amount not published
+waitlist_seed: Limited availability
+notes_seed: "Base room rate excludes assessed care; medication management is an assisted-living service."
+published_info_source_seed: "https://www.sunriseseniorliving.com/communities/va/sunrise-at-mount-vernon"
 review_google_rating: 4.6
 review_google_count: 44
 review_yelp_rating: null

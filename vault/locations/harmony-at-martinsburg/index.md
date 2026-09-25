@@ -17,6 +17,11 @@ price_confidence: "medium"
 price_notes: "AL from $4,520–$4,600/mo base; chef meals included; med management via care level. Room type not specified — confirm studio vs 1BR."
 phone_seed: "304-596-0783"
 contact_source_seed: "https://www.harmonyseniorservices.com/community/harmony-at-martinsburg/"
+web_form_link_seed: "https://www.harmonyseniorservices.com/community/harmony-at-martinsburg/contact-us/"
+quoted_monthly_price_seed: "Published: Assisted Living starts at $4,520/mo"
+medication_fee_seed: Medication management may be included through assessed care level; separate fee not published
+notes_seed: "Pricing is made up of rent plus care. Base rent includes chef-prepared meals, housekeeping, laundry, maintenance and 24-hour staff support."
+published_info_source_seed: "https://www.harmonyseniorservices.com/community/harmony-at-martinsburg/assisted-living/ | https://www.harmonyseniorservices.com/community/harmony-at-martinsburg/contact-us/"
 review_google_rating: 4.6
 review_google_count: 29
 review_yelp_rating: 3.0

@@ -18,6 +18,9 @@ price_notes: "Mirador: 1BR ~$7,015+; studio ~$7,599+. Selected cheaper 1BR."
 phone_seed: "703-768-0234"
 email_seed: "Anne-Michele.Maher@rui.net"
 contact_source_seed: "https://www.rui.net/our-locations/"
+web_form_link_seed: "https://www.rui.net/location/contact-us/"
+notes_seed: "RUI's official locations page identifies Paul Spring and provides a Book a Tour path; community-specific pricing is not publicly posted."
+published_info_source_seed: "https://www.rui.net/our-locations/ | https://www.rui.net/location/contact-us/"
 status: stub
 want_to_review_date: null
 visit_date: null

@@ -17,6 +17,12 @@ price_confidence: "medium"
 price_notes: "Official starting $3,500+. Seed: 1BR $3,400+; studio $3,500+. Prefer 1BR under $5k. Care + med fees extra."
 phone_seed: "703-348-1022"
 contact_source_seed: "https://www.sunriseseniorliving.com/communities/va/sunrise-of-alexandria"
+web_form_link_seed: "https://www.sunriseseniorliving.com/communities/va/sunrise-of-alexandria"
+quoted_monthly_price_seed: "Published: $3,400+/mo base"
+medication_fee_seed: Priced separately from care level; amount not published
+waitlist_seed: Limited availability
+notes_seed: "Base room rate excludes assessed care. Medication management is an assisted-living service."
+published_info_source_seed: "https://www.sunriseseniorliving.com/communities/va/sunrise-of-alexandria"
 review_google_rating: 4.2
 review_google_count: 24
 review_yelp_rating: 2.7
@@ -51,7 +57,7 @@ example: false
 
 ## Overview
 
-_Stub from seed. Research and visits fill this in._
+Our commitment to enhancing the quality of life for our residents is evident in our comprehensive range of amenities. From our certified dementia care programs tailored to individual needs to our climate-controlled living spaces, every detail is thoughtfully planned. Residents can enjoy a variety of engaging activities, including group exercise classes and wellness sessions, fostering a community spirit. The convenience of on-site therapy services, including physical, occupational, and speech therapy, ensures that your loved one's health needs are met within the comfort of our community. Plus, with amenities like a pet-friendly secured dog park and restaurant-style dining, Sunrise of Alexandria truly feels like home.
 
 ## Pros / cons
 

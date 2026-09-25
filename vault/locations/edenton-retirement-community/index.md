@@ -14,9 +14,15 @@ room_rate_monthly: 6050
 price_source_url: "https://www.mylivingchoice.com/property/edenton-retirement-community"
 price_as_of: "2026-09-24"
 price_confidence: "low"
-price_notes: "Studio base ~$6,050–$6,150 + care $1,050–$1,650 → all-in ~$7,100–$7,800. Used low end of all-in range."
+price_notes: "Studio base ~$6,050–$6,150 + care $1,050–$1,650 → all-in ~$7,100–$7,800. Used low end of all-in range. | seed conflict 2026-09-24: quoted_monthly_price_seed starts near $6050 vs researched all_in=7100 (kept researched; seed quote noted)"
 phone_seed: "301-694-3100"
-contact_source_seed: "https://npiprofile.com/npi/1962484857"
+contact_source_seed: "https://edentonfrederick.com/assisted-living/"
+quoted_monthly_price_seed: "Published: studio $6,050-$6,150/mo + assessed care level $1,050-$1,650/mo"
+medication_fee_seed: "Medication administration included within assessed care level; care level costs $1,050-$1,650/mo"
+notes_seed: "One-time community fee $3,000. Room/all meals/snacks/housekeeping/laundry plus personal care are described in the assisted-living package."
+published_info_source_seed: "https://edentonfrederick.com/assisted-living/"
+email_seed: "info@edentonfrederick.com"
+contact_person_seed: Jennifer (availability contact; last name not published)
 status: stub
 want_to_review_date: null
 visit_date: null

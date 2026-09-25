@@ -14,10 +14,16 @@ room_rate_monthly: 5000
 price_source_url: "https://sternlifeassistedliving.com/"
 price_as_of: "2026-09-24"
 price_confidence: "low"
-price_notes: "From $5,000/mo includes med admin, 3 meals, 24/7 supervision, personal care. Confirm private-room Walnut rate. Seed conflict: sub_5k_private_start=No while researched all_in_estimate_monthly=5000 (boundary); kept researched estimate."
+price_notes: "From $5,000/mo includes med admin, 3 meals, 24/7 supervision, personal care. Confirm private-room Walnut rate. Seed conflict: sub_5k_private_start=No while researched all_in_estimate_monthly=5000 (boundary); kept researched estimate. | seed conflict 2026-09-24: Sub-$5k private starting rate?=No while researched all_in_estimate_monthly=5000 (kept researched)"
 phone_seed: "240-610-3769"
 email_seed: "enquiries@sternlifeassistedliving.com"
 contact_source_seed: "https://sternlifeassistedliving.com/"
+web_form_link_seed: "https://sternlifeassistedliving.com/"
+quoted_monthly_price_seed: "Published: Walnut Street from $5,000/mo"
+medication_fee_seed: Included in monthly rate
+notes_seed: "Monthly rate includes medication administration, three meals plus snacks, 24-hour supervision, ADL help, housekeeping and laundry."
+published_info_source_seed: "https://sternlifeassistedliving.com/"
+contact_person_seed: "Rebecca Yeboah, BSN (Assisted Living Manager)"
 review_google_rating: null
 review_google_count: null
 review_yelp_rating: null

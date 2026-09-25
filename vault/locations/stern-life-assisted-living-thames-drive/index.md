@@ -14,10 +14,16 @@ room_rate_monthly: 5000
 price_source_url: "https://sternlifeassistedliving.com/"
 price_as_of: "2026-09-24"
 price_confidence: "low"
-price_notes: "Private room ~$5,000–$6,500/mo; higher care +$1,000. Includes med admin + 3 meals. Selected low end. Seed conflict: sub_5k_private_start=No while researched all_in_estimate_monthly=5000 (boundary); kept researched estimate."
+price_notes: "Private room ~$5,000–$6,500/mo; higher care +$1,000. Includes med admin + 3 meals. Selected low end. Seed conflict: sub_5k_private_start=No while researched all_in_estimate_monthly=5000 (boundary); kept researched estimate. | seed conflict 2026-09-24: Sub-$5k private starting rate?=No while researched all_in_estimate_monthly=5000 (kept researched) | seed conflict 2026-09-24: quoted_monthly_price_seed starts near $4500 vs researched all_in=5000 (kept researched; seed quote noted)"
 phone_seed: "240-610-3769"
 email_seed: "enquiries@sternlifeassistedliving.com"
 contact_source_seed: "https://sternlifeassistedliving.com/"
+web_form_link_seed: "https://sternlifeassistedliving.com/"
+quoted_monthly_price_seed: "Published: Thames Drive from $4,500/mo"
+medication_fee_seed: Included in monthly rate
+notes_seed: "Monthly rate includes medication administration, three meals plus snacks, 24-hour supervision, ADL help, housekeeping and laundry."
+published_info_source_seed: "https://sternlifeassistedliving.com/"
+contact_person_seed: "Rebecca Yeboah, BSN (Assisted Living Manager)"
 review_google_rating: 5.0
 review_google_count: null
 review_yelp_rating: null

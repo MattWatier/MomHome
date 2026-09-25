@@ -18,6 +18,10 @@ price_notes: "Mirador 1BR ~$7,696+; studio ~$8,338 excluded as higher. Selected 
 phone_seed: "703-257-6264"
 email_seed: "info@birminghamgreen.org"
 contact_source_seed: "https://birminghamgreen.org/admissions/"
+web_form_link_seed: "https://birminghamgreen.org/contact-us/"
+medication_fee_seed: "Medication management is included as an assisted-living service; separate fee not published"
+notes_seed: "Willow Oaks serves financially eligible residents and is connected to Virginia's Auxiliary Grant program. Admission requires assessment/eligibility review."
+published_info_source_seed: "https://birminghamgreen.org/services/assisted-living/ | https://birminghamgreen.org/admissions/"
 status: stub
 want_to_review_date: null
 visit_date: null

@@ -17,6 +17,11 @@ price_confidence: "high"
 price_notes: "Official: AL studio $4,100+; 2BR $5,900+ (no 1BR listed). Selected studio. Care + med fees extra."
 phone_seed: "703-348-1033"
 contact_source_seed: "https://www.sunriseseniorliving.com/communities/va/sunrise-of-arlington"
+web_form_link_seed: "https://www.sunriseseniorliving.com/communities/va/sunrise-of-arlington"
+quoted_monthly_price_seed: "Published: studio $4,000+/mo base"
+medication_fee_seed: Care/medication costs not included in base room rate; amount not published
+notes_seed: "Room rate includes selected services such as meals, programming, housekeeping and trash removal; assessed care is additional."
+published_info_source_seed: "https://www.sunriseseniorliving.com/communities/va/sunrise-of-arlington"
 review_google_rating: 4.5
 review_google_count: 34
 review_yelp_rating: 3.7

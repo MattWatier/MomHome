@@ -17,6 +17,12 @@ price_confidence: "high"
 price_notes: "Official: studio $4,500+; 1BR $6,300+. Prefer studio under $5k. Meals included; care + med fees extra."
 phone_seed: "571-290-4970"
 contact_source_seed: "https://www.sunriseseniorliving.com/communities/va/sunrise-at-silas-burke-house"
+web_form_link_seed: "https://www.sunriseseniorliving.com/communities/va/sunrise-at-silas-burke-house"
+quoted_monthly_price_seed: "Published: $4,400+/mo base"
+medication_fee_seed: Priced separately from care level; amount not published
+waitlist_seed: Limited availability
+notes_seed: "Base cost includes fresh meals, activities, housekeeping, laundry, trash removal, safety alert system and program transportation."
+published_info_source_seed: "https://www.sunriseseniorliving.com/communities/va/sunrise-at-silas-burke-house"
 review_google_rating: 3.9
 review_google_count: 15
 review_yelp_rating: null

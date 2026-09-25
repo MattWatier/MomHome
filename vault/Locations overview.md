@@ -107,3 +107,21 @@ WHERE file.name = "index" AND example != true
   AND review_material_red_flags = true
 SORT all_in_estimate_monthly ASC
 ```
+
+## Waitlist notes (seed)
+
+```dataview
+TABLE WITHOUT ID
+  file.link AS Location,
+  name AS Name,
+  waitlist_seed AS Waitlist,
+  phone_seed AS Phone,
+  contact_person_seed AS Contact,
+  all_in_estimate_monthly AS "All-in $/mo",
+  uid AS UID
+FROM "locations"
+WHERE file.name = "index" AND example != true
+  AND waitlist_seed != null
+  AND waitlist_seed != ""
+SORT name ASC
+```

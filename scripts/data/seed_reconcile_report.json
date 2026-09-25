@@ -1,0 +1,998 @@
+{
+  "seed_file": "_data/do not edit/vienna_assisted_living_expanded_with_uid.csv",
+  "sha256": "2970ff77352c1aac7e9a61fe42d87cb406d8a012e594befe3b1bc64fc964d7d6",
+  "seed_uids": 41,
+  "vault_uids": 41,
+  "new_stubs": [
+    {
+      "uid": "AL-0040",
+      "slug": "arbor-terrace-herndon",
+      "path": "vault/locations/arbor-terrace-herndon/index.md"
+    },
+    {
+      "uid": "AL-0041",
+      "slug": "arbor-terrace-prince-william-commons",
+      "path": "vault/locations/arbor-terrace-prince-william-commons/index.md"
+    }
+  ],
+  "flood_fills": [
+    {
+      "uid": "AL-0001",
+      "field": "web_form_link_seed",
+      "value": "https://www.sunriseseniorliving.com/communities/va/sunrise-of-vienna"
+    },
+    {
+      "uid": "AL-0001",
+      "field": "quoted_monthly_price_seed",
+      "value": "Published: $5,989+/mo base"
+    },
+    {
+      "uid": "AL-0001",
+      "field": "medication_fee_seed",
+      "value": "Priced separately from care level; amount not published"
+    },
+    {
+      "uid": "AL-0001",
+      "field": "waitlist_seed",
+      "value": "Limited availability"
+    },
+    {
+      "uid": "AL-0001",
+      "field": "notes_seed",
+      "value": "Base room rate excludes assessed care. Meals and selected services are included in room rate."
+    },
+    {
+      "uid": "AL-0001",
+      "field": "published_info_source_seed",
+      "value": "https://www.sunriseseniorliving.com/communities/va/sunrise-of-vienna"
+    },
+    {
+      "uid": "AL-0002",
+      "field": "quoted_monthly_price_seed",
+      "value": "Published: $112-$116/day base (~$3,360-$3,480 per 30 days); Plus care +$22/day; Plus-Plus +$42/day"
+    },
+    {
+      "uid": "AL-0002",
+      "field": "medication_fee_seed",
+      "value": "Level 1 $10/day; Level 2 $18/day; Level 3 $22/day"
+    },
+    {
+      "uid": "AL-0002",
+      "field": "waitlist_seed",
+      "value": "Yes - vacancies are filled from the community waitlist; vacancy timing cannot be estimated"
+    },
+    {
+      "uid": "AL-0002",
+      "field": "notes_seed",
+      "value": "Age 62+; maximum income published as $68,880 for 1 person. Three meals plus snacks included."
+    },
+    {
+      "uid": "AL-0002",
+      "field": "published_info_source_seed",
+      "value": "https://www.fairfaxcounty.gov/housing/rentalhousing/senior-housing"
+    },
+    {
+      "uid": "AL-0003",
+      "field": "contact_person_seed",
+      "value": "Pamela Sellars / Fern Pannill (Directors of Community Relations)"
+    },
+    {
+      "uid": "AL-0003",
+      "field": "medication_fee_seed",
+      "value": "Medication administration/management offered; separate fee not published"
+    },
+    {
+      "uid": "AL-0003",
+      "field": "notes_seed",
+      "value": "Official FAQ states nurses and care partners coordinate and administer medications; nurses on site 24/7."
+    },
+    {
+      "uid": "AL-0003",
+      "field": "published_info_source_seed",
+      "value": "https://thekensingtonfallschurch.com/contact/ | https://thekensingtonfallschurch.com/the-kensington-falls-church-faq/"
+    },
+    {
+      "uid": "AL-0005",
+      "field": "web_form_link_seed",
+      "value": "https://www.brightviewseniorliving.com/find-a-community/brightview-fair-oaks/pricing"
+    },
+    {
+      "uid": "AL-0005",
+      "field": "medication_fee_seed",
+      "value": "No separate medication fee published; assistance taking medications is included within assisted-living services"
+    },
+    {
+      "uid": "AL-0005",
+      "field": "notes_seed",
+      "value": "Assisted Living rate includes 5 hours of personal care per week and three chef-prepared meals per day. Price amount is gated behind the official pricing form."
+    },
+    {
+      "uid": "AL-0005",
+      "field": "published_info_source_seed",
+      "value": "https://www.brightviewseniorliving.com/find-a-community/brightview-fair-oaks/pricing"
+    },
+    {
+      "uid": "AL-0006",
+      "field": "web_form_link_seed",
+      "value": "https://www.sunriseseniorliving.com/communities/va/sunrise-at-bluemont-park"
+    },
+    {
+      "uid": "AL-0006",
+      "field": "quoted_monthly_price_seed",
+      "value": "Published: studio $4,530+/mo base"
+    },
+    {
+      "uid": "AL-0006",
+      "field": "medication_fee_seed",
+      "value": "Priced separately from care level; amount not published"
+    },
+    {
+      "uid": "AL-0006",
+      "field": "notes_seed",
+      "value": "Sunrise states assessed care is added to suite cost and some services, including medication management, are priced separately."
+    },
+    {
+      "uid": "AL-0006",
+      "field": "published_info_source_seed",
+      "value": "https://www.sunriseseniorliving.com/communities/va/sunrise-at-bluemont-park"
+    },
+    {
+      "uid": "AL-0007",
+      "field": "web_form_link_seed",
+      "value": "https://www.brightviewseniorliving.com/find-a-community/brightview-dulles-corner/pricing"
+    },
+    {
+      "uid": "AL-0007",
+      "field": "medication_fee_seed",
+      "value": "No separate medication fee published; assistance taking medications is included within assisted-living services"
+    },
+    {
+      "uid": "AL-0007",
+      "field": "notes_seed",
+      "value": "Assisted Living rate includes 5 hours of personal care per week and three chef-prepared meals per day. Price amount is gated behind the official pricing form."
+    },
+    {
+      "uid": "AL-0007",
+      "field": "published_info_source_seed",
+      "value": "https://www.brightviewseniorliving.com/find-a-community/brightview-dulles-corner/pricing"
+    },
+    {
+      "uid": "AL-0008",
+      "field": "web_form_link_seed",
+      "value": "https://theviewalexandria.org/contact/"
+    },
+    {
+      "uid": "AL-0008",
+      "field": "quoted_monthly_price_seed",
+      "value": "Published: Assisted Living starts at $4,586/mo"
+    },
+    {
+      "uid": "AL-0008",
+      "field": "medication_fee_seed",
+      "value": "Additional medication management available via individualized care plan; fee not published"
+    },
+    {
+      "uid": "AL-0008",
+      "field": "notes_seed",
+      "value": "Month-to-month rental model; starting rate includes three daily meals, weekly housekeeping, linen service and programming."
+    },
+    {
+      "uid": "AL-0008",
+      "field": "published_info_source_seed",
+      "value": "https://theviewalexandria.org/care-options/assisted-living/ | https://theviewalexandria.org/contact/"
+    },
+    {
+      "uid": "AL-0033",
+      "field": "web_form_link_seed",
+      "value": "https://www.sunriseseniorliving.com/communities/va/sunrise-of-arlington"
+    },
+    {
+      "uid": "AL-0033",
+      "field": "quoted_monthly_price_seed",
+      "value": "Published: studio $4,000+/mo base"
+    },
+    {
+      "uid": "AL-0033",
+      "field": "medication_fee_seed",
+      "value": "Care/medication costs not included in base room rate; amount not published"
+    },
+    {
+      "uid": "AL-0033",
+      "field": "notes_seed",
+      "value": "Room rate includes selected services such as meals, programming, housekeeping and trash removal; assessed care is additional."
+    },
+    {
+      "uid": "AL-0033",
+      "field": "published_info_source_seed",
+      "value": "https://www.sunriseseniorliving.com/communities/va/sunrise-of-arlington"
+    },
+    {
+      "uid": "AL-0034",
+      "field": "web_form_link_seed",
+      "value": "https://www.sunriseseniorliving.com/communities/va/sunrise-at-silas-burke-house"
+    },
+    {
+      "uid": "AL-0034",
+      "field": "quoted_monthly_price_seed",
+      "value": "Published: $4,400+/mo base"
+    },
+    {
+      "uid": "AL-0034",
+      "field": "medication_fee_seed",
+      "value": "Priced separately from care level; amount not published"
+    },
+    {
+      "uid": "AL-0034",
+      "field": "waitlist_seed",
+      "value": "Limited availability"
+    },
+    {
+      "uid": "AL-0034",
+      "field": "notes_seed",
+      "value": "Base cost includes fresh meals, activities, housekeeping, laundry, trash removal, safety alert system and program transportation."
+    },
+    {
+      "uid": "AL-0034",
+      "field": "published_info_source_seed",
+      "value": "https://www.sunriseseniorliving.com/communities/va/sunrise-at-silas-burke-house"
+    },
+    {
+      "uid": "AL-0009",
+      "field": "web_form_link_seed",
+      "value": "https://birminghamgreen.org/contact-us/"
+    },
+    {
+      "uid": "AL-0009",
+      "field": "medication_fee_seed",
+      "value": "Medication management is included as an assisted-living service; separate fee not published"
+    },
+    {
+      "uid": "AL-0009",
+      "field": "notes_seed",
+      "value": "Willow Oaks serves financially eligible residents and is connected to Virginia's Auxiliary Grant program. Admission requires assessment/eligibility review."
+    },
+    {
+      "uid": "AL-0009",
+      "field": "published_info_source_seed",
+      "value": "https://birminghamgreen.org/services/assisted-living/ | https://birminghamgreen.org/admissions/"
+    },
+    {
+      "uid": "AL-0035",
+      "field": "web_form_link_seed",
+      "value": "https://www.sunriseseniorliving.com/communities/va/sunrise-of-alexandria"
+    },
+    {
+      "uid": "AL-0035",
+      "field": "quoted_monthly_price_seed",
+      "value": "Published: $3,400+/mo base"
+    },
+    {
+      "uid": "AL-0035",
+      "field": "medication_fee_seed",
+      "value": "Priced separately from care level; amount not published"
+    },
+    {
+      "uid": "AL-0035",
+      "field": "waitlist_seed",
+      "value": "Limited availability"
+    },
+    {
+      "uid": "AL-0035",
+      "field": "notes_seed",
+      "value": "Base room rate excludes assessed care. Medication management is an assisted-living service."
+    },
+    {
+      "uid": "AL-0035",
+      "field": "published_info_source_seed",
+      "value": "https://www.sunriseseniorliving.com/communities/va/sunrise-of-alexandria"
+    },
+    {
+      "uid": "AL-0010",
+      "field": "web_form_link_seed",
+      "value": "https://www.brookdale.com/en/communities/brookdale-potomac.html"
+    },
+    {
+      "uid": "AL-0010",
+      "field": "quoted_monthly_price_seed",
+      "value": "Published: private Assisted Living apartment $5,740+/mo base (site pricing dated 09/21/2026)"
+    },
+    {
+      "uid": "AL-0010",
+      "field": "medication_fee_seed",
+      "value": "Medication management available through personalized care; fee not published"
+    },
+    {
+      "uid": "AL-0010",
+      "field": "notes_seed",
+      "value": "Published base price excludes care costs and other fees. Dining and housekeeping are included."
+    },
+    {
+      "uid": "AL-0010",
+      "field": "published_info_source_seed",
+      "value": "https://www.brookdale.com/en/communities/brookdale-potomac.html"
+    },
+    {
+      "uid": "AL-0011",
+      "field": "web_form_link_seed",
+      "value": "https://www.brightviewseniorliving.com/find-a-community/brightview-west-end/pricing"
+    },
+    {
+      "uid": "AL-0011",
+      "field": "medication_fee_seed",
+      "value": "No separate medication fee published; assistance taking medications is included within assisted-living services"
+    },
+    {
+      "uid": "AL-0011",
+      "field": "notes_seed",
+      "value": "Assisted Living rate includes 5 hours of personal care per week and three chef-prepared meals per day. Price amount is gated behind the official pricing form."
+    },
+    {
+      "uid": "AL-0011",
+      "field": "published_info_source_seed",
+      "value": "https://www.brightviewseniorliving.com/find-a-community/brightview-west-end/pricing"
+    },
+    {
+      "uid": "AL-0012",
+      "field": "web_form_link_seed",
+      "value": "https://www.arborcompany.com/locations/virginia/manassas-sudley-manor/contact-us"
+    },
+    {
+      "uid": "AL-0012",
+      "field": "quoted_monthly_price_seed",
+      "value": "Published: Assisted Living apartments start at $4,260/mo"
+    },
+    {
+      "uid": "AL-0012",
+      "field": "medication_fee_seed",
+      "value": "Not separately published; medication management is offered as part of assisted-living support"
+    },
+    {
+      "uid": "AL-0012",
+      "field": "notes_seed",
+      "value": "Qualifying assisted-living option. Official site lists medication management, 24/7 support, dining, housekeeping/linen services and scheduled transportation."
+    },
+    {
+      "uid": "AL-0012",
+      "field": "published_info_source_seed",
+      "value": "https://www.arborcompany.com/locations/virginia/manassas-sudley-manor | https://www.arborcompany.com/locations/virginia/manassas-sudley-manor/dining"
+    },
+    {
+      "uid": "AL-0036",
+      "field": "web_form_link_seed",
+      "value": "https://www.sunriseseniorliving.com/communities/va/sunrise-of-springfield"
+    },
+    {
+      "uid": "AL-0036",
+      "field": "quoted_monthly_price_seed",
+      "value": "Published: studio $3,100+/mo; 1BR $3,400+/mo; 2BR $4,300+/mo base"
+    },
+    {
+      "uid": "AL-0036",
+      "field": "medication_fee_seed",
+      "value": "Priced separately from care level; amount not published"
+    },
+    {
+      "uid": "AL-0036",
+      "field": "waitlist_seed",
+      "value": "Limited availability"
+    },
+    {
+      "uid": "AL-0036",
+      "field": "notes_seed",
+      "value": "Base monthly cost includes fresh meals, activities, housekeeping, laundry, trash removal, safety alert system and program transportation."
+    },
+    {
+      "uid": "AL-0036",
+      "field": "published_info_source_seed",
+      "value": "https://www.sunriseseniorliving.com/communities/va/sunrise-of-springfield"
+    },
+    {
+      "uid": "AL-0013",
+      "field": "web_form_link_seed",
+      "value": "https://www.rui.net/location/contact-us/"
+    },
+    {
+      "uid": "AL-0013",
+      "field": "notes_seed",
+      "value": "RUI's official locations page identifies Paul Spring and provides a Book a Tour path; community-specific pricing is not publicly posted."
+    },
+    {
+      "uid": "AL-0013",
+      "field": "published_info_source_seed",
+      "value": "https://www.rui.net/our-locations/ | https://www.rui.net/location/contact-us/"
+    },
+    {
+      "uid": "AL-0014",
+      "field": "email_seed",
+      "value": "Customercare@evermoreseniorliving.com"
+    },
+    {
+      "uid": "AL-0014",
+      "field": "web_form_link_seed",
+      "value": "https://evermoreseniorliving.com/contact/"
+    },
+    {
+      "uid": "AL-0014",
+      "field": "notes_seed",
+      "value": "Official site describes private bedroom suites, an onsite chef, and a 4:1 resident-to-caregiver ratio; public pricing not posted."
+    },
+    {
+      "uid": "AL-0014",
+      "field": "published_info_source_seed",
+      "value": "https://evermoreseniorliving.com/ | https://evermoreseniorliving.com/contact/"
+    },
+    {
+      "uid": "AL-0015",
+      "field": "contact_person_seed",
+      "value": "Vincent Fontana (Sales Counselor)"
+    },
+    {
+      "uid": "AL-0015",
+      "field": "web_form_link_seed",
+      "value": "https://atlasseniorliving.com/tribute-at-the-glen/map-directions/"
+    },
+    {
+      "uid": "AL-0015",
+      "field": "medication_fee_seed",
+      "value": "Medication oversight/reminders offered; separate fee not published"
+    },
+    {
+      "uid": "AL-0015",
+      "field": "notes_seed",
+      "value": "Official community contact form is available; current community-specific assisted-living price is not publicly posted on the official site."
+    },
+    {
+      "uid": "AL-0015",
+      "field": "published_info_source_seed",
+      "value": "https://atlasseniorliving.com/tribute-at-the-glen/map-directions/ | https://atlasseniorliving.com/tribute-at-the-glen/our-leadership-team/"
+    },
+    {
+      "uid": "AL-0016",
+      "field": "web_form_link_seed",
+      "value": "https://www.brookdale.com/en/communities/brookdale-lake-ridge.html"
+    },
+    {
+      "uid": "AL-0016",
+      "field": "quoted_monthly_price_seed",
+      "value": "Published: private Assisted Living apartment $5,445+/mo base (site pricing dated 09/21/2026)"
+    },
+    {
+      "uid": "AL-0016",
+      "field": "medication_fee_seed",
+      "value": "Medication management available through personalized care; fee not published"
+    },
+    {
+      "uid": "AL-0016",
+      "field": "notes_seed",
+      "value": "Published base price excludes care costs and other fees. Dining and housekeeping are included."
+    },
+    {
+      "uid": "AL-0016",
+      "field": "published_info_source_seed",
+      "value": "https://www.brookdale.com/en/communities/brookdale-lake-ridge.html"
+    },
+    {
+      "uid": "AL-0037",
+      "field": "web_form_link_seed",
+      "value": "https://www.harmonyseniorservices.com/community/harmony-at-spring-hill/contact-us/"
+    },
+    {
+      "uid": "AL-0037",
+      "field": "quoted_monthly_price_seed",
+      "value": "Published: Assisted Living apartments start at $3,900/mo"
+    },
+    {
+      "uid": "AL-0037",
+      "field": "medication_fee_seed",
+      "value": "Medication management may be part of assessed care; separate fee not published"
+    },
+    {
+      "uid": "AL-0037",
+      "field": "notes_seed",
+      "value": "No buy-in fee; care is personalized. Chef-prepared meals are part of community services."
+    },
+    {
+      "uid": "AL-0037",
+      "field": "published_info_source_seed",
+      "value": "https://www.harmonyseniorservices.com/community/harmony-at-spring-hill/floor-plans/ | https://www.harmonyseniorservices.com/community/harmony-at-spring-hill/contact-us/"
+    },
+    {
+      "uid": "AL-0017",
+      "field": "web_form_link_seed",
+      "value": "https://www.sunriseseniorliving.com/communities/md/bedford-court"
+    },
+    {
+      "uid": "AL-0017",
+      "field": "quoted_monthly_price_seed",
+      "value": "Published: room rates start at $3,500/mo (site-wide starting rate; assisted-living-specific starting rate not separately stated)"
+    },
+    {
+      "uid": "AL-0017",
+      "field": "medication_fee_seed",
+      "value": "Medication management available; care rates are additional and amount is not published"
+    },
+    {
+      "uid": "AL-0017",
+      "field": "notes_seed",
+      "value": "Official page states room rates are subject to availability and excludes care rates unless otherwise stated."
+    },
+    {
+      "uid": "AL-0017",
+      "field": "published_info_source_seed",
+      "value": "https://www.sunriseseniorliving.com/communities/md/bedford-court"
+    },
+    {
+      "uid": "AL-0018",
+      "field": "contact_person_seed",
+      "value": "Nimmi Perera (Owner & Care Manager)"
+    },
+    {
+      "uid": "AL-0018",
+      "field": "web_form_link_seed",
+      "value": "https://brighthandsmd.com/contact"
+    },
+    {
+      "uid": "AL-0018",
+      "field": "quoted_monthly_price_seed",
+      "value": "Published: from $5,000/mo all-inclusive; final rate after care assessment"
+    },
+    {
+      "uid": "AL-0018",
+      "field": "medication_fee_seed",
+      "value": "Included - no separate monthly medication-management add-on"
+    },
+    {
+      "uid": "AL-0018",
+      "field": "notes_seed",
+      "value": "Private room, three meals/day, medication management, 24-hour awake care, ADL support, housekeeping and laundry included."
+    },
+    {
+      "uid": "AL-0018",
+      "field": "published_info_source_seed",
+      "value": "https://brighthandsmd.com/pricing | https://brighthandsmd.com/contact"
+    },
+    {
+      "uid": "AL-0038",
+      "field": "web_form_link_seed",
+      "value": "https://www.sunriseseniorliving.com/communities/va/sunrise-at-mount-vernon"
+    },
+    {
+      "uid": "AL-0038",
+      "field": "quoted_monthly_price_seed",
+      "value": "Published: studio $4,900+/mo base; 2BR $5,400+/mo base"
+    },
+    {
+      "uid": "AL-0038",
+      "field": "medication_fee_seed",
+      "value": "Priced separately from care level; amount not published"
+    },
+    {
+      "uid": "AL-0038",
+      "field": "waitlist_seed",
+      "value": "Limited availability"
+    },
+    {
+      "uid": "AL-0038",
+      "field": "notes_seed",
+      "value": "Base room rate excludes assessed care; medication management is an assisted-living service."
+    },
+    {
+      "uid": "AL-0038",
+      "field": "published_info_source_seed",
+      "value": "https://www.sunriseseniorliving.com/communities/va/sunrise-at-mount-vernon"
+    },
+    {
+      "uid": "AL-0039",
+      "field": "web_form_link_seed",
+      "value": "https://www.potomacplace.com/visit/"
+    },
+    {
+      "uid": "AL-0039",
+      "field": "medication_fee_seed",
+      "value": "Medication reminders/support are offered; separate fee not published"
+    },
+    {
+      "uid": "AL-0039",
+      "field": "notes_seed",
+      "value": "Official site does not publish a current monthly assisted-living price; it directs families to request a custom estimate."
+    },
+    {
+      "uid": "AL-0039",
+      "field": "published_info_source_seed",
+      "value": "https://www.potomacplace.com/care-wellness/assisted-living/ | https://www.potomacplace.com/visit/"
+    },
+    {
+      "uid": "AL-0019",
+      "field": "contact_person_seed",
+      "value": "Nimmi Perera (Owner & Care Manager)"
+    },
+    {
+      "uid": "AL-0019",
+      "field": "web_form_link_seed",
+      "value": "https://brighthandsmd.com/contact"
+    },
+    {
+      "uid": "AL-0019",
+      "field": "quoted_monthly_price_seed",
+      "value": "Published: from $5,000/mo all-inclusive; final rate after care assessment"
+    },
+    {
+      "uid": "AL-0019",
+      "field": "medication_fee_seed",
+      "value": "Included - no separate monthly medication-management add-on"
+    },
+    {
+      "uid": "AL-0019",
+      "field": "notes_seed",
+      "value": "Montgomery Village home is listed as open with five private rooms; same all-inclusive care model as the Silver Spring home."
+    },
+    {
+      "uid": "AL-0019",
+      "field": "published_info_source_seed",
+      "value": "https://brighthandsmd.com/pricing | https://brighthandsmd.com/locations | https://brighthandsmd.com/contact"
+    },
+    {
+      "uid": "AL-0020",
+      "field": "web_form_link_seed",
+      "value": "https://www.springoakliving.com/contact"
+    },
+    {
+      "uid": "AL-0020",
+      "field": "quoted_monthly_price_seed",
+      "value": "Published: starts at $5,875/mo"
+    },
+    {
+      "uid": "AL-0020",
+      "field": "notes_seed",
+      "value": "Official site lists Assisted Living and Short Term Care at the Warrenton community."
+    },
+    {
+      "uid": "AL-0020",
+      "field": "published_info_source_seed",
+      "value": "https://www.springoakliving.com/contact"
+    },
+    {
+      "uid": "AL-0021",
+      "field": "web_form_link_seed",
+      "value": "https://www.vivaseniorliving.com/contact-us"
+    },
+    {
+      "uid": "AL-0021",
+      "field": "quoted_monthly_price_seed",
+      "value": "Published: private Assisted Living suite $6,000+/mo; companion $4,300+/mo"
+    },
+    {
+      "uid": "AL-0021",
+      "field": "medication_fee_seed",
+      "value": "Medication management offered; additional care is not included in published room price"
+    },
+    {
+      "uid": "AL-0021",
+      "field": "notes_seed",
+      "value": "Private-suite price is the relevant single-occupancy rate. Farm-to-table dining is listed among community services."
+    },
+    {
+      "uid": "AL-0021",
+      "field": "published_info_source_seed",
+      "value": "https://www.vivaseniorliving.com/stafford | https://www.vivaseniorliving.com/contact-us"
+    },
+    {
+      "uid": "AL-0022",
+      "field": "contact_person_seed",
+      "value": "Jennifer (availability contact; last name not published)"
+    },
+    {
+      "uid": "AL-0022",
+      "field": "email_seed",
+      "value": "info@edentonfrederick.com"
+    },
+    {
+      "uid": "AL-0022",
+      "field": "quoted_monthly_price_seed",
+      "value": "Published: studio $6,050-$6,150/mo + assessed care level $1,050-$1,650/mo"
+    },
+    {
+      "uid": "AL-0022",
+      "field": "medication_fee_seed",
+      "value": "Medication administration included within assessed care level; care level costs $1,050-$1,650/mo"
+    },
+    {
+      "uid": "AL-0022",
+      "field": "notes_seed",
+      "value": "One-time community fee $3,000. Room/all meals/snacks/housekeeping/laundry plus personal care are described in the assisted-living package."
+    },
+    {
+      "uid": "AL-0022",
+      "field": "published_info_source_seed",
+      "value": "https://edentonfrederick.com/assisted-living/"
+    },
+    {
+      "uid": "AL-0023",
+      "field": "web_form_link_seed",
+      "value": "https://www.springarborliving.com/md/frederick/spring-arbor-of-frederick/contactus"
+    },
+    {
+      "uid": "AL-0023",
+      "field": "quoted_monthly_price_seed",
+      "value": "Published: private Assisted Living studio $6,947/mo; 1BR alcove $7,872/mo"
+    },
+    {
+      "uid": "AL-0023",
+      "field": "waitlist_seed",
+      "value": "Official availability page currently shows assisted-living units as waitlist / Add to Waitlist"
+    },
+    {
+      "uid": "AL-0023",
+      "field": "notes_seed",
+      "value": "Three meals per day plus snacks are listed among community amenities."
+    },
+    {
+      "uid": "AL-0023",
+      "field": "published_info_source_seed",
+      "value": "https://www.springarborliving.com/md/frederick/spring-arbor-of-frederick/default | https://www.springarborliving.com/md/frederick/spring-arbor-of-frederick/contactus"
+    },
+    {
+      "uid": "AL-0024",
+      "field": "contact_person_seed",
+      "value": "Rebecca Yeboah, BSN (Assisted Living Manager)"
+    },
+    {
+      "uid": "AL-0024",
+      "field": "web_form_link_seed",
+      "value": "https://sternlifeassistedliving.com/"
+    },
+    {
+      "uid": "AL-0024",
+      "field": "quoted_monthly_price_seed",
+      "value": "Published: Walnut Street from $5,000/mo"
+    },
+    {
+      "uid": "AL-0024",
+      "field": "medication_fee_seed",
+      "value": "Included in monthly rate"
+    },
+    {
+      "uid": "AL-0024",
+      "field": "notes_seed",
+      "value": "Monthly rate includes medication administration, three meals plus snacks, 24-hour supervision, ADL help, housekeeping and laundry."
+    },
+    {
+      "uid": "AL-0024",
+      "field": "published_info_source_seed",
+      "value": "https://sternlifeassistedliving.com/"
+    },
+    {
+      "uid": "AL-0025",
+      "field": "contact_person_seed",
+      "value": "Rebecca Yeboah, BSN (Assisted Living Manager)"
+    },
+    {
+      "uid": "AL-0025",
+      "field": "web_form_link_seed",
+      "value": "https://sternlifeassistedliving.com/"
+    },
+    {
+      "uid": "AL-0025",
+      "field": "quoted_monthly_price_seed",
+      "value": "Published: Thames Drive from $4,500/mo"
+    },
+    {
+      "uid": "AL-0025",
+      "field": "medication_fee_seed",
+      "value": "Included in monthly rate"
+    },
+    {
+      "uid": "AL-0025",
+      "field": "notes_seed",
+      "value": "Monthly rate includes medication administration, three meals plus snacks, 24-hour supervision, ADL help, housekeeping and laundry."
+    },
+    {
+      "uid": "AL-0025",
+      "field": "published_info_source_seed",
+      "value": "https://sternlifeassistedliving.com/"
+    },
+    {
+      "uid": "AL-0026",
+      "field": "web_form_link_seed",
+      "value": "https://www.charterfredericksburg.com/contact-us/"
+    },
+    {
+      "uid": "AL-0026",
+      "field": "quoted_monthly_price_seed",
+      "value": "Published: private Assisted Living studio $4,995+/mo; 1BR $7,495+/mo"
+    },
+    {
+      "uid": "AL-0026",
+      "field": "notes_seed",
+      "value": "Official site lists three meals/day, housekeeping, laundry, utilities and 24/7 assistance among assisted-living services."
+    },
+    {
+      "uid": "AL-0026",
+      "field": "published_info_source_seed",
+      "value": "https://www.charterfredericksburg.com/floor-plans/ | https://www.charterfredericksburg.com/contact-us/"
+    },
+    {
+      "uid": "AL-0027",
+      "field": "email_seed",
+      "value": "ofhbender@gmail.com"
+    },
+    {
+      "uid": "AL-0027",
+      "field": "web_form_link_seed",
+      "value": "https://www.ofhch.com/contact-us"
+    },
+    {
+      "uid": "AL-0027",
+      "field": "notes_seed",
+      "value": "Official site asks families to contact the community for assisted-living pricing; published $2,000 figure is for retirement cottages, not assisted living."
+    },
+    {
+      "uid": "AL-0027",
+      "field": "published_info_source_seed",
+      "value": "https://www.ofhch.com/ | https://www.ofhch.com/contact-us"
+    },
+    {
+      "uid": "AL-0028",
+      "field": "notes_seed",
+      "value": "No current official community website/form was reliably accessible during this pass; new official-data fields left blank."
+    },
+    {
+      "uid": "AL-0029",
+      "field": "web_form_link_seed",
+      "value": "https://www.commonwealthsl.com/commonwealth-senior-living-at-front-royal"
+    },
+    {
+      "uid": "AL-0029",
+      "field": "quoted_monthly_price_seed",
+      "value": "Published: private Assisted Living suite $235/day (~$7,050 per 30 days); deluxe suite $248/day (~$7,440); 1BR $264/day (~$7,920)"
+    },
+    {
+      "uid": "AL-0029",
+      "field": "medication_fee_seed",
+      "value": "Level 1 care included in published room price; additional care services extra, medication-specific fee not published"
+    },
+    {
+      "uid": "AL-0029",
+      "field": "notes_seed",
+      "value": "Official floor-plan page states displayed prices include Level 1 care."
+    },
+    {
+      "uid": "AL-0029",
+      "field": "published_info_source_seed",
+      "value": "https://www.commonwealthsl.com/commonwealth-senior-living-at-front-royal/floor-plans"
+    },
+    {
+      "uid": "AL-0030",
+      "field": "web_form_link_seed",
+      "value": "https://www.thevillageatorchardridge.org/request-info/"
+    },
+    {
+      "uid": "AL-0030",
+      "field": "notes_seed",
+      "value": "Official request-information form is available. Current assisted-living monthly pricing was not clearly published on the current official page."
+    },
+    {
+      "uid": "AL-0030",
+      "field": "published_info_source_seed",
+      "value": "https://www.thevillageatorchardridge.org/request-info/"
+    },
+    {
+      "uid": "AL-0031",
+      "field": "web_form_link_seed",
+      "value": "https://www.harmonyseniorservices.com/community/harmony-at-martinsburg/contact-us/"
+    },
+    {
+      "uid": "AL-0031",
+      "field": "quoted_monthly_price_seed",
+      "value": "Published: Assisted Living starts at $4,520/mo"
+    },
+    {
+      "uid": "AL-0031",
+      "field": "medication_fee_seed",
+      "value": "Medication management may be included through assessed care level; separate fee not published"
+    },
+    {
+      "uid": "AL-0031",
+      "field": "notes_seed",
+      "value": "Pricing is made up of rent plus care. Base rent includes chef-prepared meals, housekeeping, laundry, maintenance and 24-hour staff support."
+    },
+    {
+      "uid": "AL-0031",
+      "field": "published_info_source_seed",
+      "value": "https://www.harmonyseniorservices.com/community/harmony-at-martinsburg/assisted-living/ | https://www.harmonyseniorservices.com/community/harmony-at-martinsburg/contact-us/"
+    },
+    {
+      "uid": "AL-0032",
+      "field": "web_form_link_seed",
+      "value": "https://celebrationvillaofmartinsburg.com/contact-us/"
+    },
+    {
+      "uid": "AL-0032",
+      "field": "quoted_monthly_price_seed",
+      "value": "Published: private small studio $6,650/mo; large studio $7,150/mo"
+    },
+    {
+      "uid": "AL-0032",
+      "field": "notes_seed",
+      "value": "Official site notes limited-time pricing opportunities may be available."
+    },
+    {
+      "uid": "AL-0032",
+      "field": "published_info_source_seed",
+      "value": "https://celebrationvillaofmartinsburg.com/floor-plans-pricing/ | https://celebrationvillaofmartinsburg.com/contact-us/"
+    }
+  ],
+  "seed_mirror_syncs": [
+    {
+      "uid": "AL-0012",
+      "field": "price_range_seed",
+      "old": "Private room approx. $3,695+; 1BR approx. $3,995+/mo; medication management and restaurant-style meals listed. Confirm care-tier total <= $8k.",
+      "new": "Assisted Living apartments start at $4,260/mo. Official site states medication management is part of assisted-living support; care-level/medication surcharge is not separately published."
+    },
+    {
+      "uid": "AL-0014",
+      "field": "contact_source_seed",
+      "old": "https://www.seniorly.com/assisted-living/virginia/woodbridge/evermore-senior-living-of-lake-ridge",
+      "new": "https://evermoreseniorliving.com/contact/"
+    },
+    {
+      "uid": "AL-0022",
+      "field": "contact_source_seed",
+      "old": "https://npiprofile.com/npi/1962484857",
+      "new": "https://edentonfrederick.com/assisted-living/"
+    },
+    {
+      "uid": "AL-0027",
+      "field": "contact_source_seed",
+      "old": "https://www.miradorliving.com/assisted-living/virginia/culpeper/our-fathers-house-christian-home",
+      "new": "https://www.ofhch.com/contact-us"
+    }
+  ],
+  "conflicts": [
+    {
+      "uid": "AL-0002",
+      "field": "website",
+      "vault": "https://www.sunriseseniorliving.com/communities/va/braddock-glen",
+      "seed": "https://www.fcrha.org/properties/braddock-glen-assisted-living/1",
+      "action": "kept_vault"
+    },
+    {
+      "uid": "AL-0017",
+      "field": "price_research_vs_seed",
+      "detail": "seed conflict 2026-09-24: quoted_monthly_price_seed starts near $3500 vs researched all_in=7418 (kept researched; seed quote noted)",
+      "action": "kept_researched_all_in"
+    },
+    {
+      "uid": "AL-0018",
+      "field": "price_research_vs_seed",
+      "detail": "seed conflict 2026-09-24: Sub-$5k private starting rate?=No while researched all_in_estimate_monthly=5000 (kept researched)",
+      "action": "kept_researched_all_in"
+    },
+    {
+      "uid": "AL-0019",
+      "field": "price_research_vs_seed",
+      "detail": "seed conflict 2026-09-24: Sub-$5k private starting rate?=No while researched all_in_estimate_monthly=5000 (kept researched)",
+      "action": "kept_researched_all_in"
+    },
+    {
+      "uid": "AL-0022",
+      "field": "price_research_vs_seed",
+      "detail": "seed conflict 2026-09-24: quoted_monthly_price_seed starts near $6050 vs researched all_in=7100 (kept researched; seed quote noted)",
+      "action": "kept_researched_all_in"
+    },
+    {
+      "uid": "AL-0024",
+      "field": "price_research_vs_seed",
+      "detail": "seed conflict 2026-09-24: Sub-$5k private starting rate?=No while researched all_in_estimate_monthly=5000 (kept researched)",
+      "action": "kept_researched_all_in"
+    },
+    {
+      "uid": "AL-0025",
+      "field": "price_research_vs_seed",
+      "detail": "seed conflict 2026-09-24: Sub-$5k private starting rate?=No while researched all_in_estimate_monthly=5000 (kept researched) | seed conflict 2026-09-24: quoted_monthly_price_seed starts near $4500 vs researched all_in=5000 (kept researched; seed quote noted)",
+      "action": "kept_researched_all_in"
+    }
+  ],
+  "vault_only_uids": [],
+  "conflict_note": "Daily-rate quoted figures ($N/day) excluded from soft all-in compare after pass."
+}

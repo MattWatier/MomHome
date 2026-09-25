@@ -18,6 +18,10 @@ price_notes: "AL from $5,875/mo; studios and 1BRs available; meals included. Con
 phone_seed: "540-347-6000"
 email_seed: "warrenton@springoakliving.com"
 contact_source_seed: "https://www.springoakliving.com/contact"
+web_form_link_seed: "https://www.springoakliving.com/contact"
+quoted_monthly_price_seed: "Published: starts at $5,875/mo"
+notes_seed: Official site lists Assisted Living and Short Term Care at the Warrenton community.
+published_info_source_seed: "https://www.springoakliving.com/contact"
 review_google_rating: null
 review_google_count: null
 review_yelp_rating: null

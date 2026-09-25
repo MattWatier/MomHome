@@ -17,6 +17,11 @@ price_confidence: "medium"
 price_notes: "Private AL apartment $5,740+/mo base; dining included; care fees extra."
 phone_seed: "301-765-9198"
 contact_source_seed: "https://www.brookdale.com/en/communities/brookdale-potomac.html"
+web_form_link_seed: "https://www.brookdale.com/en/communities/brookdale-potomac.html"
+quoted_monthly_price_seed: "Published: private Assisted Living apartment $5,740+/mo base (site pricing dated 09/21/2026)"
+medication_fee_seed: Medication management available through personalized care; fee not published
+notes_seed: Published base price excludes care costs and other fees. Dining and housekeeping are included.
+published_info_source_seed: "https://www.brookdale.com/en/communities/brookdale-potomac.html"
 review_google_rating: 4.7
 review_google_count: 97
 review_yelp_rating: null

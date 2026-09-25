@@ -17,6 +17,10 @@ price_confidence: "high"
 price_notes: "Official: small studio $6,650; large studio $7,150; shared suite $8,650 excluded. No private 1BR listed. Meals; med management via care."
 phone_seed: "304-267-5800"
 contact_source_seed: "https://celebrationvillaofmartinsburg.com/"
+web_form_link_seed: "https://celebrationvillaofmartinsburg.com/contact-us/"
+quoted_monthly_price_seed: "Published: private small studio $6,650/mo; large studio $7,150/mo"
+notes_seed: "Official site notes limited-time pricing opportunities may be available."
+published_info_source_seed: "https://celebrationvillaofmartinsburg.com/floor-plans-pricing/ | https://celebrationvillaofmartinsburg.com/contact-us/"
 status: stub
 want_to_review_date: null
 visit_date: null

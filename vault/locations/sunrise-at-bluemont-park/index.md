@@ -17,6 +17,11 @@ price_confidence: "medium"
 price_notes: "Official starting $4,900+. Seed had studio $4,530 / 1BR $5,533 — prefer studio under $5k (1BR over). Care + med fees extra."
 phone_seed: "703-348-1048"
 contact_source_seed: "https://www.sunriseseniorliving.com/communities/va/sunrise-at-bluemont-park"
+web_form_link_seed: "https://www.sunriseseniorliving.com/communities/va/sunrise-at-bluemont-park"
+quoted_monthly_price_seed: "Published: studio $4,530+/mo base"
+medication_fee_seed: Priced separately from care level; amount not published
+notes_seed: "Sunrise states assessed care is added to suite cost and some services, including medication management, are priced separately."
+published_info_source_seed: "https://www.sunriseseniorliving.com/communities/va/sunrise-at-bluemont-park"
 review_google_rating: 4.6
 review_google_count: 27
 review_yelp_rating: null

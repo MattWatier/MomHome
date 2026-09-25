@@ -16,7 +16,11 @@ price_as_of: "2026-09-24"
 price_confidence: "low"
 price_notes: "Suite ~$6,000+/mo per Mirador/seed; meals and med management listed. Confirm studio/1BR."
 phone_seed: "703-249-9128"
-contact_source_seed: "https://www.seniorly.com/assisted-living/virginia/woodbridge/evermore-senior-living-of-lake-ridge"
+contact_source_seed: "https://evermoreseniorliving.com/contact/"
+web_form_link_seed: "https://evermoreseniorliving.com/contact/"
+notes_seed: "Official site describes private bedroom suites, an onsite chef, and a 4:1 resident-to-caregiver ratio; public pricing not posted."
+published_info_source_seed: "https://evermoreseniorliving.com/ | https://evermoreseniorliving.com/contact/"
+email_seed: "Customercare@evermoreseniorliving.com"
 review_google_rating: 5.0
 review_google_count: 20
 review_yelp_rating: null

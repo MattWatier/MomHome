@@ -17,6 +17,10 @@ price_confidence: "low"
 price_notes: "Mirador 1BR ~$6,967+/mo; meals and med management listed. Confirm assessed-care total."
 phone_seed: "703-992-9868"
 contact_source_seed: "https://thekensingtonfallschurch.com/contact/"
+medication_fee_seed: Medication administration/management offered; separate fee not published
+notes_seed: Official FAQ states nurses and care partners coordinate and administer medications; nurses on site 24/7.
+published_info_source_seed: "https://thekensingtonfallschurch.com/contact/ | https://thekensingtonfallschurch.com/the-kensington-falls-church-faq/"
+contact_person_seed: Pamela Sellars / Fern Pannill (Directors of Community Relations)
 status: stub
 want_to_review_date: null
 visit_date: null

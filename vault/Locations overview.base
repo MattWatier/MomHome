@@ -1,14 +1,14 @@
 filters:
   and:
-    - 'file.inFolder("locations")'
-    - 'file.path.endsWith("/index.md")'
-    - 'example != true'
-
+    - file.inFolder("locations")
+    - file.path.endsWith("/index.md")
+    - example != true
 formulas:
-  under_5k: 'if(all_in_estimate_monthly, all_in_estimate_monthly <= 5000, false)'
-  under_6k: 'if(all_in_estimate_monthly, all_in_estimate_monthly <= 6000, false)'
-  price_label: 'if(all_in_estimate_monthly, "$" + all_in_estimate_monthly.toString() + "/mo", "unknown")'
-
+  under_5k: if(all_in_estimate_monthly, all_in_estimate_monthly <= 5000, false)
+  under_6k: if(all_in_estimate_monthly, all_in_estimate_monthly <= 6000, false)
+  price_label: if(all_in_estimate_monthly, "$" + all_in_estimate_monthly.toString() + "/mo", "unknown")
+  name: link(file.name, file.name)
+  note: website
 properties:
   name:
     displayName: Name
@@ -36,13 +36,20 @@ properties:
     displayName: Status
   phone_seed:
     displayName: Phone
+  contact_person_seed:
+    displayName: Contact person
+  waitlist_seed:
+    displayName: Waitlist (seed)
+  quoted_monthly_price_seed:
+    displayName: Quoted $/mo (seed)
   formula.under_5k:
     displayName: Under $5k
   formula.under_6k:
     displayName: Under $6k
   formula.price_label:
     displayName: Price
-
+  formula.name:
+    displayName: Note
 views:
   - type: table
     name: All locations
@@ -56,34 +63,59 @@ views:
       - review_material_red_flags
       - status
       - phone_seed
+      - contact_person_seed
+      - waitlist_seed
     sort:
       - property: all_in_estimate_monthly
         direction: ASC
-
+  - type: table
+    name: Waitlist notes
+    filters:
+      and:
+        - waitlist_seed != null
+        - waitlist_seed != ""
+    order:
+      - name
+      - waitlist_seed
+      - phone_seed
+      - contact_person_seed
+      - all_in_estimate_monthly
+      - uid
+    sort:
+      - property: name
+        direction: ASC
   - type: table
     name: Under $5k
     filters:
       and:
-        - 'all_in_estimate_monthly != null'
-        - 'all_in_estimate_monthly <= 5000'
+        - all_in_estimate_monthly != null
+        - all_in_estimate_monthly <= 5000
     order:
       - name
+      - formula.note
       - all_in_estimate_monthly
       - room_type
       - distance_miles_seed
       - google_rating_seed
       - review_material_red_flags
-      - uid
     sort:
+      - property: name
+        direction: ASC
+      - property: formula.note
+        direction: ASC
       - property: all_in_estimate_monthly
         direction: ASC
-
+    columnSize:
+      formula.note: 311
+      note.all_in_estimate_monthly: 120
+      note.distance_miles_seed: 76
+      note.google_rating_seed: 69
   - type: table
     name: Under $6k
     filters:
       and:
-        - 'all_in_estimate_monthly != null'
-        - 'all_in_estimate_monthly <= 6000'
+        - all_in_estimate_monthly != null
+        - all_in_estimate_monthly <= 6000
     order:
       - name
       - all_in_estimate_monthly
@@ -92,16 +124,22 @@ views:
       - review_material_red_flags
       - google_rating_seed
       - uid
+      - formula.name
     sort:
+      - property: name
+        direction: ASC
+      - property: formula.name
+        direction: ASC
       - property: all_in_estimate_monthly
         direction: ASC
-
+    columnSize:
+      formula.name: 97
   - type: table
     name: Unknown price
     filters:
       or:
-        - 'all_in_estimate_monthly == null'
-        - 'price_confidence == "none"'
+        - all_in_estimate_monthly == null
+        - price_confidence == "none"
     order:
       - name
       - uid
@@ -112,7 +150,6 @@ views:
     sort:
       - property: name
         direction: ASC
-
   - type: table
     name: By room type
     groupBy:
@@ -127,13 +164,12 @@ views:
     sort:
       - property: all_in_estimate_monthly
         direction: ASC
-
   - type: table
     name: Material red flags
     filters:
       and:
-        - 'file.hasProperty("review_material_red_flags")'
-        - 'review_material_red_flags == true'
+        - file.hasProperty("review_material_red_flags")
+        - review_material_red_flags == true
     order:
       - name
       - all_in_estimate_monthly
@@ -145,7 +181,6 @@ views:
     sort:
       - property: all_in_estimate_monthly
         direction: ASC
-
   - type: table
     name: By distance
     order:
@@ -157,12 +192,11 @@ views:
     sort:
       - property: distance_miles_seed
         direction: ASC
-
   - type: table
     name: One-bedrooms
     filters:
       and:
-        - 'room_type == "one_bedroom"'
+        - room_type == "one_bedroom"
     order:
       - name
       - all_in_estimate_monthly
@@ -173,12 +207,11 @@ views:
     sort:
       - property: all_in_estimate_monthly
         direction: ASC
-
   - type: table
     name: Studios
     filters:
       and:
-        - 'room_type == "studio"'
+        - room_type == "studio"
     order:
       - name
       - all_in_estimate_monthly

@@ -17,6 +17,10 @@ price_confidence: "low"
 price_notes: "Third-party estimate: 1BR ~$4,800+; studio ~$5,200+. Prefer 1BR under $5k. Confirm with community."
 phone_seed: "703-494-3817"
 contact_source_seed: "https://www.potomacplace.com/"
+web_form_link_seed: "https://www.potomacplace.com/visit/"
+medication_fee_seed: Medication reminders/support are offered; separate fee not published
+notes_seed: "Official site does not publish a current monthly assisted-living price; it directs families to request a custom estimate."
+published_info_source_seed: "https://www.potomacplace.com/care-wellness/assisted-living/ | https://www.potomacplace.com/visit/"
 review_google_rating: 4.2
 review_google_count: 11
 review_yelp_rating: null

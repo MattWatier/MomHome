@@ -14,9 +14,14 @@ room_rate_monthly: 3500
 price_source_url: "https://www.sunriseseniorliving.com/communities/md/bedford-court"
 price_as_of: "2026-09-24"
 price_confidence: "low"
-price_notes: "Official CCRC rooms start $3,500 (likely IL). Seed/third-party AL studio ~$7,418+; care fees may add. Prefer AL studio estimate for screening."
+price_notes: "Official CCRC rooms start $3,500 (likely IL). Seed/third-party AL studio ~$7,418+; care fees may add. Prefer AL studio estimate for screening. | seed conflict 2026-09-24: quoted_monthly_price_seed starts near $3500 vs researched all_in=7418 (kept researched; seed quote noted)"
 phone_seed: "240-681-2022"
 contact_source_seed: "https://www.sunriseseniorliving.com/communities/md/bedford-court"
+web_form_link_seed: "https://www.sunriseseniorliving.com/communities/md/bedford-court"
+quoted_monthly_price_seed: "Published: room rates start at $3,500/mo (site-wide starting rate; assisted-living-specific starting rate not separately stated)"
+medication_fee_seed: Medication management available; care rates are additional and amount is not published
+notes_seed: Official page states room rates are subject to availability and excludes care rates unless otherwise stated.
+published_info_source_seed: "https://www.sunriseseniorliving.com/communities/md/bedford-court"
 status: stub
 want_to_review_date: null
 visit_date: null

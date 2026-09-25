@@ -5,7 +5,7 @@ slug: "arbor-terrace-sudley-manor"
 address: "7750 Garner Dr, Manassas, VA 20109"
 website: "https://www.arborcompany.com/locations/virginia/manassas-sudley-manor"
 google_rating_seed: 5.0
-price_range_seed: "Private room approx. $3,695+; 1BR approx. $3,995+/mo; medication management and restaurant-style meals listed. Confirm care-tier total <= $8k."
+price_range_seed: "Assisted Living apartments start at $4,260/mo. Official site states medication management is part of assisted-living support; care-level/medication surcharge is not separately published."
 distance_miles_seed: 18
 sub_5k_private_start: true
 all_in_estimate_monthly: 4260
@@ -17,6 +17,11 @@ price_confidence: "medium"
 price_notes: "Official AL apartments start $4,260. Seniorly lists private from $3,695 and 1BR from $3,995 (secondary). Meals/meds typically via care tier; confirm all-in."
 phone_seed: "703-392-9797"
 contact_source_seed: "https://www.arborcompany.com/locations/virginia/manassas-sudley-manor"
+web_form_link_seed: "https://www.arborcompany.com/locations/virginia/manassas-sudley-manor/contact-us"
+quoted_monthly_price_seed: "Published: Assisted Living apartments start at $4,260/mo"
+medication_fee_seed: "Not separately published; medication management is offered as part of assisted-living support"
+notes_seed: "Qualifying assisted-living option. Official site lists medication management, 24/7 support, dining, housekeeping/linen services and scheduled transportation."
+published_info_source_seed: "https://www.arborcompany.com/locations/virginia/manassas-sudley-manor | https://www.arborcompany.com/locations/virginia/manassas-sudley-manor/dining"
 review_google_rating: 4.8
 review_google_count: 66
 review_yelp_rating: null

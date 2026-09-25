@@ -14,10 +14,16 @@ room_rate_monthly: 5000
 price_source_url: "https://brighthandsmd.com/"
 price_as_of: "2026-09-24"
 price_confidence: "medium"
-price_notes: "From $5,000/mo all-inclusive private room per seed/operator site messaging: 3 meals, med admin, 24/7 care, housekeeping. Studio vs 1BR not published. Seed conflict: sub_5k_private_start=No while researched all_in_estimate_monthly=5000 (boundary); kept researched estimate."
+price_notes: "From $5,000/mo all-inclusive private room per seed/operator site messaging: 3 meals, med admin, 24/7 care, housekeeping. Studio vs 1BR not published. Seed conflict: sub_5k_private_start=No while researched all_in_estimate_monthly=5000 (boundary); kept researched estimate. | seed conflict 2026-09-24: Sub-$5k private starting rate?=No while researched all_in_estimate_monthly=5000 (kept researched)"
 phone_seed: "301-871-1021"
 email_seed: "brighthandsassistedliving@gmail.com"
 contact_source_seed: "https://brighthandsmd.com/locations"
+web_form_link_seed: "https://brighthandsmd.com/contact"
+quoted_monthly_price_seed: "Published: from $5,000/mo all-inclusive; final rate after care assessment"
+medication_fee_seed: "Included - no separate monthly medication-management add-on"
+notes_seed: "Private room, three meals/day, medication management, 24-hour awake care, ADL support, housekeeping and laundry included."
+published_info_source_seed: "https://brighthandsmd.com/pricing | https://brighthandsmd.com/contact"
+contact_person_seed: "Nimmi Perera (Owner & Care Manager)"
 review_google_rating: null
 review_google_count: null
 review_yelp_rating: null

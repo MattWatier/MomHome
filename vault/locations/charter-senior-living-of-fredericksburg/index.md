@@ -17,6 +17,10 @@ price_confidence: "high"
 price_notes: "Official: private studio $4,995; 1BR $7,495 (over $5k — not preferred). Includes 3 meals, utilities, housekeeping. Med/care levels may add."
 phone_seed: "540-409-4529"
 contact_source_seed: "https://www.charterfredericksburg.com/contact-us/"
+web_form_link_seed: "https://www.charterfredericksburg.com/contact-us/"
+quoted_monthly_price_seed: "Published: private Assisted Living studio $4,995+/mo; 1BR $7,495+/mo"
+notes_seed: "Official site lists three meals/day, housekeeping, laundry, utilities and 24/7 assistance among assisted-living services."
+published_info_source_seed: "https://www.charterfredericksburg.com/floor-plans/ | https://www.charterfredericksburg.com/contact-us/"
 review_google_rating: 4.9
 review_google_count: 66
 review_yelp_rating: null

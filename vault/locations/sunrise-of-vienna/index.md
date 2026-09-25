@@ -17,6 +17,12 @@ price_confidence: "high"
 price_notes: "Official: AL studio-class $6,200+; larger suites $9,000+/$9,700+. 1BR over $8k stretch — selected studio. Care + med fees extra."
 phone_seed: "703-468-8968"
 contact_source_seed: "https://www.sunriseseniorliving.com/communities/va/sunrise-of-vienna"
+web_form_link_seed: "https://www.sunriseseniorliving.com/communities/va/sunrise-of-vienna"
+quoted_monthly_price_seed: "Published: $5,989+/mo base"
+medication_fee_seed: Priced separately from care level; amount not published
+waitlist_seed: Limited availability
+notes_seed: Base room rate excludes assessed care. Meals and selected services are included in room rate.
+published_info_source_seed: "https://www.sunriseseniorliving.com/communities/va/sunrise-of-vienna"
 status: stub
 want_to_review_date: null
 visit_date: null

@@ -18,6 +18,11 @@ price_notes: "Mirador 1BR ~$4,500+/mo under $5k preference; meals and med manage
 phone_seed: "571-624-1677"
 email_seed: "gcrutcher@atlasseniorliving.com"
 contact_source_seed: "https://atlasseniorliving.com/tribute-at-the-glen/"
+web_form_link_seed: "https://atlasseniorliving.com/tribute-at-the-glen/map-directions/"
+medication_fee_seed: Medication oversight/reminders offered; separate fee not published
+notes_seed: "Official community contact form is available; current community-specific assisted-living price is not publicly posted on the official site."
+published_info_source_seed: "https://atlasseniorliving.com/tribute-at-the-glen/map-directions/ | https://atlasseniorliving.com/tribute-at-the-glen/our-leadership-team/"
+contact_person_seed: Vincent Fontana (Sales Counselor)
 review_google_rating: 4.6
 review_google_count: 70
 review_yelp_rating: 3.8

@@ -17,6 +17,10 @@ price_confidence: "medium"
 price_notes: "No $ on Brightview pricing page. Seniorly: studio ~$5,800; 1BR ~$6,700. Mirador 1BR $7,335+. Selected cheaper studio. Includes ~5 hrs care/week + meals + med help per Brightview AL model."
 phone_seed: "571-496-8367"
 contact_source_seed: "https://www.brightviewseniorliving.com/find-a-community/brightview-fair-oaks"
+web_form_link_seed: "https://www.brightviewseniorliving.com/find-a-community/brightview-fair-oaks/pricing"
+medication_fee_seed: "No separate medication fee published; assistance taking medications is included within assisted-living services"
+notes_seed: "Assisted Living rate includes 5 hours of personal care per week and three chef-prepared meals per day. Price amount is gated behind the official pricing form."
+published_info_source_seed: "https://www.brightviewseniorliving.com/find-a-community/brightview-fair-oaks/pricing"
 review_google_rating: 4.8
 review_google_count: 105
 review_yelp_rating: null

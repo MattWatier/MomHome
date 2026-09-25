@@ -18,6 +18,11 @@ price_notes: "Private studio $6,947; 1BR alcove $7,872; standard 1BR $8,121 excl
 phone_seed: "240-290-4762"
 email_seed: "frdkreception@springarborliving.com"
 contact_source_seed: "https://www.allegroliving.com/communities/frederick"
+web_form_link_seed: "https://www.springarborliving.com/md/frederick/spring-arbor-of-frederick/contactus"
+quoted_monthly_price_seed: "Published: private Assisted Living studio $6,947/mo; 1BR alcove $7,872/mo"
+waitlist_seed: "Official availability page currently shows assisted-living units as waitlist / Add to Waitlist"
+notes_seed: Three meals per day plus snacks are listed among community amenities.
+published_info_source_seed: "https://www.springarborliving.com/md/frederick/spring-arbor-of-frederick/default | https://www.springarborliving.com/md/frederick/spring-arbor-of-frederick/contactus"
 status: stub
 want_to_review_date: null
 visit_date: null

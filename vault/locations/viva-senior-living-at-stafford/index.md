@@ -17,6 +17,11 @@ price_confidence: "medium"
 price_notes: "Private AL suite $6,000+/mo base; dining offered; additional care fees. Confirm studio vs 1BR."
 phone_seed: "540-288-9353"
 contact_source_seed: "https://www.vivaseniorliving.com/stafford"
+web_form_link_seed: "https://www.vivaseniorliving.com/contact-us"
+quoted_monthly_price_seed: "Published: private Assisted Living suite $6,000+/mo; companion $4,300+/mo"
+medication_fee_seed: Medication management offered; additional care is not included in published room price
+notes_seed: "Private-suite price is the relevant single-occupancy rate. Farm-to-table dining is listed among community services."
+published_info_source_seed: "https://www.vivaseniorliving.com/stafford | https://www.vivaseniorliving.com/contact-us"
 review_google_rating: 4.6
 review_google_count: 43
 review_yelp_rating: null

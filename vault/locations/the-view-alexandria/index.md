@@ -18,6 +18,11 @@ price_notes: "Official AL from $4,586/mo includes 3 meals, programs, weekly hous
 phone_seed: "703-797-3844"
 email_seed: "Info@GoodwinLiving.org"
 contact_source_seed: "https://theviewalexandria.org/contact/"
+web_form_link_seed: "https://theviewalexandria.org/contact/"
+quoted_monthly_price_seed: "Published: Assisted Living starts at $4,586/mo"
+medication_fee_seed: Additional medication management available via individualized care plan; fee not published
+notes_seed: "Month-to-month rental model; starting rate includes three daily meals, weekly housekeeping, linen service and programming."
+published_info_source_seed: "https://theviewalexandria.org/care-options/assisted-living/ | https://theviewalexandria.org/contact/"
 review_google_rating: 4.6
 review_google_count: 11
 review_yelp_rating: null

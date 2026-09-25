@@ -17,6 +17,11 @@ price_confidence: "medium"
 price_notes: "AL apartments from $3,900/mo; chef meals included; med assistance via AL care. Confirm studio vs 1BR under $5k."
 phone_seed: "571-348-4970"
 contact_source_seed: "https://www.harmonyseniorservices.com/community/harmony-at-spring-hill/"
+web_form_link_seed: "https://www.harmonyseniorservices.com/community/harmony-at-spring-hill/contact-us/"
+quoted_monthly_price_seed: "Published: Assisted Living apartments start at $3,900/mo"
+medication_fee_seed: Medication management may be part of assessed care; separate fee not published
+notes_seed: "No buy-in fee; care is personalized. Chef-prepared meals are part of community services."
+published_info_source_seed: "https://www.harmonyseniorservices.com/community/harmony-at-spring-hill/floor-plans/ | https://www.harmonyseniorservices.com/community/harmony-at-spring-hill/contact-us/"
 review_google_rating: 4.0
 review_google_count: 44
 review_yelp_rating: 3.5
