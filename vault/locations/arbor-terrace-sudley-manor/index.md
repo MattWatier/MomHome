@@ -88,7 +88,9 @@ _Seed price text kept in front matter (`price_range_seed`)._
 
 ## Inspections
 
-_Do not invent. Use inspection-pull skill (DSS + VDH)._
+See [inspections.md](inspections.md) (DSS + VDH pull, 2026-09-25).
+
+**Quick flags:** current DSS license type **COND**; 08/05/2026 DSS initial = no violations; historical 04/04/2024 PRN med-cart gap; VDH kitchen permitted with 08/07/2026 routine (mostly COS/maintenance) and fuller 09/11/2024 food-safety notes. All source URLs in the inspections note.
 
 ## Visits
 
