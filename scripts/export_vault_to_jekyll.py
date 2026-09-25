@@ -13,7 +13,40 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 VAULT_LOCATIONS = ROOT / "vault" / "locations"
-OUT_LOCATIONS = ROOT / "_output" / "_locations"
+OUT_DIR = ROOT / "_output"
+OUT_LOCATIONS = OUT_DIR / "_locations"
+OUT_CONFIG = OUT_DIR / "_config.yml"
+
+# Jekyll site config (not GitHub Actions). CI runs this export before
+# `jekyll build`, so a workflow YAML accidentally left in `_config.yml`
+# cannot empty `site.locations` on Pages.
+JEKYLL_CONFIG = """\
+title: MomHome
+description: Family planning site for assisted living near Vienna Metro, Virginia.
+url: ""
+baseurl: ""
+
+collections:
+  locations:
+    output: true
+    permalink: /locations/:slug/
+
+defaults:
+  - scope:
+      path: ""
+      type: locations
+    values:
+      layout: location
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
+
+sass:
+  style: compressed
+"""
 
 FM_RE = re.compile(r"^---\r?\n(.*?)\r?\n---\r?\n(.*)$", re.S)
 
@@ -53,9 +86,20 @@ def ensure_layout(fm_raw: str) -> str:
     return "\n".join(out)
 
 
+def ensure_jekyll_config() -> None:
+    """Write the Jekyll `_config.yml` (collections for `_locations`).
+
+    Leaves `.github/workflows/pages.yml` alone — that is the Actions config.
+    """
+    OUT_DIR.mkdir(parents=True, exist_ok=True)
+    OUT_CONFIG.write_text(JEKYLL_CONFIG, encoding="utf-8")
+
+
 def main() -> int:
     if not VAULT_LOCATIONS.is_dir():
         raise SystemExit(f"Missing vault locations: {VAULT_LOCATIONS}")
+
+    ensure_jekyll_config()
 
     if OUT_LOCATIONS.exists():
         shutil.rmtree(OUT_LOCATIONS)
@@ -79,6 +123,7 @@ def main() -> int:
     print(f"exported: {written}")
     print(f"skipped: {skipped}")
     print(f"dest: {OUT_LOCATIONS.relative_to(ROOT)}")
+    print(f"config: {OUT_CONFIG.relative_to(ROOT)}")
     return 0
 
 
