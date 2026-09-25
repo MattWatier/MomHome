@@ -28,8 +28,19 @@ contact_source_seed: "https://www.vivaseniorliving.com/stafford"
 - "https://assistedlivingmagazine.com/assisted-living/viva-senior-living-at-stafford/"
 - "https://www.dss.virginia.gov/printer/facility/search/alf.cgi?rm=Details;ID=51281;"
 - "https://www.vivaseniorliving.com/stafford"
+- "staff turnover and declining vibe since ~2024 per recent reviews"
+- "billing / price quotes changing after move-in"
+- "slow call-button response / understaffing"
+- "maintenance decline; conditional VA license status to verify"
+- "friendly staff and memory-care praise in older/positive cohort"
+- "cleanliness and activities when community was stable"
+- "https://www.seniorly.com/assisted-living/virginia/stafford/greenfield-assisted-living-of-stafford"
+- "https://www.aplaceformom.com/community/viva-senior-living-at-stafford-63453"
+- "https://assistedlivingmagazine.com/assisted-living/viva-senior-living-at-stafford/"
+- "https://www.dss.virginia.gov/printer/facility/search/alf.cgi?rm=Details;ID=51281;"
+- "https://www.vivaseniorliving.com/stafford"
 review_google_rating: 4.6
-review_google_count: null
+review_google_count: 43
 review_yelp_rating: null
 review_yelp_count: null
 review_overall_sentiment: "mixed"
@@ -47,6 +58,7 @@ review_source_urls:
 - "https://assistedlivingmagazine.com/assisted-living/viva-senior-living-at-stafford/"
 - "https://www.dss.virginia.gov/printer/facility/search/alf.cgi?rm=Details;ID=51281;"
 - "https://www.vivaseniorliving.com/stafford"
+- "https://ultimateseniorresource.com/management-companies/viva-senior-living"
 review_as_of: "2026-09-24"
 review_confidence: "medium"
 review_material_red_flags: true
@@ -81,7 +93,7 @@ _Seed price text kept in front matter (`price_range_seed`)._
 
 ## Ratings & sentiment
 
-- **Google:** 4.6/5
+- **Google:** 4.6/5 (~43)
 - **Yelp:** n/a / thin
 - **Overall sentiment:** mixed (confidence: medium)
 - **As of:** 2026-09-24

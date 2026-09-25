@@ -28,10 +28,21 @@ contact_source_seed: "https://www.sunriseseniorliving.com/communities/va/sunrise
 - "https://www.aplaceformom.com/community/sunrise-of-mt-vernon-95894"
 - "https://seniors.fyi/assisted-living/virginia/alexandria/sunrise-at-mount-vernon-18855"
 - "https://www.sunriseseniorliving.com/communities/va/sunrise-at-mount-vernon"
+- "night / weekend staffing and slow call-button response"
+- "care quality drop for higher-acuity / bedridden needs"
+- "food inconsistency; cost opacity"
+- "friendly staff and activities"
+- "clean welcoming facility"
+- "proximity to Mount Vernon Hospital"
+- "https://ultimateseniorresource.com/states/virginia/alexandria/sunrise-at-mount-vernon"
+- "https://www.mylivingchoice.com/property/sunrise-at-mount-vernon"
+- "https://www.aplaceformom.com/community/sunrise-of-mt-vernon-95894"
+- "https://seniors.fyi/assisted-living/virginia/alexandria/sunrise-at-mount-vernon-18855"
+- "https://www.sunriseseniorliving.com/communities/va/sunrise-at-mount-vernon"
 review_google_rating: 4.6
-review_google_count: 37
+review_google_count: 44
 review_yelp_rating: null
-review_yelp_count: 1
+review_yelp_count: null
 review_overall_sentiment: "mixed"
 review_red_flags:
 - "night / weekend staffing and slow call-button response"
@@ -48,7 +59,7 @@ review_source_urls:
 - "https://seniors.fyi/assisted-living/virginia/alexandria/sunrise-at-mount-vernon-18855"
 - "https://www.sunriseseniorliving.com/communities/va/sunrise-at-mount-vernon"
 review_as_of: "2026-09-24"
-review_confidence: "medium"
+review_confidence: "high"
 review_material_red_flags: true
 status: stub
 want_to_review_date: null
@@ -81,9 +92,9 @@ _Seed price text kept in front matter (`price_range_seed`)._
 
 ## Ratings & sentiment
 
-- **Google:** 4.6/5 (~37)
+- **Google:** 4.6/5 (~44)
 - **Yelp:** n/a / thin
-- **Overall sentiment:** mixed (confidence: medium)
+- **Overall sentiment:** mixed (confidence: high)
 - **As of:** 2026-09-24
 - Detail: see [reviews.md](reviews.md). All sources cited there.
 

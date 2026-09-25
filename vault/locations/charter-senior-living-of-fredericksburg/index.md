@@ -26,6 +26,15 @@ contact_source_seed: "https://www.charterfredericksburg.com/contact-us/"
 - "https://www.whereyoulivematters.org/find-a-community/charter-senior-living-of-fredericksburg/"
 - "https://charter-senior-living-of-fredericksburg.wheree.com/"
 - "https://www.carechanges.com/living-communities/charter-senior-living-of-fredericksburg_fredericksburg_virginia/"
+- "reported bedbug / scabies outbreak themes in aggregated feedback"
+- "staffing shortages affecting clinical consistency"
+- "warm compassionate staff"
+- "clean cozy atmosphere"
+- "activities and dining praised on Google-heavy sources"
+- "https://ultimateseniorresource.com/states/virginia/falmouth/charter-senior-living-of-fredericksburg"
+- "https://www.whereyoulivematters.org/find-a-community/charter-senior-living-of-fredericksburg/"
+- "https://charter-senior-living-of-fredericksburg.wheree.com/"
+- "https://www.carechanges.com/living-communities/charter-senior-living-of-fredericksburg_fredericksburg_virginia/"
 review_google_rating: 4.9
 review_google_count: 66
 review_yelp_rating: null

@@ -29,16 +29,30 @@ contact_source_seed: "https://www.harmonyseniorservices.com/community/harmony-at
 - "https://seniors.fyi/assisted-living/virginia/lorton/harmony-at-spring-hill-66102"
 - "https://www.aplaceformom.com/community/harmony-at-spring-hill-1410425"
 - "https://www.dss.virginia.gov/printer/facility/search/alf.cgi?rm=Inspection;Inspection=34649;ID=44360;"
-review_google_rating: 4.0
-review_google_count: 44
-review_yelp_rating: null
-review_yelp_count: null
-review_overall_sentiment: "mixed"
-review_red_flags:
 - "staffing shortages / shift-dependent care quality"
 - "supervision and retention of residents beyond facility capability (DSS complaint themes)"
 - "confusing billing / fee structure"
 - "memory-care experience more uneven than AL"
+- "attractive gated campus and amenities"
+- "friendly staff and warm family-like feel for many"
+- "activities and grounds"
+- "https://ultimateseniorresource.com/states/virginia/lorton/harmony-at-spring-hill"
+- "https://www.caring.com/senior-living/virginia/lorton/harmony-at-spring-hill"
+- "https://seniors.fyi/assisted-living/virginia/lorton/harmony-at-spring-hill-66102"
+- "https://www.aplaceformom.com/community/harmony-at-spring-hill-1410425"
+- "https://www.dss.virginia.gov/printer/facility/search/alf.cgi?rm=Inspection;Inspection=34649;ID=44360;"
+review_google_rating: 4.0
+review_google_count: 44
+review_yelp_rating: 3.5
+review_yelp_count: 7
+review_overall_sentiment: "mixed"
+review_red_flags:
+- "understaffing / shift-dependent care"
+- "memory-care hygiene and neglect claims (soiled briefs, wounds) in some reviews"
+- "elopement / fall / safety failures raised for memory care"
+- "abrupt discharge pressure when needs escalate"
+- "confusing billing / fee structure"
+- "DSS complaint inspection (Jun 2024) staffing/supervision/retention themes"
 review_pros:
 - "attractive gated campus and amenities"
 - "friendly staff and warm family-like feel for many"
@@ -49,6 +63,7 @@ review_source_urls:
 - "https://seniors.fyi/assisted-living/virginia/lorton/harmony-at-spring-hill-66102"
 - "https://www.aplaceformom.com/community/harmony-at-spring-hill-1410425"
 - "https://www.dss.virginia.gov/printer/facility/search/alf.cgi?rm=Inspection;Inspection=34649;ID=44360;"
+- "https://www.mapquest.com/us/virginia/harmony-at-spring-hill-423280386"
 review_as_of: "2026-09-24"
 review_confidence: "high"
 review_material_red_flags: true
@@ -84,7 +99,7 @@ _Seed price text kept in front matter (`price_range_seed`)._
 ## Ratings & sentiment
 
 - **Google:** 4.0/5 (~44)
-- **Yelp:** n/a / thin
+- **Yelp:** 3.5/5 (7)
 - **Overall sentiment:** mixed (confidence: high)
 - **As of:** 2026-09-24
 - Detail: see [reviews.md](reviews.md). All sources cited there.
@@ -93,10 +108,12 @@ _Seed price text kept in front matter (`price_range_seed`)._
 ## Red flags
 
 **Material / repeated themes:**
-- staffing shortages / shift-dependent care quality
-- supervision and retention of residents beyond facility capability (DSS complaint themes)
+- understaffing / shift-dependent care
+- memory-care hygiene and neglect claims (soiled briefs, wounds) in some reviews
+- elopement / fall / safety failures raised for memory care
+- abrupt discharge pressure when needs escalate
 - confusing billing / fee structure
-- memory-care experience more uneven than AL
+- DSS complaint inspection (Jun 2024) staffing/supervision/retention themes
 
 
 ## Inspections

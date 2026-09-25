@@ -15,20 +15,20 @@ Research date: 2026-09-24. Every block cites source URLs below. Do not treat dir
 - **Confidence:** medium
 - **Material red flags:** yes
 
-Google ~4.3; Yelp only 2 reviews at 3.0 — treat Yelp as thin. Mirador synthesis notes operational/dining/clinical caveats alongside strong staff praise.
+Google ~4.3/25 (USR); Mirador ~4.3/~109 with richest theme analysis (staff strong; billing/food/ops caveats). Yelp listing exists at 3.0/2 — treat as thin. No large Yelp corpus.
 
 ## Google
 
 - Average: 4.3/5 (25 reviews)
 - Sentiment: mixed
 - Red flags / repeated worries:
-- billing transparency / fee opacity
-- food quality complaints in a non-trivial minority
-- facility maintenance and occasional cleanliness rants (Yelp thin)
+  - billing transparency / fee opacity
+  - food quality complaints in a non-trivial minority
+  - facility maintenance and occasional cleanliness rants (Yelp thin)
 - Recurring pros:
-- compassionate / long-tenured staff praised often
-- resident engagement and dementia coordinator mentions
-- COVID-era communication reassurance for some families
+  - compassionate / long-tenured staff praised often
+  - resident engagement and dementia coordinator mentions
+  - COVID-era communication reassurance for some families
 
 ## Yelp
 

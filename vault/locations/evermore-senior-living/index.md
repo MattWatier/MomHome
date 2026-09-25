@@ -23,8 +23,14 @@ contact_source_seed: "https://www.seniorly.com/assisted-living/virginia/woodbrid
 - "https://seniors.fyi/assisted-living/virginia/woodbridge"
 - "https://www.senioradvisor.com/warrenton-va/assisted-living"
 - "https://www.oasissenioradvisors.com/community-guide/virginia/stafford/viva-at-stafford/"
+- "personalized care and attentive staff"
+- "clean nurturing home-like environment"
+- "food tailored / praised"
+- "https://seniors.fyi/assisted-living/virginia/woodbridge"
+- "https://www.senioradvisor.com/warrenton-va/assisted-living"
+- "https://www.oasissenioradvisors.com/community-guide/virginia/stafford/viva-at-stafford/"
 review_google_rating: 5.0
-review_google_count: 26
+review_google_count: 20
 review_yelp_rating: null
 review_yelp_count: null
 review_overall_sentiment: "positive"
@@ -37,8 +43,10 @@ review_source_urls:
 - "https://seniors.fyi/assisted-living/virginia/woodbridge"
 - "https://www.senioradvisor.com/warrenton-va/assisted-living"
 - "https://www.oasissenioradvisors.com/community-guide/virginia/stafford/viva-at-stafford/"
+- "https://olera.care/provider/evermore-senior-living-dale-city-va"
+- "https://evermoreseniorliving.com/"
 review_as_of: "2026-09-24"
-review_confidence: "low"
+review_confidence: "medium"
 review_material_red_flags: false
 status: stub
 want_to_review_date: null
@@ -71,9 +79,9 @@ _Seed price text kept in front matter (`price_range_seed`)._
 
 ## Ratings & sentiment
 
-- **Google:** 5.0/5 (~26)
+- **Google:** 5.0/5 (~20)
 - **Yelp:** n/a / thin
-- **Overall sentiment:** positive (confidence: low)
+- **Overall sentiment:** positive (confidence: medium)
 - **As of:** 2026-09-24
 - Detail: see [reviews.md](reviews.md). All sources cited there.
 

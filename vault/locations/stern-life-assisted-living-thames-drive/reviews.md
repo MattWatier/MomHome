@@ -22,11 +22,11 @@ Seed 5.0; public volume thin (operator site testimonials / seniors.fyi ~10). No 
 - Average: 5.0/5
 - Sentiment: thin
 - Red flags / repeated worries:
-- None recurring at research time.
+  - None recurring at research time.
 - Recurring pros:
-- compassionate named caregivers in testimonials
-- clean accessible neighborhood home
-- 24/7 med tech support cited by families
+  - compassionate named caregivers in testimonials
+  - clean accessible neighborhood home
+  - 24/7 med tech support cited by families
 
 ## Yelp
 

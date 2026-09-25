@@ -15,20 +15,20 @@ Research date: 2026-09-24. Every block cites source URLs below. Do not treat dir
 - **Confidence:** medium
 - **Material red flags:** yes
 
-Seed Google 4.6 conflicts with APFM lifetime ~3.9/56 and recent decline narratives. VA DSS shows conditional license (verify current). Material red flags.
+USR Google 4.6/43 vs APFM lifetime ~3.9/56 — conflict. Recent decline narratives: turnover, call-button delays, quote-vs-billed price changes, maintenance. VA DSS conditional license (verify current). Material red flags.
 
 ## Google
 
-- Average: 4.6/5
+- Average: 4.6/5 (43 reviews)
 - Sentiment: mixed
 - Red flags / repeated worries:
-- staff turnover and declining vibe since ~2024 per recent reviews
-- billing / price quotes changing after move-in
-- slow call-button response / understaffing
-- maintenance decline; conditional VA license status to verify
+  - staff turnover and declining vibe since ~2024 per recent reviews
+  - billing / price quotes changing after move-in
+  - slow call-button response / understaffing
+  - maintenance decline; conditional VA license status to verify
 - Recurring pros:
-- friendly staff and memory-care praise in older/positive cohort
-- cleanliness and activities when community was stable
+  - friendly staff and memory-care praise in older/positive cohort
+  - cleanliness and activities when community was stable
 
 ## Yelp
 
@@ -47,3 +47,4 @@ Seed Google 4.6 conflicts with APFM lifetime ~3.9/56 and recent decline narrativ
 - https://assistedlivingmagazine.com/assisted-living/viva-senior-living-at-stafford/
 - https://www.dss.virginia.gov/printer/facility/search/alf.cgi?rm=Details;ID=51281;
 - https://www.vivaseniorliving.com/stafford
+- https://ultimateseniorresource.com/management-companies/viva-senior-living

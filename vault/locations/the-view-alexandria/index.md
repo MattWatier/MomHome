@@ -28,8 +28,18 @@ contact_source_seed: "https://theviewalexandria.org/contact/"
 - "https://www.caring.com/senior-living/virginia/alexandria/the-view-alexandria"
 - "https://www.aplaceformom.com/community/the-view-alexandria-63441"
 - "https://theviewalexandria.org/who-we-are/"
-review_google_rating: 4.7
-review_google_count: null
+- "clinical / personal-care consistency (incontinence/catheter hygiene lapses in multiple reviews)"
+- "food quality inconsistency"
+- "family communication and management follow-through gaps"
+- "friendly staff"
+- "renovated apartments and amenities"
+- "activities / CCRC continuum value for many"
+- "https://www.miradorliving.com/assisted-living/virginia/alexandria/the-view-alexandria-by-goodwin-living"
+- "https://www.caring.com/senior-living/virginia/alexandria/the-view-alexandria"
+- "https://www.aplaceformom.com/community/the-view-alexandria-63441"
+- "https://theviewalexandria.org/who-we-are/"
+review_google_rating: 4.6
+review_google_count: 11
 review_yelp_rating: null
 review_yelp_count: null
 review_overall_sentiment: "mixed"
@@ -46,6 +56,7 @@ review_source_urls:
 - "https://www.caring.com/senior-living/virginia/alexandria/the-view-alexandria"
 - "https://www.aplaceformom.com/community/the-view-alexandria-63441"
 - "https://theviewalexandria.org/who-we-are/"
+- "https://www.mylivingchoice.com/property/the-view-alexandria-by-goodwin-living"
 review_as_of: "2026-09-24"
 review_confidence: "medium"
 review_material_red_flags: true
@@ -80,7 +91,7 @@ _Seed price text kept in front matter (`price_range_seed`)._
 
 ## Ratings & sentiment
 
-- **Google:** 4.7/5
+- **Google:** 4.6/5 (~11)
 - **Yelp:** n/a / thin
 - **Overall sentiment:** mixed (confidence: medium)
 - **As of:** 2026-09-24

@@ -22,19 +22,19 @@ Google ~4.2 (low-mid 20s reviews) vs Yelp ~2.7 (7). Aggregators echo mixed staff
 - Average: 4.2/5 (24 reviews)
 - Sentiment: mixed
 - Red flags / repeated worries:
-- staffing shortfalls especially in memory care
-- billing / unexpected rate increases
-- management and communication gaps
-- cleanliness concerns including pest mentions in some aggregators
+  - staffing shortfalls especially in memory care
+  - billing / unexpected rate increases
+  - management and communication gaps
+  - cleanliness concerns including pest mentions in some aggregators
 - Recurring pros:
-- caring named staff and welcoming feel
-- clean / well-kept appearance for many families
-- activities and community atmosphere
+  - caring named staff and welcoming feel
+  - clean / well-kept appearance for many families
+  - activities and community atmosphere
 
 ## Yelp
 
 - Average: 2.7/5 (7 reviews)
-- Notes: See sources.
+- Notes: See sources; weigh against Google themes.
 
 ## Staff picture (Glassdoor / LinkedIn)
 

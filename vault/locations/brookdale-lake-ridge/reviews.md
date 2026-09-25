@@ -15,20 +15,20 @@ Research date: 2026-09-24. Every block cites source URLs below. Do not treat dir
 - **Confidence:** medium
 - **Material red flags:** yes
 
-High ratings overall (Birdeye 4.8/146; seed Google 4.7) but recurring billing/communication minority themes — flag material for due diligence.
+Olera cites Google 4.7/37; seniors.fyi multi-source ~4.5/115; APFM lifetime ~4.1/69. Billing + clinical communication themes recur. Birdeye 4.8/146 looked polluted — not used as Google.
 
 ## Google
 
-- Average: 4.7/5
+- Average: 4.7/5 (37 reviews)
 - Sentiment: mixed
 - Red flags / repeated worries:
-- billing / cost transparency surprises
-- clinical communication gaps (esp. memory care)
-- staff turnover and uneven response times for a minority
+  - billing / cost transparency surprises
+  - clinical communication gaps (esp. memory care)
+  - staff turnover and uneven response times for a minority
 - Recurring pros:
-- caring engaged staff (dominant theme)
-- strong dining praise
-- clean maintained campus and memory-care engagement
+  - caring engaged staff (dominant theme)
+  - strong dining praise
+  - clean maintained campus and memory-care engagement
 
 ## Yelp
 
@@ -47,3 +47,4 @@ High ratings overall (Birdeye 4.8/146; seed Google 4.7) but recurring billing/co
 - https://www.seniorly.com/assisted-living/virginia/woodbridge/brookdale-lake-ridge
 - https://www.aplaceformom.com/community/brookdale-lake-ridge-63427
 - https://www.senioradvisor.com/local/emeritus-at-lake-ridge-woodbridge-va
+- https://olera.care/provider/brookdale-lake-ridge

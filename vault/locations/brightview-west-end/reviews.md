@@ -15,20 +15,20 @@ Research date: 2026-09-24. Every block cites source URLs below. Do not treat dir
 - **Confidence:** high
 - **Material red flags:** no
 
-Strong Google (~4.6–4.7). Operational caveats present but not a repeated severe neglect/safety cluster.
+MyLivingChoice Google 4.7/81. Critiques cluster on price, admin follow-through, dining — not repeated neglect. No dedicated Yelp found.
 
 ## Google
 
-- Average: 4.6/5 (69 reviews)
+- Average: 4.7/5 (81 reviews)
 - Sentiment: positive
 - Red flags / repeated worries:
-- management responsiveness / admin follow-through delays
-- staffing when occupancy fluctuates
-- dining consistency mixed
+  - management responsiveness / admin follow-through delays
+  - staffing when occupancy fluctuates
+  - dining consistency mixed
 - Recurring pros:
-- friendly professional staff
-- modern amenities and downtown Rockville location
-- activities and welcoming atmosphere
+  - friendly professional staff
+  - modern amenities and downtown Rockville location
+  - activities and welcoming atmosphere
 
 ## Yelp
 

@@ -27,15 +27,26 @@ contact_source_seed: "https://www.harmonyseniorservices.com/community/harmony-at
 - "https://www.mapquest.com/us/west-virginia/harmony-at-martinsburg-423276352"
 - "https://www.aplaceformom.com/community/harmony-at-martinsburg-1400007"
 - "https://seniors.fyi/assisted-living/west-virginia/martinsburg/harmony-at-martinsburg-57059"
+- "end-of-life / pain-management and clinical attentiveness complaints (Yelp)"
+- "memory-care safety adequacy questioned by some families"
+- "management change history; pushy sales notes"
+- "attentive staff and positive respite/move-in stories on Google"
+- "clean community for some reviewers"
+- "https://olera.care/provider/harmony-at-martinsburg-martinsburg-wv"
+- "https://ultimateseniorresource.com/states/west-virginia/martinsburg/harmony-at-martinsburg"
+- "https://www.mapquest.com/us/west-virginia/harmony-at-martinsburg-423276352"
+- "https://www.aplaceformom.com/community/harmony-at-martinsburg-1400007"
+- "https://seniors.fyi/assisted-living/west-virginia/martinsburg/harmony-at-martinsburg-57059"
 review_google_rating: 4.6
 review_google_count: 29
 review_yelp_rating: 3.0
 review_yelp_count: 5
 review_overall_sentiment: "mixed"
 review_red_flags:
+- "discharge / eviction when dementia behaviors escalate instead of memory-care transition (recurring theme)"
 - "end-of-life / pain-management and clinical attentiveness complaints (Yelp)"
 - "memory-care safety adequacy questioned by some families"
-- "management change history; pushy sales notes"
+- "management tone in crisis cases; rising cost as acuity grows"
 review_pros:
 - "attentive staff and positive respite/move-in stories on Google"
 - "clean community for some reviewers"
@@ -89,9 +100,10 @@ _Seed price text kept in front matter (`price_range_seed`)._
 ## Red flags
 
 **Material / repeated themes:**
+- discharge / eviction when dementia behaviors escalate instead of memory-care transition (recurring theme)
 - end-of-life / pain-management and clinical attentiveness complaints (Yelp)
 - memory-care safety adequacy questioned by some families
-- management change history; pushy sales notes
+- management tone in crisis cases; rising cost as acuity grows
 
 
 ## Inspections

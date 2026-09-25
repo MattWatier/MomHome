@@ -22,12 +22,12 @@ Strong Google (~4.8). Birdeye 4.6/167 aggregated. Food dislike appears one-off-i
 - Average: 4.8/5 (66 reviews)
 - Sentiment: positive
 - Red flags / repeated worries:
-- cost perceived as high by some
-- communal spa showers (no in-room shower) noted as layout/privacy concern
+  - cost perceived as high by some
+  - communal spa showers (no in-room shower) noted as layout/privacy concern
 - Recurring pros:
-- friendly attentive staff
-- clean renovated facility
-- activities and engaging atmosphere
+  - friendly attentive staff
+  - clean renovated facility
+  - activities and engaging atmosphere
 
 ## Yelp
 

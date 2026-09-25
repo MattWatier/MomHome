@@ -15,20 +15,20 @@ Research date: 2026-09-24. Every block cites source URLs below. Do not treat dir
 - **Confidence:** medium
 - **Material red flags:** yes
 
-Google ~4.5–4.7 but Caring ~3.8/33. Elevator/safety and food-handling themes are recent and material — verify current status on tour.
+Google ~4.6/27 (other sites 4.5–4.7/22–27). Yelp page exists but rating not scrapeable this pass. Caring ~3.8/33 conflicts. Elevator outage + food handling are material safety/ops diligence items.
 
 ## Google
 
-- Average: 4.6/5 (26 reviews)
+- Average: 4.6/5 (27 reviews)
 - Sentiment: mixed
 - Red flags / repeated worries:
-- prolonged elevator outage trapping residents (safety / access)
-- food handling / reheating concerns raised in recent reviews
-- price vs delivered care dissatisfaction for some
+  - prolonged elevator outage trapping residents (safety / access)
+  - food handling / reheating concerns raised in recent reviews
+  - price vs delivered care dissatisfaction for some
 - Recurring pros:
-- kind staff and care coordinators
-- nice location near park trails
-- variety of room layouts
+  - kind staff and care coordinators
+  - nice location near park trails
+  - variety of room layouts
 
 ## Yelp
 
@@ -46,3 +46,5 @@ Google ~4.5–4.7 but Caring ~3.8/33. Elevator/safety and food-handling themes a
 - https://ultimateseniorresource.com/states/virginia/arlington/sunrise-at-bluemont-park
 - https://www.caring.com/senior-living/virginia/arlington/sunrise-at-bluemont-park-22205
 - https://www.whereyoulivematters.org/find-a-community/sunrise-at-bluemont-park/
+- https://www.yelp.com/biz/sunrise-at-bluemont-park-arlington
+- https://www.miradorliving.com/assisted-living/virginia/arlington/sunrise-at-bluemont-park

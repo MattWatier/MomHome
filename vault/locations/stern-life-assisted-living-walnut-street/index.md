@@ -21,6 +21,9 @@ contact_source_seed: "https://sternlifeassistedliving.com/"
 - "same Stern Life boutique home brand; positive family testimonials on operator site"
 - "https://sternlifeassistedliving.com/"
 - "https://www.oasissenioradvisors.com/community-guide/maryland/frederick/stern-life-assisted-living-2/"
+- "same Stern Life boutique home brand; positive family testimonials on operator site"
+- "https://sternlifeassistedliving.com/"
+- "https://www.oasissenioradvisors.com/community-guide/maryland/frederick/stern-life-assisted-living-2/"
 review_google_rating: null
 review_google_count: null
 review_yelp_rating: null

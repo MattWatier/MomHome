@@ -26,6 +26,15 @@ contact_source_seed: "https://www.arborcompany.com/locations/virginia/manassas-s
 - "https://birdeye.com/arbor-terrace-sudley-manor-156864271070255"
 - "https://www.caring.com/senior-living/virginia/manassas/arbor-terrace-at-sudley-manor"
 - "https://www.familyassets.com/assisted-living/virginia/manassas/arbor-terrace-sudley-manor"
+- "cost perceived as high by some"
+- "communal spa showers (no in-room shower) noted as layout/privacy concern"
+- "friendly attentive staff"
+- "clean renovated facility"
+- "activities and engaging atmosphere"
+- "https://ultimateseniorresource.com/states/virginia/manassas/arbor-terrace-sudley-manor"
+- "https://birdeye.com/arbor-terrace-sudley-manor-156864271070255"
+- "https://www.caring.com/senior-living/virginia/manassas/arbor-terrace-at-sudley-manor"
+- "https://www.familyassets.com/assisted-living/virginia/manassas/arbor-terrace-sudley-manor"
 review_google_rating: 4.8
 review_google_count: 66
 review_yelp_rating: null

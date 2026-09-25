@@ -22,9 +22,9 @@ No separate Google/Yelp footprint found for Walnut Street. Thin data.
 - Average: _Not found / not usable_
 - Sentiment: thin
 - Red flags / repeated worries:
-- None recurring at research time.
+  - None recurring at research time.
 - Recurring pros:
-- same Stern Life boutique home brand; positive family testimonials on operator site
+  - same Stern Life boutique home brand; positive family testimonials on operator site
 
 ## Yelp
 

@@ -29,6 +29,18 @@ contact_source_seed: "https://www.sunriseseniorliving.com/communities/va/sunrise
 - "https://www.seniorly.com/assisted-living/virginia/alexandria/sunrise-of-alexandria"
 - "https://www.yelp.com/search?find_desc=Sunrise+Senior+Living&find_loc=Washington%2C+DC"
 - "https://www.senioradvisor.com/local/sunrise-of-alexandria-alexandria-va"
+- "staffing shortfalls especially in memory care"
+- "billing / unexpected rate increases"
+- "management and communication gaps"
+- "cleanliness concerns including pest mentions in some aggregators"
+- "caring named staff and welcoming feel"
+- "clean / well-kept appearance for many families"
+- "activities and community atmosphere"
+- "https://ultimateseniorresource.com/states/virginia/alexandria/sunrise-of-alexandria"
+- "https://www.caring.com/senior-living/virginia/alexandria/sunrise-of-alexandria-22304"
+- "https://www.seniorly.com/assisted-living/virginia/alexandria/sunrise-of-alexandria"
+- "https://www.yelp.com/search?find_desc=Sunrise+Senior+Living&find_loc=Washington%2C+DC"
+- "https://www.senioradvisor.com/local/sunrise-of-alexandria-alexandria-va"
 review_google_rating: 4.2
 review_google_count: 24
 review_yelp_rating: 2.7

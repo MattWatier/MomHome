@@ -15,20 +15,20 @@ Research date: 2026-09-24. Every block cites source URLs below. Do not treat dir
 - **Confidence:** medium
 - **Material red flags:** yes
 
-Seed Google 4.7; Mirador ~4.2/52 mixed with serious clinical caveats. Caring thin (8). No clear Yelp rating found.
+Google 4.6/11 is thin volume despite strong average (Caring also ~4.6/8). Mirador ~4.3/54 surfaces clinical/ops caveats. No usable Yelp. Probe unit-level clinical consistency on tour.
 
 ## Google
 
-- Average: 4.7/5
+- Average: 4.6/5 (11 reviews)
 - Sentiment: mixed
 - Red flags / repeated worries:
-- clinical / personal-care consistency (incontinence/catheter hygiene lapses in multiple reviews)
-- food quality inconsistency
-- family communication and management follow-through gaps
+  - clinical / personal-care consistency (incontinence/catheter hygiene lapses in multiple reviews)
+  - food quality inconsistency
+  - family communication and management follow-through gaps
 - Recurring pros:
-- friendly staff
-- renovated apartments and amenities
-- activities / CCRC continuum value for many
+  - friendly staff
+  - renovated apartments and amenities
+  - activities / CCRC continuum value for many
 
 ## Yelp
 
@@ -46,3 +46,4 @@ Seed Google 4.7; Mirador ~4.2/52 mixed with serious clinical caveats. Caring thi
 - https://www.caring.com/senior-living/virginia/alexandria/the-view-alexandria
 - https://www.aplaceformom.com/community/the-view-alexandria-63441
 - https://theviewalexandria.org/who-we-are/
+- https://www.mylivingchoice.com/property/the-view-alexandria-by-goodwin-living

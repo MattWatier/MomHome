@@ -15,19 +15,19 @@ Research date: 2026-09-24. Every block cites source URLs below. Do not treat dir
 - **Confidence:** medium
 - **Material red flags:** yes
 
-Very high Google (~4.9) conflicts with pest/staffing caveats on CareChanges/Wheree. Treat as material until DSS/VDH and tour clear it. No solid Yelp rating found.
+Very high Google (~4.9/66–68) coexists with repeated bedbug/scabies and understaffing themes on Seniorly/CareChanges/APFM. Do not treat stars alone as clearance. No solid Yelp listing found.
 
 ## Google
 
 - Average: 4.9/5 (66 reviews)
 - Sentiment: mixed
 - Red flags / repeated worries:
-- reported bedbug / scabies outbreak themes in aggregated feedback
-- staffing shortages affecting clinical consistency
+  - reported bedbug / scabies outbreak themes in aggregated feedback
+  - staffing shortages affecting clinical consistency
 - Recurring pros:
-- warm compassionate staff
-- clean cozy atmosphere
-- activities and dining praised on Google-heavy sources
+  - warm compassionate staff
+  - clean cozy atmosphere
+  - activities and dining praised on Google-heavy sources
 
 ## Yelp
 

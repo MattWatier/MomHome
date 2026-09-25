@@ -15,19 +15,19 @@ Research date: 2026-09-24. Every block cites source URLs below. Do not treat dir
 - **Confidence:** high
 - **Material red flags:** yes
 
-Google excellent (~4.8). Material flag is narrower: probe memory-care safety/incident response on tour — less about day-to-day AL hospitality.
+Google excellent (~4.8/93–105). Material flag is narrower: memory-care pressure/decision transparency and isolated alarm/wandering themes — not a high-volume neglect chorus. Probe on tour.
 
 ## Google
 
-- Average: 4.8/5 (91 reviews)
+- Average: 4.8/5 (105 reviews)
 - Sentiment: positive
 - Red flags / repeated worries:
-- memory-care decision pressure / documentation transparency concerns
-- alarm response / wandering safety themes in some aggregators
+  - memory-care decision pressure / documentation transparency concerns
+  - alarm response / wandering safety themes in some aggregators
 - Recurring pros:
-- kind professional staff
-- clean vibrant programming and dining
-- strong overall Google score
+  - kind professional staff
+  - clean vibrant programming and dining
+  - strong overall Google score
 
 ## Yelp
 

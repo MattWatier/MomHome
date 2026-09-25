@@ -28,8 +28,19 @@ contact_source_seed: "https://www.brookdale.com/en/communities/brookdale-potomac
 - "https://www.aplaceformom.com/community/brookdale-potomac-78842"
 - "https://www.seniorly.com/assisted-living/maryland/potomac/brookdale-potomac"
 - "https://assistedlivingscout.com/assisted-living/brookdale-potomac"
+- "weekend / off-shift staffing shortages and slow call response"
+- "billing errors and administrative unresponsiveness"
+- "hygiene / medication delay anecdotes when short-staffed"
+- "compassionate professional staff for many families"
+- "clean home-like environment"
+- "activities and therapy support"
+- "https://www.mylivingchoice.com/property/brookdale-potomac"
+- "https://seniors.fyi/assisted-living/maryland/potomac/brookdale-potomac-12240"
+- "https://www.aplaceformom.com/community/brookdale-potomac-78842"
+- "https://www.seniorly.com/assisted-living/maryland/potomac/brookdale-potomac"
+- "https://assistedlivingscout.com/assisted-living/brookdale-potomac"
 review_google_rating: 4.7
-review_google_count: 96
+review_google_count: 97
 review_yelp_rating: null
 review_yelp_count: null
 review_overall_sentiment: "mixed"
@@ -81,7 +92,7 @@ _Seed price text kept in front matter (`price_range_seed`)._
 
 ## Ratings & sentiment
 
-- **Google:** 4.7/5 (~96)
+- **Google:** 4.7/5 (~97)
 - **Yelp:** n/a / thin
 - **Overall sentiment:** mixed (confidence: high)
 - **As of:** 2026-09-24

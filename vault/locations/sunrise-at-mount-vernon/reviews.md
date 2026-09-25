@@ -12,23 +12,23 @@ Research date: 2026-09-24. Every block cites source URLs below. Do not treat dir
 ## Summary
 
 - **Overall sentiment:** mixed
-- **Confidence:** medium
+- **Confidence:** high
 - **Material red flags:** yes
 
-Seed 3.7 vs aggregators showing Google ~4.6 — conflict; record both. Yelp essentially empty. Night-staffing theme recurs enough to flag.
+Google ~4.6 (37–44 across aggregators). Caring.com much lower (~3.7/29) — real conflict. Night staffing, call response, and high-acuity fit recur. No usable Yelp. Seed 3.7 may reflect Caring-era scrape.
 
 ## Google
 
-- Average: 4.6/5 (37 reviews)
+- Average: 4.6/5 (44 reviews)
 - Sentiment: mixed
 - Red flags / repeated worries:
-- night / weekend staffing and slow call-button response
-- care quality drop for higher-acuity / bedridden needs
-- food inconsistency; cost opacity
+  - night / weekend staffing and slow call-button response
+  - care quality drop for higher-acuity / bedridden needs
+  - food inconsistency; cost opacity
 - Recurring pros:
-- friendly staff and activities
-- clean welcoming facility
-- proximity to Mount Vernon Hospital
+  - friendly staff and activities
+  - clean welcoming facility
+  - proximity to Mount Vernon Hospital
 
 ## Yelp
 

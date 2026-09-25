@@ -22,13 +22,13 @@ Birdeye 4.5 (Google subset ~52). Concerns lean SNF/weekend more than AL day-to-d
 - Average: 4.5/5 (52 reviews)
 - Sentiment: mixed
 - Red flags / repeated worries:
-- weekend / skilled-nursing staffing attentiveness concerns
-- buffet / dining dissatisfaction for some
-- annual fee increases and turnover in food/building services
+  - weekend / skilled-nursing staffing attentiveness concerns
+  - buffet / dining dissatisfaction for some
+  - annual fee increases and turnover in food/building services
 - Recurring pros:
-- beautiful campus and amenities
-- kind staff
-- CCRC continuum and activities
+  - beautiful campus and amenities
+  - kind staff
+  - CCRC continuum and activities
 
 ## Yelp
 

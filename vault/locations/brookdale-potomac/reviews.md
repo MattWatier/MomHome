@@ -15,20 +15,20 @@ Research date: 2026-09-24. Every block cites source URLs below. Do not treat dir
 - **Confidence:** high
 - **Material red flags:** yes
 
-Google ~4.7/96 with repeated staffing/billing caveats in Seniorly/APFM. Seed 5.0 slightly optimistic.
+MyLivingChoice Google 4.7/97. Caring.com cooler (~3.9/21) — conflict. Weekend staffing, call response, billing/admin themes justify material flag despite strong Google mean.
 
 ## Google
 
-- Average: 4.7/5 (96 reviews)
+- Average: 4.7/5 (97 reviews)
 - Sentiment: mixed
 - Red flags / repeated worries:
-- weekend / off-shift staffing shortages and slow call response
-- billing errors and administrative unresponsiveness
-- hygiene / medication delay anecdotes when short-staffed
+  - weekend / off-shift staffing shortages and slow call response
+  - billing errors and administrative unresponsiveness
+  - hygiene / medication delay anecdotes when short-staffed
 - Recurring pros:
-- compassionate professional staff for many families
-- clean home-like environment
-- activities and therapy support
+  - compassionate professional staff for many families
+  - clean home-like environment
+  - activities and therapy support
 
 ## Yelp
 

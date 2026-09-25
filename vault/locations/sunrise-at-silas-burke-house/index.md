@@ -29,6 +29,18 @@ contact_source_seed: "https://www.sunriseseniorliving.com/communities/va/sunrise
 - "https://web.seniorly.com/assisted-living/virginia/burke/sunrise-at-silas-burke-house"
 - "https://seniors.fyi/assisted-living/virginia/burke/sunrise-at-silas-burke-house-31432"
 - "https://www.mylivingchoice.com/properties/best-senior-living/burke/virginia"
+- "high staff turnover"
+- "poor family communication / unresponsive leadership when issues escalate"
+- "care plan gaps when acuity rises; discharge/eviction friction"
+- "medical follow-up and call-bell responsiveness concerns"
+- "clean cheerful campus"
+- "friendly staff and good memory-care experiences for some"
+- "dining and activities praised by positive cohort"
+- "https://ultimateseniorresource.com/states/virginia/burke/sunrise-at-silas-burke-house"
+- "https://findwithcare.com/community/sunrise-at-silas-burke-house--rvmvdjwkzdhp8fcs6pe0xojn"
+- "https://web.seniorly.com/assisted-living/virginia/burke/sunrise-at-silas-burke-house"
+- "https://seniors.fyi/assisted-living/virginia/burke/sunrise-at-silas-burke-house-31432"
+- "https://www.mylivingchoice.com/properties/best-senior-living/burke/virginia"
 review_google_rating: 3.9
 review_google_count: 15
 review_yelp_rating: null

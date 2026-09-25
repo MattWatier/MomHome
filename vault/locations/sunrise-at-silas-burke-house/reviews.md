@@ -22,14 +22,14 @@ Seed 5.0 conflicts with current Google ~3.9 (thin) and broader mixed aggregators
 - Average: 3.9/5 (15 reviews)
 - Sentiment: mixed
 - Red flags / repeated worries:
-- high staff turnover
-- poor family communication / unresponsive leadership when issues escalate
-- care plan gaps when acuity rises; discharge/eviction friction
-- medical follow-up and call-bell responsiveness concerns
+  - high staff turnover
+  - poor family communication / unresponsive leadership when issues escalate
+  - care plan gaps when acuity rises; discharge/eviction friction
+  - medical follow-up and call-bell responsiveness concerns
 - Recurring pros:
-- clean cheerful campus
-- friendly staff and good memory-care experiences for some
-- dining and activities praised by positive cohort
+  - clean cheerful campus
+  - friendly staff and good memory-care experiences for some
+  - dining and activities praised by positive cohort
 
 ## Yelp
 

@@ -22,9 +22,9 @@ Essentially no public Google/Yelp review volume. Small home — rely on MD OHCQ 
 - Average: _Not found / not usable_
 - Sentiment: thin
 - Red flags / repeated worries:
-- None recurring at research time.
+  - None recurring at research time.
 - Recurring pros:
-- owner-operated 5-resident home model (operator marketing)
+  - owner-operated 5-resident home model (operator marketing)
 
 ## Yelp
 

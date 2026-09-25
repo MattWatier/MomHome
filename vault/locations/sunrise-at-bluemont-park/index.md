@@ -27,8 +27,18 @@ contact_source_seed: "https://www.sunriseseniorliving.com/communities/va/sunrise
 - "https://ultimateseniorresource.com/states/virginia/arlington/sunrise-at-bluemont-park"
 - "https://www.caring.com/senior-living/virginia/arlington/sunrise-at-bluemont-park-22205"
 - "https://www.whereyoulivematters.org/find-a-community/sunrise-at-bluemont-park/"
+- "prolonged elevator outage trapping residents (safety / access)"
+- "food handling / reheating concerns raised in recent reviews"
+- "price vs delivered care dissatisfaction for some"
+- "kind staff and care coordinators"
+- "nice location near park trails"
+- "variety of room layouts"
+- "https://www.mylivingchoice.com/property/sunrise-at-bluemont-park"
+- "https://ultimateseniorresource.com/states/virginia/arlington/sunrise-at-bluemont-park"
+- "https://www.caring.com/senior-living/virginia/arlington/sunrise-at-bluemont-park-22205"
+- "https://www.whereyoulivematters.org/find-a-community/sunrise-at-bluemont-park/"
 review_google_rating: 4.6
-review_google_count: 26
+review_google_count: 27
 review_yelp_rating: null
 review_yelp_count: null
 review_overall_sentiment: "mixed"
@@ -45,6 +55,8 @@ review_source_urls:
 - "https://ultimateseniorresource.com/states/virginia/arlington/sunrise-at-bluemont-park"
 - "https://www.caring.com/senior-living/virginia/arlington/sunrise-at-bluemont-park-22205"
 - "https://www.whereyoulivematters.org/find-a-community/sunrise-at-bluemont-park/"
+- "https://www.yelp.com/biz/sunrise-at-bluemont-park-arlington"
+- "https://www.miradorliving.com/assisted-living/virginia/arlington/sunrise-at-bluemont-park"
 review_as_of: "2026-09-24"
 review_confidence: "medium"
 review_material_red_flags: true
@@ -79,7 +91,7 @@ _Seed price text kept in front matter (`price_range_seed`)._
 
 ## Ratings & sentiment
 
-- **Google:** 4.6/5 (~26)
+- **Google:** 4.6/5 (~27)
 - **Yelp:** n/a / thin
 - **Overall sentiment:** mixed (confidence: medium)
 - **As of:** 2026-09-24

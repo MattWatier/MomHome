@@ -11,26 +11,26 @@ Research date: 2026-09-24. Every block cites source URLs below. Do not treat dir
 
 ## Summary
 
-- **Overall sentiment:** positive
-- **Confidence:** medium
+- **Overall sentiment:** thin
+- **Confidence:** low
 - **Material red flags:** no
 
-Google volume modest (~11–14). Seed 4.8 may be stale vs current Google ~4.0–4.2. No usable Yelp found. No repeated serious red-flag cluster.
+Google volume modest (~11–14 at ~4.2). Yelp is one scathing review only — severe but not a recurring pattern. Seed 4.8 may be stale. Thin-positive overall.
 
 ## Google
 
 - Average: 4.2/5 (14 reviews)
-- Sentiment: positive
+- Sentiment: thin
 - Red flags / repeated worries:
-- None recurring at research time.
+  - single severe historical Yelp allegation of medical neglect (2020–2021) — not a repeated Google theme
 - Recurring pros:
-- helpful / welcoming staff
-- reasonable cost relative to care for some families
-- clean transition support
+  - helpful / welcoming staff
+  - reasonable cost relative to care for some families
+  - clean transition support
 
 ## Yelp
 
-- Average: _Not found / not usable_
+- Average: 1.0/5 (1 reviews)
 - Notes: Thin or no Yelp presence — do not overweight.
 
 ## Staff picture (Glassdoor / LinkedIn)
@@ -44,3 +44,4 @@ Google volume modest (~11–14). Seed 4.8 may be stale vs current Google ~4.0–
 - https://ultimateseniorresource.com/states/virginia/fairfax/braddock-glen
 - https://health.usnews.com/best-senior-living/braddock-glen-1255
 - https://www.aplaceformom.com/community/sunrise-braddock-glen-141843
+- https://www.mapquest.com/us/virginia/braddock-glen-266317275

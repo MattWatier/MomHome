@@ -15,24 +15,25 @@ Research date: 2026-09-24. Every block cites source URLs below. Do not treat dir
 - **Confidence:** medium
 - **Material red flags:** yes
 
-Google ~4.5–4.6 vs Yelp 3.0/5 with severe care anecdotes. Sources conflict — flag material and verify on tour + WV licensing.
+Google ~4.6/29 vs Yelp 3.0/5 with severe care anecdotes. Dementia-discharge theme appears across independent write-ups. Sources conflict — verify on tour + WV licensing.
 
 ## Google
 
 - Average: 4.6/5 (29 reviews)
 - Sentiment: mixed
 - Red flags / repeated worries:
-- end-of-life / pain-management and clinical attentiveness complaints (Yelp)
-- memory-care safety adequacy questioned by some families
-- management change history; pushy sales notes
+  - discharge / eviction when dementia behaviors escalate instead of memory-care transition (recurring theme)
+  - end-of-life / pain-management and clinical attentiveness complaints (Yelp)
+  - memory-care safety adequacy questioned by some families
+  - management tone in crisis cases; rising cost as acuity grows
 - Recurring pros:
-- attentive staff and positive respite/move-in stories on Google
-- clean community for some reviewers
+  - attentive staff and positive respite/move-in stories on Google
+  - clean community for some reviewers
 
 ## Yelp
 
 - Average: 3.0/5 (5 reviews)
-- Notes: See sources.
+- Notes: See sources; weigh against Google themes.
 
 ## Staff picture (Glassdoor / LinkedIn)
 

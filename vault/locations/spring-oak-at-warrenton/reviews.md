@@ -11,21 +11,23 @@ Research date: 2026-09-24. Every block cites source URLs below. Do not treat dir
 
 ## Summary
 
-- **Overall sentiment:** thin
+- **Overall sentiment:** mixed
 - **Confidence:** low
-- **Material red flags:** no
+- **Material red flags:** yes
 
-Thin public volume (APFM ~15; U.S. News 6). Seed Google 4.4. No clear Yelp. Generally positive with low confidence.
+No aggregator reliably cited a Google Maps rating/count for 239 Alexandria Pike. APFM ~4.0/15; SeniorAdvisor ~4.0/14; US News 4.2/6. Seed Google 4.4 may be unverified. Staffing thinness recurs enough for a material flag despite low volume. No Yelp.
 
 ## Google
 
-- Average: 4.4/5
-- Sentiment: thin
+- Average: _Not found / not usable_
+- Sentiment: mixed
 - Red flags / repeated worries:
-- older building / limited activities noted by some tour-style reviews
+  - thin staffing / lapses in attention (recurring in small sample)
+  - limited activities / dated building notes
+  - falls / acuity-fit concerns in some reviews
 - Recurring pros:
-- loving caring caregivers / home-like feel
-- peace of mind for several family reviews
+  - loving caring caregivers / home-like feel
+  - peace of mind for several family reviews
 
 ## Yelp
 

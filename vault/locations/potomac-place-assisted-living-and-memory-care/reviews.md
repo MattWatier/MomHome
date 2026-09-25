@@ -15,21 +15,21 @@ Research date: 2026-09-24. Every block cites source URLs below. Do not treat dir
 - **Confidence:** medium
 - **Material red flags:** yes
 
-Repeated post-COVID decline / turnover / billing themes across Birdeye and A Place for Mom. Google volume modest.
+Google ~4.2/11 (thin). Broader directories ~4.0–4.4 with mixed ops themes: post-COVID key-staff turnover, billing mistakes, above-inflation increases, weak management comms. Nursing often still praised.
 
 ## Google
 
-- Average: 4.1/5 (15 reviews)
+- Average: 4.2/5 (11 reviews)
 - Sentiment: mixed
 - Red flags / repeated worries:
-- key-staff / management turnover since COVID
-- billing mistakes and above-inflation annual increases
-- weak management communication; maintenance backlogs
-- memory-care staffing consistency concerns
+  - key-staff / management turnover since COVID
+  - billing mistakes and above-inflation annual increases
+  - weak management communication; maintenance backlogs
+  - memory-care staffing consistency concerns
 - Recurring pros:
-- warm home-like atmosphere for many
-- nursing staff often praised even when admin is not
-- affordable relative to NoVA peers in some tour notes
+  - warm home-like atmosphere for many
+  - nursing staff often praised even when admin is not
+  - affordable relative to NoVA peers in some tour notes
 
 ## Yelp
 

@@ -28,6 +28,17 @@ contact_source_seed: "https://www.thevillageatorchardridge.org/request-info/"
 - "https://www.mycaringplan.com/senior-living/the-village-at-orchard-ridge/"
 - "https://www.familyassets.com/nursing-homes/virginia/winchester/the-village-at-orchard-ridge"
 - "https://www.carechanges.com/living-communities/the-village-at-orchard-ridge_winchester_virginia/"
+- "weekend / skilled-nursing staffing attentiveness concerns"
+- "buffet / dining dissatisfaction for some"
+- "annual fee increases and turnover in food/building services"
+- "beautiful campus and amenities"
+- "kind staff"
+- "CCRC continuum and activities"
+- "https://birdeye.com/the-village-at-orchard-ridge-177273772112406"
+- "https://www.thevillageatorchardridge.org/"
+- "https://www.mycaringplan.com/senior-living/the-village-at-orchard-ridge/"
+- "https://www.familyassets.com/nursing-homes/virginia/winchester/the-village-at-orchard-ridge"
+- "https://www.carechanges.com/living-communities/the-village-at-orchard-ridge_winchester_virginia/"
 review_google_rating: 4.5
 review_google_count: 52
 review_yelp_rating: null

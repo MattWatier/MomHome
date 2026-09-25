@@ -28,8 +28,19 @@ contact_source_seed: "https://www.brightviewseniorliving.com/find-a-community/br
 - "https://www.seniorly.com/assisted-living/maryland/rockville/brightview-west-end"
 - "https://www.carechanges.com/living-communities/brightview-west-end_rockville_maryland/"
 - "https://seniors.fyi/assisted-living/maryland/rockville/brightview-west-end-74564"
-review_google_rating: 4.6
-review_google_count: 69
+- "management responsiveness / admin follow-through delays"
+- "staffing when occupancy fluctuates"
+- "dining consistency mixed"
+- "friendly professional staff"
+- "modern amenities and downtown Rockville location"
+- "activities and welcoming atmosphere"
+- "https://ultimateseniorresource.com/states/maryland/rockville/brightview-west-end"
+- "https://www.mylivingchoice.com/property/brightview-west-end-senior-independent-living-assisted-living-memory-care-enhanced-care"
+- "https://www.seniorly.com/assisted-living/maryland/rockville/brightview-west-end"
+- "https://www.carechanges.com/living-communities/brightview-west-end_rockville_maryland/"
+- "https://seniors.fyi/assisted-living/maryland/rockville/brightview-west-end-74564"
+review_google_rating: 4.7
+review_google_count: 81
 review_yelp_rating: null
 review_yelp_count: null
 review_overall_sentiment: "positive"
@@ -81,7 +92,7 @@ _Seed price text kept in front matter (`price_range_seed`)._
 
 ## Ratings & sentiment
 
-- **Google:** 4.6/5 (~69)
+- **Google:** 4.7/5 (~81)
 - **Yelp:** n/a / thin
 - **Overall sentiment:** positive (confidence: high)
 - **As of:** 2026-09-24

@@ -25,8 +25,16 @@ contact_source_seed: "https://www.brightviewseniorliving.com/find-a-community/br
 - "https://ultimateseniorresource.com/states/virginia/fairfax/brightview-fair-oaks-senior-independent-living-assisted-living-memory-care-fairfax-va"
 - "https://www.mylivingchoice.com/property/brightview-fair-oaks-senior-independent-living-assisted-living-memory-care"
 - "https://seniors.fyi/assisted-living/virginia/fairfax/brightview-fair-oaks-54054"
+- "memory-care decision pressure / documentation transparency concerns"
+- "alarm response / wandering safety themes in some aggregators"
+- "kind professional staff"
+- "clean vibrant programming and dining"
+- "strong overall Google score"
+- "https://ultimateseniorresource.com/states/virginia/fairfax/brightview-fair-oaks-senior-independent-living-assisted-living-memory-care-fairfax-va"
+- "https://www.mylivingchoice.com/property/brightview-fair-oaks-senior-independent-living-assisted-living-memory-care"
+- "https://seniors.fyi/assisted-living/virginia/fairfax/brightview-fair-oaks-54054"
 review_google_rating: 4.8
-review_google_count: 91
+review_google_count: 105
 review_yelp_rating: null
 review_yelp_count: null
 review_overall_sentiment: "positive"
@@ -75,7 +83,7 @@ _Seed price text kept in front matter (`price_range_seed`)._
 
 ## Ratings & sentiment
 
-- **Google:** 4.8/5 (~91)
+- **Google:** 4.8/5 (~105)
 - **Yelp:** n/a / thin
 - **Overall sentiment:** positive (confidence: high)
 - **As of:** 2026-09-24

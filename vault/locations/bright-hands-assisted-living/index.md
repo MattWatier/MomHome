@@ -22,6 +22,10 @@ contact_source_seed: "https://brighthandsmd.com/locations"
 - "https://brighthandsmd.com/assisted-living-silver-spring-md"
 - "https://brighthandsmd.com/locations"
 - "https://www.seniorly.com/assisted-living/maryland/silver-spring/j-rose-ii"
+- "owner-operated 5-resident home model (operator marketing)"
+- "https://brighthandsmd.com/assisted-living-silver-spring-md"
+- "https://brighthandsmd.com/locations"
+- "https://www.seniorly.com/assisted-living/maryland/silver-spring/j-rose-ii"
 review_google_rating: null
 review_google_count: null
 review_yelp_rating: null

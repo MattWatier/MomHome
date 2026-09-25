@@ -25,12 +25,20 @@ contact_source_seed: "https://www.fcrha.org/properties/braddock-glen-assisted-li
 - "https://ultimateseniorresource.com/states/virginia/fairfax/braddock-glen"
 - "https://health.usnews.com/best-senior-living/braddock-glen-1255"
 - "https://www.aplaceformom.com/community/sunrise-braddock-glen-141843"
+- "helpful / welcoming staff"
+- "reasonable cost relative to care for some families"
+- "clean transition support"
+- "https://www.mylivingchoice.com/property/braddock-glen"
+- "https://ultimateseniorresource.com/states/virginia/fairfax/braddock-glen"
+- "https://health.usnews.com/best-senior-living/braddock-glen-1255"
+- "https://www.aplaceformom.com/community/sunrise-braddock-glen-141843"
 review_google_rating: 4.2
 review_google_count: 14
-review_yelp_rating: null
-review_yelp_count: null
-review_overall_sentiment: "positive"
-review_red_flags:[]
+review_yelp_rating: 1.0
+review_yelp_count: 1
+review_overall_sentiment: "thin"
+review_red_flags:
+- "single severe historical Yelp allegation of medical neglect (2020–2021) — not a repeated Google theme"
 review_pros:
 - "helpful / welcoming staff"
 - "reasonable cost relative to care for some families"
@@ -40,8 +48,9 @@ review_source_urls:
 - "https://ultimateseniorresource.com/states/virginia/fairfax/braddock-glen"
 - "https://health.usnews.com/best-senior-living/braddock-glen-1255"
 - "https://www.aplaceformom.com/community/sunrise-braddock-glen-141843"
+- "https://www.mapquest.com/us/virginia/braddock-glen-266317275"
 review_as_of: "2026-09-24"
-review_confidence: "medium"
+review_confidence: "low"
 review_material_red_flags: false
 status: stub
 want_to_review_date: null
@@ -75,15 +84,15 @@ _Seed price text kept in front matter (`price_range_seed`)._
 ## Ratings & sentiment
 
 - **Google:** 4.2/5 (~14)
-- **Yelp:** n/a / thin
-- **Overall sentiment:** positive (confidence: medium)
+- **Yelp:** 1.0/5 (1)
+- **Overall sentiment:** thin (confidence: low)
 - **As of:** 2026-09-24
 - Detail: see [reviews.md](reviews.md). All sources cited there.
 
 
 ## Red flags
 
-- None recurring at research time (or review volume too thin to judge).
+- single severe historical Yelp allegation of medical neglect (2020–2021) — not a repeated Google theme
 
 
 ## Inspections

@@ -29,8 +29,20 @@ contact_source_seed: "https://www.potomacplace.com/"
 - "https://www.senioradvisor.com/local/potomac-place-woodbridge-va"
 - "https://seniors.fyi/assisted-living/virginia/woodbridge/potomac-place-99883"
 - "https://www.aplaceformom.com/community/potomac-place-79237"
-review_google_rating: 4.1
-review_google_count: 15
+- "key-staff / management turnover since COVID"
+- "billing mistakes and above-inflation annual increases"
+- "weak management communication; maintenance backlogs"
+- "memory-care staffing consistency concerns"
+- "warm home-like atmosphere for many"
+- "nursing staff often praised even when admin is not"
+- "affordable relative to NoVA peers in some tour notes"
+- "https://reviews.birdeye.com/potomac-place-166679870436578"
+- "https://www.caring.com/senior-living/virginia/woodbridge/potomac-place-assisted-living-and-memory-care"
+- "https://www.senioradvisor.com/local/potomac-place-woodbridge-va"
+- "https://seniors.fyi/assisted-living/virginia/woodbridge/potomac-place-99883"
+- "https://www.aplaceformom.com/community/potomac-place-79237"
+review_google_rating: 4.2
+review_google_count: 11
 review_yelp_rating: null
 review_yelp_count: null
 review_overall_sentiment: "mixed"
@@ -83,7 +95,7 @@ _Seed price text kept in front matter (`price_range_seed`)._
 
 ## Ratings & sentiment
 
-- **Google:** 4.1/5 (~15)
+- **Google:** 4.2/5 (~11)
 - **Yelp:** n/a / thin
 - **Overall sentiment:** mixed (confidence: medium)
 - **As of:** 2026-09-24

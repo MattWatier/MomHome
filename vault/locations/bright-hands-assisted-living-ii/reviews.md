@@ -22,9 +22,9 @@ No usable public Google/Yelp reviews found for Montgomery Village location.
 - Average: _Not found / not usable_
 - Sentiment: thin
 - Red flags / repeated worries:
-- None recurring at research time.
+  - None recurring at research time.
 - Recurring pros:
-- same owner / five-resident model as Bright Hands I (operator marketing)
+  - same owner / five-resident model as Bright Hands I (operator marketing)
 
 ## Yelp
 

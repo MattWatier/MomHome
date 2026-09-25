@@ -27,6 +27,16 @@ contact_source_seed: "https://www.sunriseseniorliving.com/communities/va/sunrise
 - "https://www.miradorliving.com/assisted-living/virginia/springfield/sunrise-of-springfield"
 - "https://www.yelp.com/biz/sunrise-of-springfield-springfield"
 - "https://www.senioradvisor.com/local/sunrise-of-springfield-springfield-va"
+- "billing transparency / fee opacity"
+- "food quality complaints in a non-trivial minority"
+- "facility maintenance and occasional cleanliness rants (Yelp thin)"
+- "compassionate / long-tenured staff praised often"
+- "resident engagement and dementia coordinator mentions"
+- "COVID-era communication reassurance for some families"
+- "https://ultimateseniorresource.com/states/virginia/springfield/sunrise-of-springfield"
+- "https://www.miradorliving.com/assisted-living/virginia/springfield/sunrise-of-springfield"
+- "https://www.yelp.com/biz/sunrise-of-springfield-springfield"
+- "https://www.senioradvisor.com/local/sunrise-of-springfield-springfield-va"
 review_google_rating: 4.3
 review_google_count: 25
 review_yelp_rating: 3.0

@@ -28,15 +28,26 @@ contact_source_seed: "https://atlasseniorliving.com/tribute-at-the-glen/"
 - "https://carelistings.com/assisted-living-homes/woodbridge-va/tribute-at-the-glen-llc/5acd0282a71d8c15cf695174"
 - "https://www.seniorly.com/assisted-living/virginia/woodbridge/tribute-at-the-glen-llc"
 - "https://www.aplaceformom.com/community/tribute-at-the-glen-1392473"
-review_google_rating: 4.6
-review_google_count: 70
-review_yelp_rating: null
-review_yelp_count: null
-review_overall_sentiment: "mixed"
-review_red_flags:
 - "management turnover / leadership change morale dips"
 - "staff consistency concerns"
 - "memory-care neglect / security adequacy raised in some aggregators"
+- "beautiful clean environment"
+- "friendly caring named staff"
+- "activities and community engagement"
+- "https://ultimateseniorresource.com/states/virginia/woodbridge/tribute-at-the-glen"
+- "https://carelistings.com/assisted-living-homes/woodbridge-va/tribute-at-the-glen-llc/5acd0282a71d8c15cf695174"
+- "https://www.seniorly.com/assisted-living/virginia/woodbridge/tribute-at-the-glen-llc"
+- "https://www.aplaceformom.com/community/tribute-at-the-glen-1392473"
+review_google_rating: 4.6
+review_google_count: 70
+review_yelp_rating: 3.8
+review_yelp_count: 9
+review_overall_sentiment: "mixed"
+review_red_flags:
+- "management / leadership turnover and communication gaps"
+- "staff consistency concerns"
+- "memory-care neglect / security adequacy raised in some aggregators"
+- "operator change (Cogir → Atlas, Aug 2025) — older reviews may lag current ops"
 review_pros:
 - "beautiful clean environment"
 - "friendly caring named staff"
@@ -46,6 +57,9 @@ review_source_urls:
 - "https://carelistings.com/assisted-living-homes/woodbridge-va/tribute-at-the-glen-llc/5acd0282a71d8c15cf695174"
 - "https://www.seniorly.com/assisted-living/virginia/woodbridge/tribute-at-the-glen-llc"
 - "https://www.aplaceformom.com/community/tribute-at-the-glen-1392473"
+- "https://www.yelp.com/biz/tribute-at-the-glen-woodbridge"
+- "https://patch.com/virginia/woodbridge-va/new-senior-living-operator-takes-over-woodbridge-area-location"
+- "https://atlasseniorliving.com/tribute-at-the-glen/"
 review_as_of: "2026-09-24"
 review_confidence: "medium"
 review_material_red_flags: true
@@ -81,7 +95,7 @@ _Seed price text kept in front matter (`price_range_seed`)._
 ## Ratings & sentiment
 
 - **Google:** 4.6/5 (~70)
-- **Yelp:** n/a / thin
+- **Yelp:** 3.8/5 (9)
 - **Overall sentiment:** mixed (confidence: medium)
 - **As of:** 2026-09-24
 - Detail: see [reviews.md](reviews.md). All sources cited there.
@@ -90,9 +104,10 @@ _Seed price text kept in front matter (`price_range_seed`)._
 ## Red flags
 
 **Material / repeated themes:**
-- management turnover / leadership change morale dips
+- management / leadership turnover and communication gaps
 - staff consistency concerns
 - memory-care neglect / security adequacy raised in some aggregators
+- operator change (Cogir → Atlas, Aug 2025) — older reviews may lag current ops
 
 
 ## Inspections
