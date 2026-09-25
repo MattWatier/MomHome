@@ -17,6 +17,39 @@ price_confidence: "low"
 price_notes: "AL estimated from ~$5,016/mo; private 1BR-style apartments; meals and med management listed."
 phone_seed: "540-503-3629"
 contact_source_seed: "https://www.thevillageatorchardridge.org/request-info/"
+- "weekend / skilled-nursing staffing attentiveness concerns"
+- "buffet / dining dissatisfaction for some"
+- "annual fee increases and turnover in food/building services"
+- "beautiful campus and amenities"
+- "kind staff"
+- "CCRC continuum and activities"
+- "https://birdeye.com/the-village-at-orchard-ridge-177273772112406"
+- "https://www.thevillageatorchardridge.org/"
+- "https://www.mycaringplan.com/senior-living/the-village-at-orchard-ridge/"
+- "https://www.familyassets.com/nursing-homes/virginia/winchester/the-village-at-orchard-ridge"
+- "https://www.carechanges.com/living-communities/the-village-at-orchard-ridge_winchester_virginia/"
+review_google_rating: 4.5
+review_google_count: 52
+review_yelp_rating: null
+review_yelp_count: null
+review_overall_sentiment: "mixed"
+review_red_flags:
+- "weekend / skilled-nursing staffing attentiveness concerns"
+- "buffet / dining dissatisfaction for some"
+- "annual fee increases and turnover in food/building services"
+review_pros:
+- "beautiful campus and amenities"
+- "kind staff"
+- "CCRC continuum and activities"
+review_source_urls:
+- "https://birdeye.com/the-village-at-orchard-ridge-177273772112406"
+- "https://www.thevillageatorchardridge.org/"
+- "https://www.mycaringplan.com/senior-living/the-village-at-orchard-ridge/"
+- "https://www.familyassets.com/nursing-homes/virginia/winchester/the-village-at-orchard-ridge"
+- "https://www.carechanges.com/living-communities/the-village-at-orchard-ridge_winchester_virginia/"
+review_as_of: "2026-09-24"
+review_confidence: "medium"
+review_material_red_flags: false
 status: stub
 want_to_review_date: null
 visit_date: null
@@ -48,11 +81,19 @@ _Seed price text kept in front matter (`price_range_seed`)._
 
 ## Ratings & sentiment
 
-_Do not invent. Pull with review skill; cite source URLs._
+- **Google:** 4.5/5 (~52)
+- **Yelp:** n/a / thin
+- **Overall sentiment:** mixed (confidence: medium)
+- **As of:** 2026-09-24
+- Detail: see [reviews.md](reviews.md). All sources cited there.
+
 
 ## Red flags
 
--
+- weekend / skilled-nursing staffing attentiveness concerns
+- buffet / dining dissatisfaction for some
+- annual fee increases and turnover in food/building services
+
 
 ## Inspections
 

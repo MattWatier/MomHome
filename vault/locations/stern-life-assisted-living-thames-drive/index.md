@@ -18,6 +18,31 @@ price_notes: "Private room ~$5,000–$6,500/mo; higher care +$1,000. Includes me
 phone_seed: "240-610-3769"
 email_seed: "enquiries@sternlifeassistedliving.com"
 contact_source_seed: "https://sternlifeassistedliving.com/"
+- "compassionate named caregivers in testimonials"
+- "clean accessible neighborhood home"
+- "24/7 med tech support cited by families"
+- "https://sternlifeassistedliving.com/"
+- "https://seniors.fyi/assisted-living/maryland/frederick/stern-life-84575"
+- "https://www.seniorly.com/assisted-living/maryland/frederick/stern-life"
+- "https://www.oasissenioradvisors.com/community-guide/maryland/frederick/stern-life-assisted-living-2/"
+review_google_rating: 5.0
+review_google_count: null
+review_yelp_rating: null
+review_yelp_count: null
+review_overall_sentiment: "thin"
+review_red_flags:[]
+review_pros:
+- "compassionate named caregivers in testimonials"
+- "clean accessible neighborhood home"
+- "24/7 med tech support cited by families"
+review_source_urls:
+- "https://sternlifeassistedliving.com/"
+- "https://seniors.fyi/assisted-living/maryland/frederick/stern-life-84575"
+- "https://www.seniorly.com/assisted-living/maryland/frederick/stern-life"
+- "https://www.oasissenioradvisors.com/community-guide/maryland/frederick/stern-life-assisted-living-2/"
+review_as_of: "2026-09-24"
+review_confidence: "low"
+review_material_red_flags: false
 status: stub
 want_to_review_date: null
 visit_date: null
@@ -49,11 +74,17 @@ _Seed price text kept in front matter (`price_range_seed`)._
 
 ## Ratings & sentiment
 
-_Do not invent. Pull with review skill; cite source URLs._
+- **Google:** 5.0/5
+- **Yelp:** n/a / thin
+- **Overall sentiment:** thin (confidence: low)
+- **As of:** 2026-09-24
+- Detail: see [reviews.md](reviews.md). All sources cited there.
+
 
 ## Red flags
 
--
+- None recurring at research time (or review volume too thin to judge).
+
 
 ## Inspections
 

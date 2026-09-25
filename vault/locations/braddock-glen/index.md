@@ -18,6 +18,31 @@ price_notes: "Official: studio $3,300+; 1BR $3,500+. Selected 1BR (under $5k). M
 phone_seed: "571-895-3500"
 email_seed: "rha@fairfaxcounty.gov"
 contact_source_seed: "https://www.fcrha.org/properties/braddock-glen-assisted-living/1"
+- "helpful / welcoming staff"
+- "reasonable cost relative to care for some families"
+- "clean transition support"
+- "https://www.mylivingchoice.com/property/braddock-glen"
+- "https://ultimateseniorresource.com/states/virginia/fairfax/braddock-glen"
+- "https://health.usnews.com/best-senior-living/braddock-glen-1255"
+- "https://www.aplaceformom.com/community/sunrise-braddock-glen-141843"
+review_google_rating: 4.2
+review_google_count: 14
+review_yelp_rating: null
+review_yelp_count: null
+review_overall_sentiment: "positive"
+review_red_flags:[]
+review_pros:
+- "helpful / welcoming staff"
+- "reasonable cost relative to care for some families"
+- "clean transition support"
+review_source_urls:
+- "https://www.mylivingchoice.com/property/braddock-glen"
+- "https://ultimateseniorresource.com/states/virginia/fairfax/braddock-glen"
+- "https://health.usnews.com/best-senior-living/braddock-glen-1255"
+- "https://www.aplaceformom.com/community/sunrise-braddock-glen-141843"
+review_as_of: "2026-09-24"
+review_confidence: "medium"
+review_material_red_flags: false
 status: stub
 want_to_review_date: null
 visit_date: null
@@ -49,11 +74,17 @@ _Seed price text kept in front matter (`price_range_seed`)._
 
 ## Ratings & sentiment
 
-_Do not invent. Pull with review skill; cite source URLs._
+- **Google:** 4.2/5 (~14)
+- **Yelp:** n/a / thin
+- **Overall sentiment:** positive (confidence: medium)
+- **As of:** 2026-09-24
+- Detail: see [reviews.md](reviews.md). All sources cited there.
+
 
 ## Red flags
 
--
+- None recurring at research time (or review volume too thin to judge).
+
 
 ## Inspections
 

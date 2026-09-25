@@ -17,6 +17,39 @@ price_confidence: "medium"
 price_notes: "Official starting $4,700+. Seed studio $4,900+. Care + med fees extra. Room-type dollars not fully broken out on fetch."
 phone_seed: "703-996-4570"
 contact_source_seed: "https://www.sunriseseniorliving.com/communities/va/sunrise-at-mount-vernon"
+- "night / weekend staffing and slow call-button response"
+- "care quality drop for higher-acuity / bedridden needs"
+- "food inconsistency; cost opacity"
+- "friendly staff and activities"
+- "clean welcoming facility"
+- "proximity to Mount Vernon Hospital"
+- "https://ultimateseniorresource.com/states/virginia/alexandria/sunrise-at-mount-vernon"
+- "https://www.mylivingchoice.com/property/sunrise-at-mount-vernon"
+- "https://www.aplaceformom.com/community/sunrise-of-mt-vernon-95894"
+- "https://seniors.fyi/assisted-living/virginia/alexandria/sunrise-at-mount-vernon-18855"
+- "https://www.sunriseseniorliving.com/communities/va/sunrise-at-mount-vernon"
+review_google_rating: 4.6
+review_google_count: 37
+review_yelp_rating: null
+review_yelp_count: 1
+review_overall_sentiment: "mixed"
+review_red_flags:
+- "night / weekend staffing and slow call-button response"
+- "care quality drop for higher-acuity / bedridden needs"
+- "food inconsistency; cost opacity"
+review_pros:
+- "friendly staff and activities"
+- "clean welcoming facility"
+- "proximity to Mount Vernon Hospital"
+review_source_urls:
+- "https://ultimateseniorresource.com/states/virginia/alexandria/sunrise-at-mount-vernon"
+- "https://www.mylivingchoice.com/property/sunrise-at-mount-vernon"
+- "https://www.aplaceformom.com/community/sunrise-of-mt-vernon-95894"
+- "https://seniors.fyi/assisted-living/virginia/alexandria/sunrise-at-mount-vernon-18855"
+- "https://www.sunriseseniorliving.com/communities/va/sunrise-at-mount-vernon"
+review_as_of: "2026-09-24"
+review_confidence: "medium"
+review_material_red_flags: true
 status: stub
 want_to_review_date: null
 visit_date: null
@@ -48,11 +81,20 @@ _Seed price text kept in front matter (`price_range_seed`)._
 
 ## Ratings & sentiment
 
-_Do not invent. Pull with review skill; cite source URLs._
+- **Google:** 4.6/5 (~37)
+- **Yelp:** n/a / thin
+- **Overall sentiment:** mixed (confidence: medium)
+- **As of:** 2026-09-24
+- Detail: see [reviews.md](reviews.md). All sources cited there.
+
 
 ## Red flags
 
--
+**Material / repeated themes:**
+- night / weekend staffing and slow call-button response
+- care quality drop for higher-acuity / bedridden needs
+- food inconsistency; cost opacity
+
 
 ## Inspections
 

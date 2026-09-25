@@ -17,6 +17,41 @@ price_confidence: "medium"
 price_notes: "Official starting $3,500+. Seed: 1BR $3,400+; studio $3,500+. Prefer 1BR under $5k. Care + med fees extra."
 phone_seed: "703-348-1022"
 contact_source_seed: "https://www.sunriseseniorliving.com/communities/va/sunrise-of-alexandria"
+- "staffing shortfalls especially in memory care"
+- "billing / unexpected rate increases"
+- "management and communication gaps"
+- "cleanliness concerns including pest mentions in some aggregators"
+- "caring named staff and welcoming feel"
+- "clean / well-kept appearance for many families"
+- "activities and community atmosphere"
+- "https://ultimateseniorresource.com/states/virginia/alexandria/sunrise-of-alexandria"
+- "https://www.caring.com/senior-living/virginia/alexandria/sunrise-of-alexandria-22304"
+- "https://www.seniorly.com/assisted-living/virginia/alexandria/sunrise-of-alexandria"
+- "https://www.yelp.com/search?find_desc=Sunrise+Senior+Living&find_loc=Washington%2C+DC"
+- "https://www.senioradvisor.com/local/sunrise-of-alexandria-alexandria-va"
+review_google_rating: 4.2
+review_google_count: 24
+review_yelp_rating: 2.7
+review_yelp_count: 7
+review_overall_sentiment: "mixed"
+review_red_flags:
+- "staffing shortfalls especially in memory care"
+- "billing / unexpected rate increases"
+- "management and communication gaps"
+- "cleanliness concerns including pest mentions in some aggregators"
+review_pros:
+- "caring named staff and welcoming feel"
+- "clean / well-kept appearance for many families"
+- "activities and community atmosphere"
+review_source_urls:
+- "https://ultimateseniorresource.com/states/virginia/alexandria/sunrise-of-alexandria"
+- "https://www.caring.com/senior-living/virginia/alexandria/sunrise-of-alexandria-22304"
+- "https://www.seniorly.com/assisted-living/virginia/alexandria/sunrise-of-alexandria"
+- "https://www.yelp.com/search?find_desc=Sunrise+Senior+Living&find_loc=Washington%2C+DC"
+- "https://www.senioradvisor.com/local/sunrise-of-alexandria-alexandria-va"
+review_as_of: "2026-09-24"
+review_confidence: "medium"
+review_material_red_flags: true
 status: stub
 want_to_review_date: null
 visit_date: null
@@ -48,11 +83,21 @@ _Seed price text kept in front matter (`price_range_seed`)._
 
 ## Ratings & sentiment
 
-_Do not invent. Pull with review skill; cite source URLs._
+- **Google:** 4.2/5 (~24)
+- **Yelp:** 2.7/5 (7)
+- **Overall sentiment:** mixed (confidence: medium)
+- **As of:** 2026-09-24
+- Detail: see [reviews.md](reviews.md). All sources cited there.
+
 
 ## Red flags
 
--
+**Material / repeated themes:**
+- staffing shortfalls especially in memory care
+- billing / unexpected rate increases
+- management and communication gaps
+- cleanliness concerns including pest mentions in some aggregators
+
 
 ## Inspections
 

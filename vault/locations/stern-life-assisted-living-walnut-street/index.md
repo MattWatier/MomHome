@@ -18,6 +18,23 @@ price_notes: "From $5,000/mo includes med admin, 3 meals, 24/7 supervision, pers
 phone_seed: "240-610-3769"
 email_seed: "enquiries@sternlifeassistedliving.com"
 contact_source_seed: "https://sternlifeassistedliving.com/"
+- "same Stern Life boutique home brand; positive family testimonials on operator site"
+- "https://sternlifeassistedliving.com/"
+- "https://www.oasissenioradvisors.com/community-guide/maryland/frederick/stern-life-assisted-living-2/"
+review_google_rating: null
+review_google_count: null
+review_yelp_rating: null
+review_yelp_count: null
+review_overall_sentiment: "thin"
+review_red_flags:[]
+review_pros:
+- "same Stern Life boutique home brand; positive family testimonials on operator site"
+review_source_urls:
+- "https://sternlifeassistedliving.com/"
+- "https://www.oasissenioradvisors.com/community-guide/maryland/frederick/stern-life-assisted-living-2/"
+review_as_of: "2026-09-24"
+review_confidence: "none"
+review_material_red_flags: false
 status: stub
 want_to_review_date: null
 visit_date: null
@@ -49,11 +66,17 @@ _Seed price text kept in front matter (`price_range_seed`)._
 
 ## Ratings & sentiment
 
-_Do not invent. Pull with review skill; cite source URLs._
+- **Google:** n/a
+- **Yelp:** n/a / thin
+- **Overall sentiment:** thin (confidence: none)
+- **As of:** 2026-09-24
+- Detail: see [reviews.md](reviews.md). All sources cited there.
+
 
 ## Red flags
 
--
+- None recurring at research time (or review volume too thin to judge).
+
 
 ## Inspections
 

@@ -17,6 +17,35 @@ price_confidence: "medium"
 price_notes: "Official AL apartments start $4,260. Seniorly lists private from $3,695 and 1BR from $3,995 (secondary). Meals/meds typically via care tier; confirm all-in."
 phone_seed: "703-392-9797"
 contact_source_seed: "https://www.arborcompany.com/locations/virginia/manassas-sudley-manor"
+- "cost perceived as high by some"
+- "communal spa showers (no in-room shower) noted as layout/privacy concern"
+- "friendly attentive staff"
+- "clean renovated facility"
+- "activities and engaging atmosphere"
+- "https://ultimateseniorresource.com/states/virginia/manassas/arbor-terrace-sudley-manor"
+- "https://birdeye.com/arbor-terrace-sudley-manor-156864271070255"
+- "https://www.caring.com/senior-living/virginia/manassas/arbor-terrace-at-sudley-manor"
+- "https://www.familyassets.com/assisted-living/virginia/manassas/arbor-terrace-sudley-manor"
+review_google_rating: 4.8
+review_google_count: 66
+review_yelp_rating: null
+review_yelp_count: null
+review_overall_sentiment: "positive"
+review_red_flags:
+- "cost perceived as high by some"
+- "communal spa showers (no in-room shower) noted as layout/privacy concern"
+review_pros:
+- "friendly attentive staff"
+- "clean renovated facility"
+- "activities and engaging atmosphere"
+review_source_urls:
+- "https://ultimateseniorresource.com/states/virginia/manassas/arbor-terrace-sudley-manor"
+- "https://birdeye.com/arbor-terrace-sudley-manor-156864271070255"
+- "https://www.caring.com/senior-living/virginia/manassas/arbor-terrace-at-sudley-manor"
+- "https://www.familyassets.com/assisted-living/virginia/manassas/arbor-terrace-sudley-manor"
+review_as_of: "2026-09-24"
+review_confidence: "high"
+review_material_red_flags: false
 status: stub
 want_to_review_date: null
 visit_date: null
@@ -48,11 +77,18 @@ _Seed price text kept in front matter (`price_range_seed`)._
 
 ## Ratings & sentiment
 
-_Do not invent. Pull with review skill; cite source URLs._
+- **Google:** 4.8/5 (~66)
+- **Yelp:** n/a / thin
+- **Overall sentiment:** positive (confidence: high)
+- **As of:** 2026-09-24
+- Detail: see [reviews.md](reviews.md). All sources cited there.
+
 
 ## Red flags
 
--
+- cost perceived as high by some
+- communal spa showers (no in-room shower) noted as layout/privacy concern
+
 
 ## Inspections
 

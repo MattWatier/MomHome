@@ -17,6 +17,37 @@ price_confidence: "medium"
 price_notes: "Official starting $4,900+. Seed had studio $4,530 / 1BR $5,533 — prefer studio under $5k (1BR over). Care + med fees extra."
 phone_seed: "703-348-1048"
 contact_source_seed: "https://www.sunriseseniorliving.com/communities/va/sunrise-at-bluemont-park"
+- "prolonged elevator outage trapping residents (safety / access)"
+- "food handling / reheating concerns raised in recent reviews"
+- "price vs delivered care dissatisfaction for some"
+- "kind staff and care coordinators"
+- "nice location near park trails"
+- "variety of room layouts"
+- "https://www.mylivingchoice.com/property/sunrise-at-bluemont-park"
+- "https://ultimateseniorresource.com/states/virginia/arlington/sunrise-at-bluemont-park"
+- "https://www.caring.com/senior-living/virginia/arlington/sunrise-at-bluemont-park-22205"
+- "https://www.whereyoulivematters.org/find-a-community/sunrise-at-bluemont-park/"
+review_google_rating: 4.6
+review_google_count: 26
+review_yelp_rating: null
+review_yelp_count: null
+review_overall_sentiment: "mixed"
+review_red_flags:
+- "prolonged elevator outage trapping residents (safety / access)"
+- "food handling / reheating concerns raised in recent reviews"
+- "price vs delivered care dissatisfaction for some"
+review_pros:
+- "kind staff and care coordinators"
+- "nice location near park trails"
+- "variety of room layouts"
+review_source_urls:
+- "https://www.mylivingchoice.com/property/sunrise-at-bluemont-park"
+- "https://ultimateseniorresource.com/states/virginia/arlington/sunrise-at-bluemont-park"
+- "https://www.caring.com/senior-living/virginia/arlington/sunrise-at-bluemont-park-22205"
+- "https://www.whereyoulivematters.org/find-a-community/sunrise-at-bluemont-park/"
+review_as_of: "2026-09-24"
+review_confidence: "medium"
+review_material_red_flags: true
 status: stub
 want_to_review_date: null
 visit_date: null
@@ -48,11 +79,20 @@ _Seed price text kept in front matter (`price_range_seed`)._
 
 ## Ratings & sentiment
 
-_Do not invent. Pull with review skill; cite source URLs._
+- **Google:** 4.6/5 (~26)
+- **Yelp:** n/a / thin
+- **Overall sentiment:** mixed (confidence: medium)
+- **As of:** 2026-09-24
+- Detail: see [reviews.md](reviews.md). All sources cited there.
+
 
 ## Red flags
 
--
+**Material / repeated themes:**
+- prolonged elevator outage trapping residents (safety / access)
+- food handling / reheating concerns raised in recent reviews
+- price vs delivered care dissatisfaction for some
+
 
 ## Inspections
 

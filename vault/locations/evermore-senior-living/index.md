@@ -17,6 +17,29 @@ price_confidence: "low"
 price_notes: "Suite ~$6,000+/mo per Mirador/seed; meals and med management listed. Confirm studio/1BR."
 phone_seed: "703-249-9128"
 contact_source_seed: "https://www.seniorly.com/assisted-living/virginia/woodbridge/evermore-senior-living-of-lake-ridge"
+- "personalized care and attentive staff"
+- "clean nurturing home-like environment"
+- "food tailored / praised"
+- "https://seniors.fyi/assisted-living/virginia/woodbridge"
+- "https://www.senioradvisor.com/warrenton-va/assisted-living"
+- "https://www.oasissenioradvisors.com/community-guide/virginia/stafford/viva-at-stafford/"
+review_google_rating: 5.0
+review_google_count: 26
+review_yelp_rating: null
+review_yelp_count: null
+review_overall_sentiment: "positive"
+review_red_flags:[]
+review_pros:
+- "personalized care and attentive staff"
+- "clean nurturing home-like environment"
+- "food tailored / praised"
+review_source_urls:
+- "https://seniors.fyi/assisted-living/virginia/woodbridge"
+- "https://www.senioradvisor.com/warrenton-va/assisted-living"
+- "https://www.oasissenioradvisors.com/community-guide/virginia/stafford/viva-at-stafford/"
+review_as_of: "2026-09-24"
+review_confidence: "low"
+review_material_red_flags: false
 status: stub
 want_to_review_date: null
 visit_date: null
@@ -48,11 +71,17 @@ _Seed price text kept in front matter (`price_range_seed`)._
 
 ## Ratings & sentiment
 
-_Do not invent. Pull with review skill; cite source URLs._
+- **Google:** 5.0/5 (~26)
+- **Yelp:** n/a / thin
+- **Overall sentiment:** positive (confidence: low)
+- **As of:** 2026-09-24
+- Detail: see [reviews.md](reviews.md). All sources cited there.
+
 
 ## Red flags
 
--
+- None recurring at research time (or review volume too thin to judge).
+
 
 ## Inspections
 

@@ -1,0 +1,648 @@
+{
+  "as_of": "2026-09-24",
+  "locations": {
+    "sunrise-of-alexandria": {
+      "google_rating": 4.2,
+      "google_count": 24,
+      "yelp_rating": 2.7,
+      "yelp_count": 7,
+      "sentiment": "mixed",
+      "confidence": "medium",
+      "material_red_flags": true,
+      "red_flags": [
+        "staffing shortfalls especially in memory care",
+        "billing / unexpected rate increases",
+        "management and communication gaps",
+        "cleanliness concerns including pest mentions in some aggregators"
+      ],
+      "pros": [
+        "caring named staff and welcoming feel",
+        "clean / well-kept appearance for many families",
+        "activities and community atmosphere"
+      ],
+      "source_urls": [
+        "https://ultimateseniorresource.com/states/virginia/alexandria/sunrise-of-alexandria",
+        "https://www.caring.com/senior-living/virginia/alexandria/sunrise-of-alexandria-22304",
+        "https://www.seniorly.com/assisted-living/virginia/alexandria/sunrise-of-alexandria",
+        "https://www.yelp.com/search?find_desc=Sunrise+Senior+Living&find_loc=Washington%2C+DC",
+        "https://www.senioradvisor.com/local/sunrise-of-alexandria-alexandria-va"
+      ],
+      "notes": "Google ~4.2 (low-mid 20s reviews) vs Yelp ~2.7 (7). Aggregators echo mixed staffing/billing themes. Seed rating 4.2."
+    },
+    "sunrise-of-springfield": {
+      "google_rating": 4.3,
+      "google_count": 25,
+      "yelp_rating": 3.0,
+      "yelp_count": 2,
+      "sentiment": "mixed",
+      "confidence": "medium",
+      "material_red_flags": true,
+      "red_flags": [
+        "billing transparency / fee opacity",
+        "food quality complaints in a non-trivial minority",
+        "facility maintenance and occasional cleanliness rants (Yelp thin)"
+      ],
+      "pros": [
+        "compassionate / long-tenured staff praised often",
+        "resident engagement and dementia coordinator mentions",
+        "COVID-era communication reassurance for some families"
+      ],
+      "source_urls": [
+        "https://ultimateseniorresource.com/states/virginia/springfield/sunrise-of-springfield",
+        "https://www.miradorliving.com/assisted-living/virginia/springfield/sunrise-of-springfield",
+        "https://www.yelp.com/biz/sunrise-of-springfield-springfield",
+        "https://www.senioradvisor.com/local/sunrise-of-springfield-springfield-va"
+      ],
+      "notes": "Google ~4.3; Yelp only 2 reviews at 3.0 — treat Yelp as thin. Mirador synthesis notes operational/dining/clinical caveats alongside strong staff praise."
+    },
+    "braddock-glen": {
+      "google_rating": 4.2,
+      "google_count": 14,
+      "yelp_rating": null,
+      "yelp_count": null,
+      "sentiment": "positive",
+      "confidence": "medium",
+      "material_red_flags": false,
+      "red_flags": [],
+      "pros": [
+        "helpful / welcoming staff",
+        "reasonable cost relative to care for some families",
+        "clean transition support"
+      ],
+      "source_urls": [
+        "https://www.mylivingchoice.com/property/braddock-glen",
+        "https://ultimateseniorresource.com/states/virginia/fairfax/braddock-glen",
+        "https://health.usnews.com/best-senior-living/braddock-glen-1255",
+        "https://www.aplaceformom.com/community/sunrise-braddock-glen-141843"
+      ],
+      "notes": "Google volume modest (~11–14). Seed 4.8 may be stale vs current Google ~4.0–4.2. No usable Yelp found. No repeated serious red-flag cluster."
+    },
+    "harmony-at-spring-hill": {
+      "google_rating": 4.0,
+      "google_count": 44,
+      "yelp_rating": null,
+      "yelp_count": null,
+      "sentiment": "mixed",
+      "confidence": "high",
+      "material_red_flags": true,
+      "red_flags": [
+        "staffing shortages / shift-dependent care quality",
+        "supervision and retention of residents beyond facility capability (DSS complaint themes)",
+        "confusing billing / fee structure",
+        "memory-care experience more uneven than AL"
+      ],
+      "pros": [
+        "attractive gated campus and amenities",
+        "friendly staff and warm family-like feel for many",
+        "activities and grounds"
+      ],
+      "source_urls": [
+        "https://ultimateseniorresource.com/states/virginia/lorton/harmony-at-spring-hill",
+        "https://www.caring.com/senior-living/virginia/lorton/harmony-at-spring-hill",
+        "https://seniors.fyi/assisted-living/virginia/lorton/harmony-at-spring-hill-66102",
+        "https://www.aplaceformom.com/community/harmony-at-spring-hill-1410425",
+        "https://www.dss.virginia.gov/printer/facility/search/alf.cgi?rm=Inspection;Inspection=34649;ID=44360;"
+      ],
+      "notes": "Google ~4.0/44. A Place for Mom lifetime avg ~3.8. June 2024 DSS complaint inspection cited staffing/supervision/retention failures — treat as serious corroboration of review themes. No solid Yelp listing found."
+    },
+    "sunrise-of-arlington": {
+      "google_rating": 4.6,
+      "google_count": 31,
+      "yelp_rating": null,
+      "yelp_count": null,
+      "sentiment": "positive",
+      "confidence": "medium",
+      "material_red_flags": false,
+      "red_flags": [
+        "occasional off-peak staff availability (minor minority)"
+      ],
+      "pros": [
+        "warm attentive staff and strong leadership mentions",
+        "homelike mansion setting",
+        "personalized memory-care praise"
+      ],
+      "source_urls": [
+        "https://ultimateseniorresource.com/states/virginia/arlington/sunrise-of-arlington-arlington-va",
+        "https://www.mylivingchoice.com/property/sunrise-of-arlington",
+        "https://www.sunriseseniorliving.com/communities/va/sunrise-of-arlington"
+      ],
+      "notes": "Consistently high Google (~4.5–4.6). No meaningful Yelp volume found. Minor availability caveats only."
+    },
+    "arbor-terrace-sudley-manor": {
+      "google_rating": 4.8,
+      "google_count": 66,
+      "yelp_rating": null,
+      "yelp_count": null,
+      "sentiment": "positive",
+      "confidence": "high",
+      "material_red_flags": false,
+      "red_flags": [
+        "cost perceived as high by some",
+        "communal spa showers (no in-room shower) noted as layout/privacy concern"
+      ],
+      "pros": [
+        "friendly attentive staff",
+        "clean renovated facility",
+        "activities and engaging atmosphere"
+      ],
+      "source_urls": [
+        "https://ultimateseniorresource.com/states/virginia/manassas/arbor-terrace-sudley-manor",
+        "https://birdeye.com/arbor-terrace-sudley-manor-156864271070255",
+        "https://www.caring.com/senior-living/virginia/manassas/arbor-terrace-at-sudley-manor",
+        "https://www.familyassets.com/assisted-living/virginia/manassas/arbor-terrace-sudley-manor"
+      ],
+      "notes": "Strong Google (~4.8). Birdeye 4.6/167 aggregated. Food dislike appears one-off-ish; not elevating to material red flag. DSS med-cart PRN nit is inspections track, not review red-flag core."
+    },
+    "sunrise-at-silas-burke-house": {
+      "google_rating": 3.9,
+      "google_count": 15,
+      "yelp_rating": null,
+      "yelp_count": null,
+      "sentiment": "mixed",
+      "confidence": "medium",
+      "material_red_flags": true,
+      "red_flags": [
+        "high staff turnover",
+        "poor family communication / unresponsive leadership when issues escalate",
+        "care plan gaps when acuity rises; discharge/eviction friction",
+        "medical follow-up and call-bell responsiveness concerns"
+      ],
+      "pros": [
+        "clean cheerful campus",
+        "friendly staff and good memory-care experiences for some",
+        "dining and activities praised by positive cohort"
+      ],
+      "source_urls": [
+        "https://ultimateseniorresource.com/states/virginia/burke/sunrise-at-silas-burke-house",
+        "https://findwithcare.com/community/sunrise-at-silas-burke-house--rvmvdjwkzdhp8fcs6pe0xojn",
+        "https://web.seniorly.com/assisted-living/virginia/burke/sunrise-at-silas-burke-house",
+        "https://seniors.fyi/assisted-living/virginia/burke/sunrise-at-silas-burke-house-31432",
+        "https://www.mylivingchoice.com/properties/best-senior-living/burke/virginia"
+      ],
+      "notes": "Seed 5.0 conflicts with current Google ~3.9 (thin) and broader mixed aggregators. Serious recurring themes around turnover/communication/acuity handoff. Yelp not clearly established."
+    },
+    "tribute-at-the-glen": {
+      "google_rating": 4.6,
+      "google_count": 70,
+      "yelp_rating": null,
+      "yelp_count": null,
+      "sentiment": "mixed",
+      "confidence": "medium",
+      "material_red_flags": true,
+      "red_flags": [
+        "management turnover / leadership change morale dips",
+        "staff consistency concerns",
+        "memory-care neglect / security adequacy raised in some aggregators"
+      ],
+      "pros": [
+        "beautiful clean environment",
+        "friendly caring named staff",
+        "activities and community engagement"
+      ],
+      "source_urls": [
+        "https://ultimateseniorresource.com/states/virginia/woodbridge/tribute-at-the-glen",
+        "https://carelistings.com/assisted-living-homes/woodbridge-va/tribute-at-the-glen-llc/5acd0282a71d8c15cf695174",
+        "https://www.seniorly.com/assisted-living/virginia/woodbridge/tribute-at-the-glen-llc",
+        "https://www.aplaceformom.com/community/tribute-at-the-glen-1392473"
+      ],
+      "notes": "Google strong (~4.6/70) but Seniorly/Wheree note management-change and memory-care caveats. Tour should probe current leadership stability."
+    },
+    "harmony-at-martinsburg": {
+      "google_rating": 4.6,
+      "google_count": 29,
+      "yelp_rating": 3.0,
+      "yelp_count": 5,
+      "sentiment": "mixed",
+      "confidence": "medium",
+      "material_red_flags": true,
+      "red_flags": [
+        "end-of-life / pain-management and clinical attentiveness complaints (Yelp)",
+        "memory-care safety adequacy questioned by some families",
+        "management change history; pushy sales notes"
+      ],
+      "pros": [
+        "attentive staff and positive respite/move-in stories on Google",
+        "clean community for some reviewers"
+      ],
+      "source_urls": [
+        "https://olera.care/provider/harmony-at-martinsburg-martinsburg-wv",
+        "https://ultimateseniorresource.com/states/west-virginia/martinsburg/harmony-at-martinsburg",
+        "https://www.mapquest.com/us/west-virginia/harmony-at-martinsburg-423276352",
+        "https://www.aplaceformom.com/community/harmony-at-martinsburg-1400007",
+        "https://seniors.fyi/assisted-living/west-virginia/martinsburg/harmony-at-martinsburg-57059"
+      ],
+      "notes": "Google ~4.5–4.6 vs Yelp 3.0/5 with severe care anecdotes. Sources conflict — flag material and verify on tour + WV licensing."
+    },
+    "the-view-alexandria": {
+      "google_rating": 4.7,
+      "google_count": null,
+      "yelp_rating": null,
+      "yelp_count": null,
+      "sentiment": "mixed",
+      "confidence": "medium",
+      "material_red_flags": true,
+      "red_flags": [
+        "clinical / personal-care consistency (incontinence/catheter hygiene lapses in multiple reviews)",
+        "food quality inconsistency",
+        "family communication and management follow-through gaps"
+      ],
+      "pros": [
+        "friendly staff",
+        "renovated apartments and amenities",
+        "activities / CCRC continuum value for many"
+      ],
+      "source_urls": [
+        "https://www.miradorliving.com/assisted-living/virginia/alexandria/the-view-alexandria-by-goodwin-living",
+        "https://www.caring.com/senior-living/virginia/alexandria/the-view-alexandria",
+        "https://www.aplaceformom.com/community/the-view-alexandria-63441",
+        "https://theviewalexandria.org/who-we-are/"
+      ],
+      "notes": "Seed Google 4.7; Mirador ~4.2/52 mixed with serious clinical caveats. Caring thin (8). No clear Yelp rating found."
+    },
+    "sunrise-at-mount-vernon": {
+      "google_rating": 4.6,
+      "google_count": 37,
+      "yelp_rating": null,
+      "yelp_count": 1,
+      "sentiment": "mixed",
+      "confidence": "medium",
+      "material_red_flags": true,
+      "red_flags": [
+        "night / weekend staffing and slow call-button response",
+        "care quality drop for higher-acuity / bedridden needs",
+        "food inconsistency; cost opacity"
+      ],
+      "pros": [
+        "friendly staff and activities",
+        "clean welcoming facility",
+        "proximity to Mount Vernon Hospital"
+      ],
+      "source_urls": [
+        "https://ultimateseniorresource.com/states/virginia/alexandria/sunrise-at-mount-vernon",
+        "https://www.mylivingchoice.com/property/sunrise-at-mount-vernon",
+        "https://www.aplaceformom.com/community/sunrise-of-mt-vernon-95894",
+        "https://seniors.fyi/assisted-living/virginia/alexandria/sunrise-at-mount-vernon-18855",
+        "https://www.sunriseseniorliving.com/communities/va/sunrise-at-mount-vernon"
+      ],
+      "notes": "Seed 3.7 vs aggregators showing Google ~4.6 — conflict; record both. Yelp essentially empty. Night-staffing theme recurs enough to flag."
+    },
+    "potomac-place-assisted-living-and-memory-care": {
+      "google_rating": 4.1,
+      "google_count": 15,
+      "yelp_rating": null,
+      "yelp_count": null,
+      "sentiment": "mixed",
+      "confidence": "medium",
+      "material_red_flags": true,
+      "red_flags": [
+        "key-staff / management turnover since COVID",
+        "billing mistakes and above-inflation annual increases",
+        "weak management communication; maintenance backlogs",
+        "memory-care staffing consistency concerns"
+      ],
+      "pros": [
+        "warm home-like atmosphere for many",
+        "nursing staff often praised even when admin is not",
+        "affordable relative to NoVA peers in some tour notes"
+      ],
+      "source_urls": [
+        "https://reviews.birdeye.com/potomac-place-166679870436578",
+        "https://www.caring.com/senior-living/virginia/woodbridge/potomac-place-assisted-living-and-memory-care",
+        "https://www.senioradvisor.com/local/potomac-place-woodbridge-va",
+        "https://seniors.fyi/assisted-living/virginia/woodbridge/potomac-place-99883",
+        "https://www.aplaceformom.com/community/potomac-place-79237"
+      ],
+      "notes": "Repeated post-COVID decline / turnover / billing themes across Birdeye and A Place for Mom. Google volume modest."
+    },
+    "sunrise-at-bluemont-park": {
+      "google_rating": 4.6,
+      "google_count": 26,
+      "yelp_rating": null,
+      "yelp_count": null,
+      "sentiment": "mixed",
+      "confidence": "medium",
+      "material_red_flags": true,
+      "red_flags": [
+        "prolonged elevator outage trapping residents (safety / access)",
+        "food handling / reheating concerns raised in recent reviews",
+        "price vs delivered care dissatisfaction for some"
+      ],
+      "pros": [
+        "kind staff and care coordinators",
+        "nice location near park trails",
+        "variety of room layouts"
+      ],
+      "source_urls": [
+        "https://www.mylivingchoice.com/property/sunrise-at-bluemont-park",
+        "https://ultimateseniorresource.com/states/virginia/arlington/sunrise-at-bluemont-park",
+        "https://www.caring.com/senior-living/virginia/arlington/sunrise-at-bluemont-park-22205",
+        "https://www.whereyoulivematters.org/find-a-community/sunrise-at-bluemont-park/"
+      ],
+      "notes": "Google ~4.5–4.7 but Caring ~3.8/33. Elevator/safety and food-handling themes are recent and material — verify current status on tour."
+    },
+    "charter-senior-living-of-fredericksburg": {
+      "google_rating": 4.9,
+      "google_count": 66,
+      "yelp_rating": null,
+      "yelp_count": null,
+      "sentiment": "mixed",
+      "confidence": "medium",
+      "material_red_flags": true,
+      "red_flags": [
+        "reported bedbug / scabies outbreak themes in aggregated feedback",
+        "staffing shortages affecting clinical consistency"
+      ],
+      "pros": [
+        "warm compassionate staff",
+        "clean cozy atmosphere",
+        "activities and dining praised on Google-heavy sources"
+      ],
+      "source_urls": [
+        "https://ultimateseniorresource.com/states/virginia/falmouth/charter-senior-living-of-fredericksburg",
+        "https://www.whereyoulivematters.org/find-a-community/charter-senior-living-of-fredericksburg/",
+        "https://charter-senior-living-of-fredericksburg.wheree.com/",
+        "https://www.carechanges.com/living-communities/charter-senior-living-of-fredericksburg_fredericksburg_virginia/"
+      ],
+      "notes": "Very high Google (~4.9) conflicts with pest/staffing caveats on CareChanges/Wheree. Treat as material until DSS/VDH and tour clear it. No solid Yelp rating found."
+    },
+    "bright-hands-assisted-living": {
+      "google_rating": null,
+      "google_count": null,
+      "yelp_rating": null,
+      "yelp_count": null,
+      "sentiment": "thin",
+      "confidence": "none",
+      "material_red_flags": false,
+      "red_flags": [],
+      "pros": [
+        "owner-operated 5-resident home model (operator marketing)"
+      ],
+      "source_urls": [
+        "https://brighthandsmd.com/assisted-living-silver-spring-md",
+        "https://brighthandsmd.com/locations",
+        "https://www.seniorly.com/assisted-living/maryland/silver-spring/j-rose-ii"
+      ],
+      "notes": "Essentially no public Google/Yelp review volume. Small home — rely on MD OHCQ + in-person tour."
+    },
+    "bright-hands-assisted-living-ii": {
+      "google_rating": null,
+      "google_count": null,
+      "yelp_rating": null,
+      "yelp_count": null,
+      "sentiment": "thin",
+      "confidence": "none",
+      "material_red_flags": false,
+      "red_flags": [],
+      "pros": [
+        "same owner / five-resident model as Bright Hands I (operator marketing)"
+      ],
+      "source_urls": [
+        "https://brighthandsmd.com/locations",
+        "https://brighthandsmd.com/"
+      ],
+      "notes": "No usable public Google/Yelp reviews found for Montgomery Village location."
+    },
+    "stern-life-assisted-living-thames-drive": {
+      "google_rating": 5.0,
+      "google_count": null,
+      "yelp_rating": null,
+      "yelp_count": null,
+      "sentiment": "thin",
+      "confidence": "low",
+      "material_red_flags": false,
+      "red_flags": [],
+      "pros": [
+        "compassionate named caregivers in testimonials",
+        "clean accessible neighborhood home",
+        "24/7 med tech support cited by families"
+      ],
+      "source_urls": [
+        "https://sternlifeassistedliving.com/",
+        "https://seniors.fyi/assisted-living/maryland/frederick/stern-life-84575",
+        "https://www.seniorly.com/assisted-living/maryland/frederick/stern-life",
+        "https://www.oasissenioradvisors.com/community-guide/maryland/frederick/stern-life-assisted-living-2/"
+      ],
+      "notes": "Seed 5.0; public volume thin (operator site testimonials / seniors.fyi ~10). No Yelp. Treat as thin positive."
+    },
+    "stern-life-assisted-living-walnut-street": {
+      "google_rating": null,
+      "google_count": null,
+      "yelp_rating": null,
+      "yelp_count": null,
+      "sentiment": "thin",
+      "confidence": "none",
+      "material_red_flags": false,
+      "red_flags": [],
+      "pros": [
+        "same Stern Life boutique home brand; positive family testimonials on operator site"
+      ],
+      "source_urls": [
+        "https://sternlifeassistedliving.com/",
+        "https://www.oasissenioradvisors.com/community-guide/maryland/frederick/stern-life-assisted-living-2/"
+      ],
+      "notes": "No separate Google/Yelp footprint found for Walnut Street. Thin data."
+    },
+    "the-village-at-orchard-ridge": {
+      "google_rating": 4.5,
+      "google_count": 52,
+      "yelp_rating": null,
+      "yelp_count": null,
+      "sentiment": "mixed",
+      "confidence": "medium",
+      "material_red_flags": false,
+      "red_flags": [
+        "weekend / skilled-nursing staffing attentiveness concerns",
+        "buffet / dining dissatisfaction for some",
+        "annual fee increases and turnover in food/building services"
+      ],
+      "pros": [
+        "beautiful campus and amenities",
+        "kind staff",
+        "CCRC continuum and activities"
+      ],
+      "source_urls": [
+        "https://birdeye.com/the-village-at-orchard-ridge-177273772112406",
+        "https://www.thevillageatorchardridge.org/",
+        "https://www.mycaringplan.com/senior-living/the-village-at-orchard-ridge/",
+        "https://www.familyassets.com/nursing-homes/virginia/winchester/the-village-at-orchard-ridge",
+        "https://www.carechanges.com/living-communities/the-village-at-orchard-ridge_winchester_virginia/"
+      ],
+      "notes": "Birdeye 4.5 (Google subset ~52). Concerns lean SNF/weekend more than AL day-to-day — note but not elevating to material AL red-flag bundle. No Yelp."
+    },
+    "brightview-west-end": {
+      "google_rating": 4.6,
+      "google_count": 69,
+      "yelp_rating": null,
+      "yelp_count": null,
+      "sentiment": "positive",
+      "confidence": "high",
+      "material_red_flags": false,
+      "red_flags": [
+        "management responsiveness / admin follow-through delays",
+        "staffing when occupancy fluctuates",
+        "dining consistency mixed"
+      ],
+      "pros": [
+        "friendly professional staff",
+        "modern amenities and downtown Rockville location",
+        "activities and welcoming atmosphere"
+      ],
+      "source_urls": [
+        "https://ultimateseniorresource.com/states/maryland/rockville/brightview-west-end",
+        "https://www.mylivingchoice.com/property/brightview-west-end-senior-independent-living-assisted-living-memory-care-enhanced-care",
+        "https://www.seniorly.com/assisted-living/maryland/rockville/brightview-west-end",
+        "https://www.carechanges.com/living-communities/brightview-west-end_rockville_maryland/",
+        "https://seniors.fyi/assisted-living/maryland/rockville/brightview-west-end-74564"
+      ],
+      "notes": "Strong Google (~4.6–4.7). Operational caveats present but not a repeated severe neglect/safety cluster."
+    },
+    "brookdale-lake-ridge": {
+      "google_rating": 4.7,
+      "google_count": null,
+      "yelp_rating": null,
+      "yelp_count": null,
+      "sentiment": "mixed",
+      "confidence": "medium",
+      "material_red_flags": true,
+      "red_flags": [
+        "billing / cost transparency surprises",
+        "clinical communication gaps (esp. memory care)",
+        "staff turnover and uneven response times for a minority"
+      ],
+      "pros": [
+        "caring engaged staff (dominant theme)",
+        "strong dining praise",
+        "clean maintained campus and memory-care engagement"
+      ],
+      "source_urls": [
+        "https://reviews.birdeye.com/brookdale-lake-ridge-157255286315091",
+        "https://seniors.fyi/assisted-living/virginia/woodbridge/brookdale-lake-ridge-797",
+        "https://www.seniorly.com/assisted-living/virginia/woodbridge/brookdale-lake-ridge",
+        "https://www.aplaceformom.com/community/brookdale-lake-ridge-63427",
+        "https://www.senioradvisor.com/local/emeritus-at-lake-ridge-woodbridge-va"
+      ],
+      "notes": "High ratings overall (Birdeye 4.8/146; seed Google 4.7) but recurring billing/communication minority themes — flag material for due diligence."
+    },
+    "brookdale-potomac": {
+      "google_rating": 4.7,
+      "google_count": 96,
+      "yelp_rating": null,
+      "yelp_count": null,
+      "sentiment": "mixed",
+      "confidence": "high",
+      "material_red_flags": true,
+      "red_flags": [
+        "weekend / off-shift staffing shortages and slow call response",
+        "billing errors and administrative unresponsiveness",
+        "hygiene / medication delay anecdotes when short-staffed"
+      ],
+      "pros": [
+        "compassionate professional staff for many families",
+        "clean home-like environment",
+        "activities and therapy support"
+      ],
+      "source_urls": [
+        "https://www.mylivingchoice.com/property/brookdale-potomac",
+        "https://seniors.fyi/assisted-living/maryland/potomac/brookdale-potomac-12240",
+        "https://www.aplaceformom.com/community/brookdale-potomac-78842",
+        "https://www.seniorly.com/assisted-living/maryland/potomac/brookdale-potomac",
+        "https://assistedlivingscout.com/assisted-living/brookdale-potomac"
+      ],
+      "notes": "Google ~4.7/96 with repeated staffing/billing caveats in Seniorly/APFM. Seed 5.0 slightly optimistic."
+    },
+    "brightview-fair-oaks": {
+      "google_rating": 4.8,
+      "google_count": 91,
+      "yelp_rating": null,
+      "yelp_count": null,
+      "sentiment": "positive",
+      "confidence": "high",
+      "material_red_flags": true,
+      "red_flags": [
+        "memory-care decision pressure / documentation transparency concerns",
+        "alarm response / wandering safety themes in some aggregators"
+      ],
+      "pros": [
+        "kind professional staff",
+        "clean vibrant programming and dining",
+        "strong overall Google score"
+      ],
+      "source_urls": [
+        "https://ultimateseniorresource.com/states/virginia/fairfax/brightview-fair-oaks-senior-independent-living-assisted-living-memory-care-fairfax-va",
+        "https://www.mylivingchoice.com/property/brightview-fair-oaks-senior-independent-living-assisted-living-memory-care",
+        "https://seniors.fyi/assisted-living/virginia/fairfax/brightview-fair-oaks-54054"
+      ],
+      "notes": "Google excellent (~4.8). Material flag is narrower: probe memory-care safety/incident response on tour — less about day-to-day AL hospitality."
+    },
+    "spring-oak-at-warrenton": {
+      "google_rating": 4.4,
+      "google_count": null,
+      "yelp_rating": null,
+      "yelp_count": null,
+      "sentiment": "thin",
+      "confidence": "low",
+      "material_red_flags": false,
+      "red_flags": [
+        "older building / limited activities noted by some tour-style reviews"
+      ],
+      "pros": [
+        "loving caring caregivers / home-like feel",
+        "peace of mind for several family reviews"
+      ],
+      "source_urls": [
+        "https://www.senioradvisor.com/local/amerisist-of-warrenton-warrenton-va",
+        "https://health.usnews.com/best-senior-living/spring-oak-warrenton-10568",
+        "https://www.aplaceformom.com/community/spring-oak-at-warrenton-97943"
+      ],
+      "notes": "Thin public volume (APFM ~15; U.S. News 6). Seed Google 4.4. No clear Yelp. Generally positive with low confidence."
+    },
+    "evermore-senior-living": {
+      "google_rating": 5.0,
+      "google_count": 26,
+      "yelp_rating": null,
+      "yelp_count": null,
+      "sentiment": "positive",
+      "confidence": "low",
+      "material_red_flags": false,
+      "red_flags": [],
+      "pros": [
+        "personalized care and attentive staff",
+        "clean nurturing home-like environment",
+        "food tailored / praised"
+      ],
+      "source_urls": [
+        "https://seniors.fyi/assisted-living/virginia/woodbridge",
+        "https://www.senioradvisor.com/warrenton-va/assisted-living",
+        "https://www.oasissenioradvisors.com/community-guide/virginia/stafford/viva-at-stafford/"
+      ],
+      "notes": "High scores (~4.9–5.0) on small samples (Seniors.fyi 19–26). SeniorAdvisor shows only 2 reviews at 4.5. Thin volume — confidence low despite clean sentiment. No Yelp."
+    },
+    "viva-senior-living-at-stafford": {
+      "google_rating": 4.6,
+      "google_count": null,
+      "yelp_rating": null,
+      "yelp_count": null,
+      "sentiment": "mixed",
+      "confidence": "medium",
+      "material_red_flags": true,
+      "red_flags": [
+        "staff turnover and declining vibe since ~2024 per recent reviews",
+        "billing / price quotes changing after move-in",
+        "slow call-button response / understaffing",
+        "maintenance decline; conditional VA license status to verify"
+      ],
+      "pros": [
+        "friendly staff and memory-care praise in older/positive cohort",
+        "cleanliness and activities when community was stable"
+      ],
+      "source_urls": [
+        "https://www.seniorly.com/assisted-living/virginia/stafford/greenfield-assisted-living-of-stafford",
+        "https://www.aplaceformom.com/community/viva-senior-living-at-stafford-63453",
+        "https://assistedlivingmagazine.com/assisted-living/viva-senior-living-at-stafford/",
+        "https://www.dss.virginia.gov/printer/facility/search/alf.cgi?rm=Details;ID=51281;",
+        "https://www.vivaseniorliving.com/stafford"
+      ],
+      "notes": "Seed Google 4.6 conflicts with APFM lifetime ~3.9/56 and recent decline narratives. VA DSS shows conditional license (verify current). Material red flags."
+    }
+  }
+}

@@ -17,6 +17,41 @@ price_confidence: "medium"
 price_notes: "AL apartments from $3,900/mo; chef meals included; med assistance via AL care. Confirm studio vs 1BR under $5k."
 phone_seed: "571-348-4970"
 contact_source_seed: "https://www.harmonyseniorservices.com/community/harmony-at-spring-hill/"
+- "staffing shortages / shift-dependent care quality"
+- "supervision and retention of residents beyond facility capability (DSS complaint themes)"
+- "confusing billing / fee structure"
+- "memory-care experience more uneven than AL"
+- "attractive gated campus and amenities"
+- "friendly staff and warm family-like feel for many"
+- "activities and grounds"
+- "https://ultimateseniorresource.com/states/virginia/lorton/harmony-at-spring-hill"
+- "https://www.caring.com/senior-living/virginia/lorton/harmony-at-spring-hill"
+- "https://seniors.fyi/assisted-living/virginia/lorton/harmony-at-spring-hill-66102"
+- "https://www.aplaceformom.com/community/harmony-at-spring-hill-1410425"
+- "https://www.dss.virginia.gov/printer/facility/search/alf.cgi?rm=Inspection;Inspection=34649;ID=44360;"
+review_google_rating: 4.0
+review_google_count: 44
+review_yelp_rating: null
+review_yelp_count: null
+review_overall_sentiment: "mixed"
+review_red_flags:
+- "staffing shortages / shift-dependent care quality"
+- "supervision and retention of residents beyond facility capability (DSS complaint themes)"
+- "confusing billing / fee structure"
+- "memory-care experience more uneven than AL"
+review_pros:
+- "attractive gated campus and amenities"
+- "friendly staff and warm family-like feel for many"
+- "activities and grounds"
+review_source_urls:
+- "https://ultimateseniorresource.com/states/virginia/lorton/harmony-at-spring-hill"
+- "https://www.caring.com/senior-living/virginia/lorton/harmony-at-spring-hill"
+- "https://seniors.fyi/assisted-living/virginia/lorton/harmony-at-spring-hill-66102"
+- "https://www.aplaceformom.com/community/harmony-at-spring-hill-1410425"
+- "https://www.dss.virginia.gov/printer/facility/search/alf.cgi?rm=Inspection;Inspection=34649;ID=44360;"
+review_as_of: "2026-09-24"
+review_confidence: "high"
+review_material_red_flags: true
 status: stub
 want_to_review_date: null
 visit_date: null
@@ -48,11 +83,21 @@ _Seed price text kept in front matter (`price_range_seed`)._
 
 ## Ratings & sentiment
 
-_Do not invent. Pull with review skill; cite source URLs._
+- **Google:** 4.0/5 (~44)
+- **Yelp:** n/a / thin
+- **Overall sentiment:** mixed (confidence: high)
+- **As of:** 2026-09-24
+- Detail: see [reviews.md](reviews.md). All sources cited there.
+
 
 ## Red flags
 
--
+**Material / repeated themes:**
+- staffing shortages / shift-dependent care quality
+- supervision and retention of residents beyond facility capability (DSS complaint themes)
+- confusing billing / fee structure
+- memory-care experience more uneven than AL
+
 
 ## Inspections
 

@@ -18,6 +18,37 @@ price_notes: "Official AL from $4,586/mo includes 3 meals, programs, weekly hous
 phone_seed: "703-797-3844"
 email_seed: "Info@GoodwinLiving.org"
 contact_source_seed: "https://theviewalexandria.org/contact/"
+- "clinical / personal-care consistency (incontinence/catheter hygiene lapses in multiple reviews)"
+- "food quality inconsistency"
+- "family communication and management follow-through gaps"
+- "friendly staff"
+- "renovated apartments and amenities"
+- "activities / CCRC continuum value for many"
+- "https://www.miradorliving.com/assisted-living/virginia/alexandria/the-view-alexandria-by-goodwin-living"
+- "https://www.caring.com/senior-living/virginia/alexandria/the-view-alexandria"
+- "https://www.aplaceformom.com/community/the-view-alexandria-63441"
+- "https://theviewalexandria.org/who-we-are/"
+review_google_rating: 4.7
+review_google_count: null
+review_yelp_rating: null
+review_yelp_count: null
+review_overall_sentiment: "mixed"
+review_red_flags:
+- "clinical / personal-care consistency (incontinence/catheter hygiene lapses in multiple reviews)"
+- "food quality inconsistency"
+- "family communication and management follow-through gaps"
+review_pros:
+- "friendly staff"
+- "renovated apartments and amenities"
+- "activities / CCRC continuum value for many"
+review_source_urls:
+- "https://www.miradorliving.com/assisted-living/virginia/alexandria/the-view-alexandria-by-goodwin-living"
+- "https://www.caring.com/senior-living/virginia/alexandria/the-view-alexandria"
+- "https://www.aplaceformom.com/community/the-view-alexandria-63441"
+- "https://theviewalexandria.org/who-we-are/"
+review_as_of: "2026-09-24"
+review_confidence: "medium"
+review_material_red_flags: true
 status: stub
 want_to_review_date: null
 visit_date: null
@@ -49,11 +80,20 @@ _Seed price text kept in front matter (`price_range_seed`)._
 
 ## Ratings & sentiment
 
-_Do not invent. Pull with review skill; cite source URLs._
+- **Google:** 4.7/5
+- **Yelp:** n/a / thin
+- **Overall sentiment:** mixed (confidence: medium)
+- **As of:** 2026-09-24
+- Detail: see [reviews.md](reviews.md). All sources cited there.
+
 
 ## Red flags
 
--
+**Material / repeated themes:**
+- clinical / personal-care consistency (incontinence/catheter hygiene lapses in multiple reviews)
+- food quality inconsistency
+- family communication and management follow-through gaps
+
 
 ## Inspections
 

@@ -17,6 +17,39 @@ price_confidence: "medium"
 price_notes: "Private AL apartment $5,740+/mo base; dining included; care fees extra."
 phone_seed: "301-765-9198"
 contact_source_seed: "https://www.brookdale.com/en/communities/brookdale-potomac.html"
+- "weekend / off-shift staffing shortages and slow call response"
+- "billing errors and administrative unresponsiveness"
+- "hygiene / medication delay anecdotes when short-staffed"
+- "compassionate professional staff for many families"
+- "clean home-like environment"
+- "activities and therapy support"
+- "https://www.mylivingchoice.com/property/brookdale-potomac"
+- "https://seniors.fyi/assisted-living/maryland/potomac/brookdale-potomac-12240"
+- "https://www.aplaceformom.com/community/brookdale-potomac-78842"
+- "https://www.seniorly.com/assisted-living/maryland/potomac/brookdale-potomac"
+- "https://assistedlivingscout.com/assisted-living/brookdale-potomac"
+review_google_rating: 4.7
+review_google_count: 96
+review_yelp_rating: null
+review_yelp_count: null
+review_overall_sentiment: "mixed"
+review_red_flags:
+- "weekend / off-shift staffing shortages and slow call response"
+- "billing errors and administrative unresponsiveness"
+- "hygiene / medication delay anecdotes when short-staffed"
+review_pros:
+- "compassionate professional staff for many families"
+- "clean home-like environment"
+- "activities and therapy support"
+review_source_urls:
+- "https://www.mylivingchoice.com/property/brookdale-potomac"
+- "https://seniors.fyi/assisted-living/maryland/potomac/brookdale-potomac-12240"
+- "https://www.aplaceformom.com/community/brookdale-potomac-78842"
+- "https://www.seniorly.com/assisted-living/maryland/potomac/brookdale-potomac"
+- "https://assistedlivingscout.com/assisted-living/brookdale-potomac"
+review_as_of: "2026-09-24"
+review_confidence: "high"
+review_material_red_flags: true
 status: stub
 want_to_review_date: null
 visit_date: null
@@ -48,11 +81,20 @@ _Seed price text kept in front matter (`price_range_seed`)._
 
 ## Ratings & sentiment
 
-_Do not invent. Pull with review skill; cite source URLs._
+- **Google:** 4.7/5 (~96)
+- **Yelp:** n/a / thin
+- **Overall sentiment:** mixed (confidence: high)
+- **As of:** 2026-09-24
+- Detail: see [reviews.md](reviews.md). All sources cited there.
+
 
 ## Red flags
 
--
+**Material / repeated themes:**
+- weekend / off-shift staffing shortages and slow call response
+- billing errors and administrative unresponsiveness
+- hygiene / medication delay anecdotes when short-staffed
+
 
 ## Inspections
 

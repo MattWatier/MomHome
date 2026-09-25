@@ -18,6 +18,23 @@ price_notes: "Same operator rate sheet as Bright Hands I: from $5,000/mo all-inc
 phone_seed: "301-869-8202"
 email_seed: "brighthandsassistedliving@gmail.com"
 contact_source_seed: "https://brighthandsmd.com/locations"
+- "same owner / five-resident model as Bright Hands I (operator marketing)"
+- "https://brighthandsmd.com/locations"
+- "https://brighthandsmd.com/"
+review_google_rating: null
+review_google_count: null
+review_yelp_rating: null
+review_yelp_count: null
+review_overall_sentiment: "thin"
+review_red_flags:[]
+review_pros:
+- "same owner / five-resident model as Bright Hands I (operator marketing)"
+review_source_urls:
+- "https://brighthandsmd.com/locations"
+- "https://brighthandsmd.com/"
+review_as_of: "2026-09-24"
+review_confidence: "none"
+review_material_red_flags: false
 status: stub
 want_to_review_date: null
 visit_date: null
@@ -49,11 +66,17 @@ _Seed price text kept in front matter (`price_range_seed`)._
 
 ## Ratings & sentiment
 
-_Do not invent. Pull with review skill; cite source URLs._
+- **Google:** n/a
+- **Yelp:** n/a / thin
+- **Overall sentiment:** thin (confidence: none)
+- **As of:** 2026-09-24
+- Detail: see [reviews.md](reviews.md). All sources cited there.
+
 
 ## Red flags
 
--
+- None recurring at research time (or review volume too thin to judge).
+
 
 ## Inspections
 

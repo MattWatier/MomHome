@@ -17,6 +17,39 @@ price_confidence: "low"
 price_notes: "Suite ~$5,200+/mo from seed/listings; med management and meals listed. Confirm AL private studio/1BR."
 phone_seed: "240-866-2524"
 contact_source_seed: "https://www.brightviewseniorliving.com/find-a-community/brightview-west-end"
+- "management responsiveness / admin follow-through delays"
+- "staffing when occupancy fluctuates"
+- "dining consistency mixed"
+- "friendly professional staff"
+- "modern amenities and downtown Rockville location"
+- "activities and welcoming atmosphere"
+- "https://ultimateseniorresource.com/states/maryland/rockville/brightview-west-end"
+- "https://www.mylivingchoice.com/property/brightview-west-end-senior-independent-living-assisted-living-memory-care-enhanced-care"
+- "https://www.seniorly.com/assisted-living/maryland/rockville/brightview-west-end"
+- "https://www.carechanges.com/living-communities/brightview-west-end_rockville_maryland/"
+- "https://seniors.fyi/assisted-living/maryland/rockville/brightview-west-end-74564"
+review_google_rating: 4.6
+review_google_count: 69
+review_yelp_rating: null
+review_yelp_count: null
+review_overall_sentiment: "positive"
+review_red_flags:
+- "management responsiveness / admin follow-through delays"
+- "staffing when occupancy fluctuates"
+- "dining consistency mixed"
+review_pros:
+- "friendly professional staff"
+- "modern amenities and downtown Rockville location"
+- "activities and welcoming atmosphere"
+review_source_urls:
+- "https://ultimateseniorresource.com/states/maryland/rockville/brightview-west-end"
+- "https://www.mylivingchoice.com/property/brightview-west-end-senior-independent-living-assisted-living-memory-care-enhanced-care"
+- "https://www.seniorly.com/assisted-living/maryland/rockville/brightview-west-end"
+- "https://www.carechanges.com/living-communities/brightview-west-end_rockville_maryland/"
+- "https://seniors.fyi/assisted-living/maryland/rockville/brightview-west-end-74564"
+review_as_of: "2026-09-24"
+review_confidence: "high"
+review_material_red_flags: false
 status: stub
 want_to_review_date: null
 visit_date: null
@@ -48,11 +81,19 @@ _Seed price text kept in front matter (`price_range_seed`)._
 
 ## Ratings & sentiment
 
-_Do not invent. Pull with review skill; cite source URLs._
+- **Google:** 4.6/5 (~69)
+- **Yelp:** n/a / thin
+- **Overall sentiment:** positive (confidence: high)
+- **As of:** 2026-09-24
+- Detail: see [reviews.md](reviews.md). All sources cited there.
+
 
 ## Red flags
 
--
+- management responsiveness / admin follow-through delays
+- staffing when occupancy fluctuates
+- dining consistency mixed
+
 
 ## Inspections
 

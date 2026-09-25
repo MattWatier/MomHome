@@ -17,6 +17,31 @@ price_confidence: "high"
 price_notes: "Official: AL studio $4,100+; 2BR $5,900+ (no 1BR listed). Selected studio. Care + med fees extra."
 phone_seed: "703-348-1033"
 contact_source_seed: "https://www.sunriseseniorliving.com/communities/va/sunrise-of-arlington"
+- "occasional off-peak staff availability (minor minority)"
+- "warm attentive staff and strong leadership mentions"
+- "homelike mansion setting"
+- "personalized memory-care praise"
+- "https://ultimateseniorresource.com/states/virginia/arlington/sunrise-of-arlington-arlington-va"
+- "https://www.mylivingchoice.com/property/sunrise-of-arlington"
+- "https://www.sunriseseniorliving.com/communities/va/sunrise-of-arlington"
+review_google_rating: 4.6
+review_google_count: 31
+review_yelp_rating: null
+review_yelp_count: null
+review_overall_sentiment: "positive"
+review_red_flags:
+- "occasional off-peak staff availability (minor minority)"
+review_pros:
+- "warm attentive staff and strong leadership mentions"
+- "homelike mansion setting"
+- "personalized memory-care praise"
+review_source_urls:
+- "https://ultimateseniorresource.com/states/virginia/arlington/sunrise-of-arlington-arlington-va"
+- "https://www.mylivingchoice.com/property/sunrise-of-arlington"
+- "https://www.sunriseseniorliving.com/communities/va/sunrise-of-arlington"
+review_as_of: "2026-09-24"
+review_confidence: "medium"
+review_material_red_flags: false
 status: stub
 want_to_review_date: null
 visit_date: null
@@ -48,11 +73,17 @@ _Seed price text kept in front matter (`price_range_seed`)._
 
 ## Ratings & sentiment
 
-_Do not invent. Pull with review skill; cite source URLs._
+- **Google:** 4.6/5 (~31)
+- **Yelp:** n/a / thin
+- **Overall sentiment:** positive (confidence: medium)
+- **As of:** 2026-09-24
+- Detail: see [reviews.md](reviews.md). All sources cited there.
+
 
 ## Red flags
 
--
+- occasional off-peak staff availability (minor minority)
+
 
 ## Inspections
 

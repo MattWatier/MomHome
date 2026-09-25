@@ -18,6 +18,29 @@ price_notes: "AL from $5,875/mo; studios and 1BRs available; meals included. Con
 phone_seed: "540-347-6000"
 email_seed: "warrenton@springoakliving.com"
 contact_source_seed: "https://www.springoakliving.com/contact"
+- "older building / limited activities noted by some tour-style reviews"
+- "loving caring caregivers / home-like feel"
+- "peace of mind for several family reviews"
+- "https://www.senioradvisor.com/local/amerisist-of-warrenton-warrenton-va"
+- "https://health.usnews.com/best-senior-living/spring-oak-warrenton-10568"
+- "https://www.aplaceformom.com/community/spring-oak-at-warrenton-97943"
+review_google_rating: 4.4
+review_google_count: null
+review_yelp_rating: null
+review_yelp_count: null
+review_overall_sentiment: "thin"
+review_red_flags:
+- "older building / limited activities noted by some tour-style reviews"
+review_pros:
+- "loving caring caregivers / home-like feel"
+- "peace of mind for several family reviews"
+review_source_urls:
+- "https://www.senioradvisor.com/local/amerisist-of-warrenton-warrenton-va"
+- "https://health.usnews.com/best-senior-living/spring-oak-warrenton-10568"
+- "https://www.aplaceformom.com/community/spring-oak-at-warrenton-97943"
+review_as_of: "2026-09-24"
+review_confidence: "low"
+review_material_red_flags: false
 status: stub
 want_to_review_date: null
 visit_date: null
@@ -49,11 +72,17 @@ _Seed price text kept in front matter (`price_range_seed`)._
 
 ## Ratings & sentiment
 
-_Do not invent. Pull with review skill; cite source URLs._
+- **Google:** 4.4/5
+- **Yelp:** n/a / thin
+- **Overall sentiment:** thin (confidence: low)
+- **As of:** 2026-09-24
+- Detail: see [reviews.md](reviews.md). All sources cited there.
+
 
 ## Red flags
 
--
+- older building / limited activities noted by some tour-style reviews
+
 
 ## Inspections
 

@@ -17,6 +17,41 @@ price_confidence: "high"
 price_notes: "Official: studio $4,500+; 1BR $6,300+. Prefer studio under $5k. Meals included; care + med fees extra."
 phone_seed: "571-290-4970"
 contact_source_seed: "https://www.sunriseseniorliving.com/communities/va/sunrise-at-silas-burke-house"
+- "high staff turnover"
+- "poor family communication / unresponsive leadership when issues escalate"
+- "care plan gaps when acuity rises; discharge/eviction friction"
+- "medical follow-up and call-bell responsiveness concerns"
+- "clean cheerful campus"
+- "friendly staff and good memory-care experiences for some"
+- "dining and activities praised by positive cohort"
+- "https://ultimateseniorresource.com/states/virginia/burke/sunrise-at-silas-burke-house"
+- "https://findwithcare.com/community/sunrise-at-silas-burke-house--rvmvdjwkzdhp8fcs6pe0xojn"
+- "https://web.seniorly.com/assisted-living/virginia/burke/sunrise-at-silas-burke-house"
+- "https://seniors.fyi/assisted-living/virginia/burke/sunrise-at-silas-burke-house-31432"
+- "https://www.mylivingchoice.com/properties/best-senior-living/burke/virginia"
+review_google_rating: 3.9
+review_google_count: 15
+review_yelp_rating: null
+review_yelp_count: null
+review_overall_sentiment: "mixed"
+review_red_flags:
+- "high staff turnover"
+- "poor family communication / unresponsive leadership when issues escalate"
+- "care plan gaps when acuity rises; discharge/eviction friction"
+- "medical follow-up and call-bell responsiveness concerns"
+review_pros:
+- "clean cheerful campus"
+- "friendly staff and good memory-care experiences for some"
+- "dining and activities praised by positive cohort"
+review_source_urls:
+- "https://ultimateseniorresource.com/states/virginia/burke/sunrise-at-silas-burke-house"
+- "https://findwithcare.com/community/sunrise-at-silas-burke-house--rvmvdjwkzdhp8fcs6pe0xojn"
+- "https://web.seniorly.com/assisted-living/virginia/burke/sunrise-at-silas-burke-house"
+- "https://seniors.fyi/assisted-living/virginia/burke/sunrise-at-silas-burke-house-31432"
+- "https://www.mylivingchoice.com/properties/best-senior-living/burke/virginia"
+review_as_of: "2026-09-24"
+review_confidence: "medium"
+review_material_red_flags: true
 status: stub
 want_to_review_date: null
 visit_date: null
@@ -48,11 +83,21 @@ _Seed price text kept in front matter (`price_range_seed`)._
 
 ## Ratings & sentiment
 
-_Do not invent. Pull with review skill; cite source URLs._
+- **Google:** 3.9/5 (~15)
+- **Yelp:** n/a / thin
+- **Overall sentiment:** mixed (confidence: medium)
+- **As of:** 2026-09-24
+- Detail: see [reviews.md](reviews.md). All sources cited there.
+
 
 ## Red flags
 
--
+**Material / repeated themes:**
+- high staff turnover
+- poor family communication / unresponsive leadership when issues escalate
+- care plan gaps when acuity rises; discharge/eviction friction
+- medical follow-up and call-bell responsiveness concerns
+
 
 ## Inspections
 
