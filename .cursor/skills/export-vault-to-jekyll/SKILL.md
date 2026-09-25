@@ -1,25 +1,46 @@
 ---
 name: export-vault-to-jekyll
 description: >-
-  Kickoff-only notes for exporting MomHome vault Markdown to a Jekyll site under
-  `_output/`. Do not build the site until asked.
+  Export MomHome vault Markdown to the family Jekyll site under `_output/`.
+  Use when refreshing the site from vault, adding pages, or serving locally.
 ---
 
-# Export vault → Jekyll (kickoff only)
+# Export vault → Jekyll
 
-## Status
+## Hard rules
 
-**Do not build** `_output/` or a Jekyll UI until Matt asks. This skill documents the intended inputs only.
+- Site reads **vault Markdown**, never the protected seed CSV under `_data/do not edit/`.
+- No PII beyond the Vienna Metro search anchor.
+- Cards show all-in; location pages show price breakdown + review snapshot.
 
-## Intended inputs
+## Refresh from vault
 
-- `vault/locations/*/index.md` (+ optional child notes)
-- Front matter: uid, name, address, website, ratings (with sources), all-in estimate, status, queue dates
-- Queues in `vault/_queues/`
+```bash
+python3 scripts/export_vault_to_jekyll.py
+```
 
-## Constraints
+Copies `vault/locations/*/index.md` (skipping `example: true`) into `_output/_locations/<slug>.md` with `layout: location`.
 
-- Site reads **vault Markdown**, not CSV
-- No PII beyond search anchor
-- Cards show all-in; location pages show price breakdown
-- Family-only; publish later when Matt is ready
+## Serve locally
+
+```bash
+cd _output
+bundle install
+bundle exec jekyll serve --host 127.0.0.1 --port 43127 --livereload --livereload-port 43128
+```
+
+Open http://127.0.0.1:43127
+
+## Site map (v1)
+
+| Path | Purpose |
+|------|---------|
+| `/` | Hero + filterable location cards |
+| `/care-lens/` | Shared care profile / search anchor |
+| `/locations/<slug>/` | Location detail from vault front matter + body |
+
+## Do not
+
+- Publish to GitHub Pages until Matt asks
+- Invent inspections/reviews in the export layer
+- Mutate `_data/do not edit/`

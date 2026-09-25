@@ -1,0 +1,31 @@
+{% assign price = location.all_in_estimate_monthly %}
+{% assign miles = location.distance_miles_seed %}
+{% assign rating = location.review_google_rating | default: location.google_rating_seed %}
+<a class="loc-card"
+   href="{{ location.url | relative_url }}"
+   data-price="{% if price %}{{ price }}{% else %}{% endif %}"
+   data-miles="{% if miles %}{{ miles }}{% else %}{% endif %}"
+   data-flags="{% if location.review_material_red_flags %}1{% else %}0{% endif %}"
+   data-name="{{ location.name | downcase | escape }}">
+  <div class="loc-card__top">
+    <h3 class="loc-card__name">{{ location.name }}</h3>
+    {% if location.review_material_red_flags %}
+    <span class="pill pill--warn">Red flags</span>
+    {% endif %}
+  </div>
+  <p class="loc-card__price">
+    {% if price %}
+      <span class="loc-card__dollars">${{ price }}</span><span class="loc-card__per">/mo all-in</span>
+    {% else %}
+      <span class="loc-card__unknown">Price TBD</span>
+    {% endif %}
+  </p>
+  <p class="loc-card__meta">
+    {% if miles %}{{ miles }} mi{% else %}Distance TBD{% endif %}
+    {% if rating %} · ★ {{ rating }}{% endif %}
+    {% if location.room_type and location.room_type != "unknown" %} · {{ location.room_type | replace: "_", " " }}{% endif %}
+  </p>
+  {% if location.address %}
+  <p class="loc-card__addr">{{ location.address }}</p>
+  {% endif %}
+</a>

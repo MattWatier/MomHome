@@ -5,6 +5,13 @@ _site/
 .DS_Store
 **/__pycache__/
 *.pyc
-_output/
 
-vault/MomHome/.obsidian/
+# Jekyll build artifacts inside the family site
+_output/_site/
+_output/.jekyll-cache/
+_output/.sass-cache/
+_output/.jekyll-metadata
+_output/vendor/
+
+# Obsidian local config (open vault/ as the vault root)
+**/.obsidian/

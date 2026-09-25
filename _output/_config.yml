@@ -1,0 +1,25 @@
+title: MomHome
+description: Family planning site for assisted living near Vienna Metro, Virginia.
+url: ""
+baseurl: ""
+
+collections:
+  locations:
+    output: true
+    permalink: /locations/:slug/
+
+defaults:
+  - scope:
+      path: ""
+      type: locations
+    values:
+      layout: location
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
+
+sass:
+  style: compressed

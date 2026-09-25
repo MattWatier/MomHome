@@ -1,0 +1,66 @@
+---
+layout: default
+title: Locations
+description: Compare assisted living options near Vienna Metro with all-in monthly estimates.
+---
+
+<section class="hero">
+  <div class="hero__atmosphere" aria-hidden="true"></div>
+  <div class="hero__inner">
+    <p class="brand-mark">MomHome</p>
+    <h1>Assisted living we can actually compare</h1>
+    <p class="hero__lede">Family shortlist radiating from Vienna Metro — private room, three meals, meds with oversight, all-in monthly estimates.</p>
+    <div class="hero__ctas">
+      <a class="btn btn--primary" href="#locations">Browse locations</a>
+      <a class="btn btn--ghost" href="#under-5k">Under $5k</a>
+    </div>
+  </div>
+</section>
+
+<section class="band band--lens" id="care-lens-summary">
+  <div class="band__inner">
+    <h2>Care lens</h2>
+    <p>Assisted living (not memory care as the default). Comfortable under ~$5k/mo all-in; stretch to ~$8k. Virginia-first from the Vienna Metro parking lot.</p>
+    <a class="text-link" href="{{ '/care-lens/' | relative_url }}">Full care lens →</a>
+  </div>
+</section>
+
+<section class="band" id="locations">
+  <div class="band__inner">
+    <div class="band__head">
+      <h2>Locations</h2>
+      <p class="band__sub">{{ site.locations | size }} communities exported from the vault. Cards show all-in; open a page for the price breakdown.</p>
+    </div>
+
+    <div class="toolbar" role="search" aria-label="Filter locations">
+      <label class="toolbar__search">
+        <span class="sr-only">Search by name</span>
+        <input type="search" id="filter-q" placeholder="Search by name" autocomplete="off">
+      </label>
+      <div class="toolbar__filters" role="group" aria-label="Budget filter">
+        <button type="button" class="chip-btn is-active" data-filter="all">All</button>
+        <button type="button" class="chip-btn" data-filter="under5" id="under-5k">Under $5k</button>
+        <button type="button" class="chip-btn" data-filter="under6">Under $6k</button>
+        <button type="button" class="chip-btn" data-filter="unknown">Unknown price</button>
+        <button type="button" class="chip-btn" data-filter="flags">Material red flags</button>
+      </div>
+      <label class="toolbar__sort">
+        <span class="sr-only">Sort</span>
+        <select id="filter-sort">
+          <option value="price">Sort: price</option>
+          <option value="miles">Sort: distance</option>
+          <option value="name">Sort: name</option>
+        </select>
+      </label>
+    </div>
+
+    <p class="filter-status" id="filter-status" aria-live="polite"></p>
+
+    <div class="loc-grid" id="loc-grid">
+      {% assign sorted = site.locations | sort: "all_in_estimate_monthly" %}
+      {% for location in sorted %}
+        {% include location-card.html location=location %}
+      {% endfor %}
+    </div>
+  </div>
+</section>

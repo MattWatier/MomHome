@@ -21,4 +21,4 @@ After opening `vault/`, you should see `locations/` with one folder per facility
 7. **Care lens:** private room, 3 meals, meds reminder/self-admin with oversight, cane + walk-in shower, Vienna Metro anchor, VA-first.
 8. **No invented inspections/reviews** on seed import — stubs only.
 9. **No PII** beyond the agreed search anchor (Vienna Metro parking lot). Do not copy home street addresses from seed column headers into vault notes.
-10. Export later: vault → `_output/` Jekyll (skill only until ready).
+10. Family site: `python3 scripts/export_vault_to_jekyll.py` then serve `_output/` (see repo README).

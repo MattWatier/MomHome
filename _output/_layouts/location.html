@@ -1,0 +1,86 @@
+---
+layout: default
+---
+<article class="location-page">
+  <div class="location-page__hero">
+    <p class="eyebrow"><a href="{{ '/' | relative_url }}">← All locations</a></p>
+    <h1>{{ page.name }}</h1>
+    {% if page.address %}
+    <p class="location-page__address">{{ page.address }}</p>
+    {% endif %}
+    <div class="location-page__chips">
+      {% if page.all_in_estimate_monthly %}
+      <span class="chip chip--price">${{ page.all_in_estimate_monthly }}/mo all-in</span>
+      {% else %}
+      <span class="chip">Price unknown</span>
+      {% endif %}
+      {% if page.distance_miles_seed %}
+      <span class="chip">{{ page.distance_miles_seed }} mi from Vienna Metro</span>
+      {% endif %}
+      {% if page.room_type and page.room_type != "unknown" %}
+      <span class="chip">{{ page.room_type | replace: "_", " " }}</span>
+      {% endif %}
+      {% if page.review_material_red_flags %}
+      <span class="chip chip--flag">Material red flags</span>
+      {% endif %}
+      {% if page.price_confidence %}
+      <span class="chip">Price confidence: {{ page.price_confidence }}</span>
+      {% endif %}
+    </div>
+    <div class="location-page__actions">
+      {% if page.website %}
+      <a class="btn btn--primary" href="{{ page.website }}" target="_blank" rel="noopener">Official site</a>
+      {% endif %}
+      {% if page.phone_seed %}
+      <a class="btn btn--ghost" href="tel:{{ page.phone_seed }}">{{ page.phone_seed }}</a>
+      {% endif %}
+    </div>
+  </div>
+
+  <div class="location-page__grid">
+    <section class="panel">
+      <h2>Price snapshot</h2>
+      <dl class="facts">
+        <div><dt>All-in estimate</dt><dd>{% if page.all_in_estimate_monthly %}${{ page.all_in_estimate_monthly }}/mo{% else %}Not yet estimated{% endif %}</dd></div>
+        <div><dt>Room rate (if separable)</dt><dd>{% if page.room_rate_monthly %}${{ page.room_rate_monthly }}/mo{% else %}—{% endif %}</dd></div>
+        <div><dt>Seed price range</dt><dd>{{ page.price_range_seed | default: "—" }}</dd></div>
+        {% if page.price_notes %}<div><dt>Notes</dt><dd>{{ page.price_notes }}</dd></div>{% endif %}
+        {% if page.price_source_url %}<div><dt>Source</dt><dd><a href="{{ page.price_source_url }}" target="_blank" rel="noopener">{{ page.price_source_url }}</a></dd></div>{% endif %}
+      </dl>
+    </section>
+
+    <section class="panel">
+      <h2>Reviews snapshot</h2>
+      <dl class="facts">
+        <div><dt>Google (research)</dt><dd>{% if page.review_google_rating %}{{ page.review_google_rating }}{% if page.review_google_count %} ({{ page.review_google_count }}){% endif %}{% else %}—{% endif %}</dd></div>
+        <div><dt>Yelp (research)</dt><dd>{% if page.review_yelp_rating %}{{ page.review_yelp_rating }}{% if page.review_yelp_count %} ({{ page.review_yelp_count }}){% endif %}{% else %}—{% endif %}</dd></div>
+        <div><dt>Sentiment</dt><dd>{{ page.review_overall_sentiment | default: "—" }}</dd></div>
+        <div><dt>Confidence</dt><dd>{{ page.review_confidence | default: "—" }}</dd></div>
+      </dl>
+      {% if page.review_red_flags %}
+      <h3>Red flags noted</h3>
+      <ul>
+        {% for flag in page.review_red_flags %}
+        <li>{{ flag }}</li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+      {% if page.review_pros %}
+      <h3>Pros noted</h3>
+      <ul>
+        {% for pro in page.review_pros %}
+        <li>{{ pro }}</li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+    </section>
+  </div>
+
+  <section class="panel panel--wide location-page__body">
+    {{ content }}
+  </section>
+
+  {% if page.uid %}
+  <p class="meta-line">UID {{ page.uid }} · exported from vault Markdown</p>
+  {% endif %}
+</article>
