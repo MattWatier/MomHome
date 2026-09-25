@@ -18,18 +18,12 @@ price_notes: "From $5,000/mo includes med admin, 3 meals, 24/7 supervision, pers
 phone_seed: "240-610-3769"
 email_seed: "enquiries@sternlifeassistedliving.com"
 contact_source_seed: "https://sternlifeassistedliving.com/"
-- "same Stern Life boutique home brand; positive family testimonials on operator site"
-- "https://sternlifeassistedliving.com/"
-- "https://www.oasissenioradvisors.com/community-guide/maryland/frederick/stern-life-assisted-living-2/"
-- "same Stern Life boutique home brand; positive family testimonials on operator site"
-- "https://sternlifeassistedliving.com/"
-- "https://www.oasissenioradvisors.com/community-guide/maryland/frederick/stern-life-assisted-living-2/"
 review_google_rating: null
 review_google_count: null
 review_yelp_rating: null
 review_yelp_count: null
 review_overall_sentiment: "thin"
-review_red_flags:[]
+review_red_flags: []
 review_pros:
 - "same Stern Life boutique home brand; positive family testimonials on operator site"
 review_source_urls:

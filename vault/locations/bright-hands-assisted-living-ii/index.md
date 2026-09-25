@@ -18,18 +18,12 @@ price_notes: "Same operator rate sheet as Bright Hands I: from $5,000/mo all-inc
 phone_seed: "301-869-8202"
 email_seed: "brighthandsassistedliving@gmail.com"
 contact_source_seed: "https://brighthandsmd.com/locations"
-- "same owner / five-resident model as Bright Hands I (operator marketing)"
-- "https://brighthandsmd.com/locations"
-- "https://brighthandsmd.com/"
-- "same owner / five-resident model as Bright Hands I (operator marketing)"
-- "https://brighthandsmd.com/locations"
-- "https://brighthandsmd.com/"
 review_google_rating: null
 review_google_count: null
 review_yelp_rating: null
 review_yelp_count: null
 review_overall_sentiment: "thin"
-review_red_flags:[]
+review_red_flags: []
 review_pros:
 - "same owner / five-resident model as Bright Hands I (operator marketing)"
 review_source_urls:

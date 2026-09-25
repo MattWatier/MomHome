@@ -17,24 +17,12 @@ price_confidence: "low"
 price_notes: "Suite ~$6,000+/mo per Mirador/seed; meals and med management listed. Confirm studio/1BR."
 phone_seed: "703-249-9128"
 contact_source_seed: "https://www.seniorly.com/assisted-living/virginia/woodbridge/evermore-senior-living-of-lake-ridge"
-- "personalized care and attentive staff"
-- "clean nurturing home-like environment"
-- "food tailored / praised"
-- "https://seniors.fyi/assisted-living/virginia/woodbridge"
-- "https://www.senioradvisor.com/warrenton-va/assisted-living"
-- "https://www.oasissenioradvisors.com/community-guide/virginia/stafford/viva-at-stafford/"
-- "personalized care and attentive staff"
-- "clean nurturing home-like environment"
-- "food tailored / praised"
-- "https://seniors.fyi/assisted-living/virginia/woodbridge"
-- "https://www.senioradvisor.com/warrenton-va/assisted-living"
-- "https://www.oasissenioradvisors.com/community-guide/virginia/stafford/viva-at-stafford/"
 review_google_rating: 5.0
 review_google_count: 20
 review_yelp_rating: null
 review_yelp_count: null
 review_overall_sentiment: "positive"
-review_red_flags:[]
+review_red_flags: []
 review_pros:
 - "personalized care and attentive staff"
 - "clean nurturing home-like environment"

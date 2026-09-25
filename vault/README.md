@@ -8,7 +8,7 @@ That is the folder that contains `.obsidian/` plus `locations/`, `_queues/`, and
 
 After opening `vault/`, you should see `locations/` with one folder per facility (`index.md` inside each).
 
-**Filter locations:** open `Locations overview.base` (see `Locations overview README.md`).
+**Filter locations:** open `Locations overview.base` (see `Locations overview README.md`). Dataview fallback: `Locations overview.md`.
 
 ## Conventions
 

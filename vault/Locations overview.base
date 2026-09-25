@@ -1,11 +1,12 @@
 filters:
   and:
-    - file.inFolder("locations")
-    - 'file.name == "index.md"'
+    - 'file.inFolder("locations")'
+    - 'file.path.endsWith("/index.md")'
     - 'example != true'
 
 formulas:
   under_5k: 'if(all_in_estimate_monthly, all_in_estimate_monthly <= 5000, false)'
+  under_6k: 'if(all_in_estimate_monthly, all_in_estimate_monthly <= 6000, false)'
   price_label: 'if(all_in_estimate_monthly, "$" + all_in_estimate_monthly.toString() + "/mo", "unknown")'
 
 properties:
@@ -23,12 +24,22 @@ properties:
     displayName: Miles
   google_rating_seed:
     displayName: Google ★
+  review_google_rating:
+    displayName: Review Google ★
+  review_material_red_flags:
+    displayName: Material red flags
+  review_overall_sentiment:
+    displayName: Sentiment
+  price_confidence:
+    displayName: Price confidence
   status:
     displayName: Status
   phone_seed:
     displayName: Phone
   formula.under_5k:
     displayName: Under $5k
+  formula.under_6k:
+    displayName: Under $6k
   formula.price_label:
     displayName: Price
 
@@ -40,9 +51,9 @@ views:
       - uid
       - all_in_estimate_monthly
       - room_type
-      - sub_5k_private_start
       - distance_miles_seed
       - google_rating_seed
+      - review_material_red_flags
       - status
       - phone_seed
     sort:
@@ -61,6 +72,25 @@ views:
       - room_type
       - distance_miles_seed
       - google_rating_seed
+      - review_material_red_flags
+      - uid
+    sort:
+      - property: all_in_estimate_monthly
+        direction: ASC
+
+  - type: table
+    name: Under $6k
+    filters:
+      and:
+        - 'all_in_estimate_monthly != null'
+        - 'all_in_estimate_monthly <= 6000'
+    order:
+      - name
+      - all_in_estimate_monthly
+      - room_type
+      - distance_miles_seed
+      - review_material_red_flags
+      - google_rating_seed
       - uid
     sort:
       - property: all_in_estimate_monthly
@@ -76,20 +106,42 @@ views:
       - name
       - uid
       - price_range_seed
+      - price_confidence
       - status
       - distance_miles_seed
+    sort:
+      - property: name
+        direction: ASC
 
   - type: table
     name: By room type
+    groupBy:
+      property: room_type
+      direction: ASC
     order:
       - room_type
       - name
       - all_in_estimate_monthly
       - distance_miles_seed
       - uid
-    groupBy:
-      property: room_type
-      direction: ASC
+    sort:
+      - property: all_in_estimate_monthly
+        direction: ASC
+
+  - type: table
+    name: Material red flags
+    filters:
+      and:
+        - 'file.hasProperty("review_material_red_flags")'
+        - 'review_material_red_flags == true'
+    order:
+      - name
+      - all_in_estimate_monthly
+      - room_type
+      - review_overall_sentiment
+      - review_google_rating
+      - distance_miles_seed
+      - uid
     sort:
       - property: all_in_estimate_monthly
         direction: ASC
@@ -116,6 +168,7 @@ views:
       - all_in_estimate_monthly
       - distance_miles_seed
       - google_rating_seed
+      - review_material_red_flags
       - uid
     sort:
       - property: all_in_estimate_monthly
@@ -131,6 +184,7 @@ views:
       - all_in_estimate_monthly
       - distance_miles_seed
       - google_rating_seed
+      - review_material_red_flags
       - uid
     sort:
       - property: all_in_estimate_monthly

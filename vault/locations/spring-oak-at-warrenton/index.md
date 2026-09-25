@@ -18,18 +18,6 @@ price_notes: "AL from $5,875/mo; studios and 1BRs available; meals included. Con
 phone_seed: "540-347-6000"
 email_seed: "warrenton@springoakliving.com"
 contact_source_seed: "https://www.springoakliving.com/contact"
-- "older building / limited activities noted by some tour-style reviews"
-- "loving caring caregivers / home-like feel"
-- "peace of mind for several family reviews"
-- "https://www.senioradvisor.com/local/amerisist-of-warrenton-warrenton-va"
-- "https://health.usnews.com/best-senior-living/spring-oak-warrenton-10568"
-- "https://www.aplaceformom.com/community/spring-oak-at-warrenton-97943"
-- "older building / limited activities noted by some tour-style reviews"
-- "loving caring caregivers / home-like feel"
-- "peace of mind for several family reviews"
-- "https://www.senioradvisor.com/local/amerisist-of-warrenton-warrenton-va"
-- "https://health.usnews.com/best-senior-living/spring-oak-warrenton-10568"
-- "https://www.aplaceformom.com/community/spring-oak-at-warrenton-97943"
 review_google_rating: null
 review_google_count: null
 review_yelp_rating: null

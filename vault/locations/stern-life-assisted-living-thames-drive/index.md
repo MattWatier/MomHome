@@ -18,26 +18,12 @@ price_notes: "Private room ~$5,000–$6,500/mo; higher care +$1,000. Includes me
 phone_seed: "240-610-3769"
 email_seed: "enquiries@sternlifeassistedliving.com"
 contact_source_seed: "https://sternlifeassistedliving.com/"
-- "compassionate named caregivers in testimonials"
-- "clean accessible neighborhood home"
-- "24/7 med tech support cited by families"
-- "https://sternlifeassistedliving.com/"
-- "https://seniors.fyi/assisted-living/maryland/frederick/stern-life-84575"
-- "https://www.seniorly.com/assisted-living/maryland/frederick/stern-life"
-- "https://www.oasissenioradvisors.com/community-guide/maryland/frederick/stern-life-assisted-living-2/"
-- "compassionate named caregivers in testimonials"
-- "clean accessible neighborhood home"
-- "24/7 med tech support cited by families"
-- "https://sternlifeassistedliving.com/"
-- "https://seniors.fyi/assisted-living/maryland/frederick/stern-life-84575"
-- "https://www.seniorly.com/assisted-living/maryland/frederick/stern-life"
-- "https://www.oasissenioradvisors.com/community-guide/maryland/frederick/stern-life-assisted-living-2/"
 review_google_rating: 5.0
 review_google_count: null
 review_yelp_rating: null
 review_yelp_count: null
 review_overall_sentiment: "thin"
-review_red_flags:[]
+review_red_flags: []
 review_pros:
 - "compassionate named caregivers in testimonials"
 - "clean accessible neighborhood home"

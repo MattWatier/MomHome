@@ -18,20 +18,6 @@ price_notes: "Official: studio $3,300+; 1BR $3,500+. Selected 1BR (under $5k). M
 phone_seed: "571-895-3500"
 email_seed: "rha@fairfaxcounty.gov"
 contact_source_seed: "https://www.fcrha.org/properties/braddock-glen-assisted-living/1"
-- "helpful / welcoming staff"
-- "reasonable cost relative to care for some families"
-- "clean transition support"
-- "https://www.mylivingchoice.com/property/braddock-glen"
-- "https://ultimateseniorresource.com/states/virginia/fairfax/braddock-glen"
-- "https://health.usnews.com/best-senior-living/braddock-glen-1255"
-- "https://www.aplaceformom.com/community/sunrise-braddock-glen-141843"
-- "helpful / welcoming staff"
-- "reasonable cost relative to care for some families"
-- "clean transition support"
-- "https://www.mylivingchoice.com/property/braddock-glen"
-- "https://ultimateseniorresource.com/states/virginia/fairfax/braddock-glen"
-- "https://health.usnews.com/best-senior-living/braddock-glen-1255"
-- "https://www.aplaceformom.com/community/sunrise-braddock-glen-141843"
 review_google_rating: 4.2
 review_google_count: 14
 review_yelp_rating: 1.0
