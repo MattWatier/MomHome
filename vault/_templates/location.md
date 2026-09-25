@@ -4,31 +4,31 @@ name: ""
 slug: ""
 address: ""
 website: ""
-google_rating_seed: null
+google_rating_seed:
 price_range_seed: ""
-distance_miles_seed: null
-sub_5k_private_start: null
-all_in_estimate_monthly: null
-room_type: null
-room_rate_monthly: null
-price_source_url: null
-price_as_of: null
-price_confidence: null
-price_notes: null
-contact_person_seed: null
-phone_seed: null
-email_seed: null
-contact_source_seed: null
-web_form_link_seed: null
-quoted_monthly_price_seed: null
-medication_fee_seed: null
-waitlist_seed: null
-notes_seed: null
-published_info_source_seed: null
+distance_miles_seed:
+sub_5k_private_start:
+all_in_estimate_monthly:
+room_type:
+room_rate_monthly:
+price_source_url:
+price_as_of:
+price_confidence:
+price_notes:
+contact_person_seed:
+phone_seed:
+email_seed:
+contact_source_seed:
+web_form_link_seed:
+quoted_monthly_price_seed:
+medication_fee_seed:
+waitlist_seed:
+notes_seed:
+published_info_source_seed:
 status: stub
-want_to_review_date: null
-visit_date: null
-follow_up_date: null
+want_to_review_date:
+visit_date:
+follow_up_date:
 example: false
 ---
 
