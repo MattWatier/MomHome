@@ -26,6 +26,15 @@ layout: default
       {% if page.price_confidence %}
       <span class="chip">Price confidence: {{ page.price_confidence }}</span>
       {% endif %}
+      {% if page.visit_date %}
+      <span class="chip">Visit {{ page.visit_date }}</span>
+      {% endif %}
+      {% if page.want_to_review_date %}
+      <span class="chip">Review queue {{ page.want_to_review_date }}</span>
+      {% endif %}
+      {% if page.follow_up_date %}
+      <span class="chip">Follow-up {{ page.follow_up_date }}</span>
+      {% endif %}
     </div>
     <div class="location-page__actions">
       {% if page.website %}

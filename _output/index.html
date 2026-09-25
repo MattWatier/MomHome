@@ -57,8 +57,11 @@ description: Compare assisted living options near Vienna Metro with all-in month
     <p class="filter-status" id="filter-status" aria-live="polite"></p>
 
     <div class="loc-grid" id="loc-grid">
-      {% assign sorted = site.locations | sort: "all_in_estimate_monthly" %}
-      {% for location in sorted %}
+      {% comment %}
+        Do not Liquid-sort by all_in_estimate_monthly — null prices (YAML null)
+        make `sort` raise "Cannot sort a null object". Client JS reorders on load.
+      {% endcomment %}
+      {% for location in site.locations %}
         {% include location-card.html location=location %}
       {% endfor %}
     </div>
