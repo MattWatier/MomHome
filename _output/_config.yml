@@ -15,11 +15,22 @@ defaults:
     values:
       layout: location
 
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-  - vendor
+collections:
+  locations:
+    output: true
+    permalink: /locations/:slug/
+
+defaults:
+- scope:
+    path: ""
+    type: locations
+  values:
+    layout: location
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
 
 sass:
   style: compressed
